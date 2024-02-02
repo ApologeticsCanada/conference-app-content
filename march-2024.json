@@ -49,6 +49,11 @@
         "startTime": "07:30",
         "endTime": "08:00",
         "title": "Doors open"
+      },
+      {
+        "startTime": "08:00",
+        "endTime": "08:30",
+        "title": "Conference begins"
       }
     ]
   },
