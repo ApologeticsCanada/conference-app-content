@@ -1,0 +1,103 @@
+{
+  "home": {
+    "logoUrl": "https://apologeticscanada.com/wp-content/uploads/2023/06/ACC23-SK-Bible-Logo.png"
+  },
+  "schedule": {
+    "2024-02-29": [
+      {
+        "startTime": "19:00",
+        "endTime": "19:00",
+        "content": "<b><i>Premiere of Can I Trust the Bible</i></b> at Columbia Bible College (2940 Clearbrook Road, Abbotsford, BC)",
+        "action": {
+          "url": "https://bible.apologeticscanada.com/"
+        }
+      }
+    ],
+    "2024-03-01": [
+      {
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "title": "Registration begins. Ministry booths open."
+      },
+      {
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "title": "Conference begins"
+      },
+      {
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "title": "General Session 1"
+      },
+      {
+        "endTime": "21:30",
+        "content": "<b><i>Is the Bible Good?</i></b> - Mark S. Francois",
+        "action": {
+          "sessionId": "bible-good"
+        }
+      },
+      {
+        "endTime": "21:30",
+        "html": "<b><i>Is the Bible True?</i></b> - Wesley Huff",
+        "action": {
+          "sessionId": "bible-true"
+        }
+      }
+    ],
+    "2024-03-02": [
+      {
+        "startTime": "07:30",
+        "endTime": "08:00",
+        "title": "Doors open"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "id": "mark-f",
+      "firstName": "Mark S.",
+      "lastName": "Francois",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-mark-francois.png",
+      "title": "Assistant Professor of Old Testament and Semitic Languages",
+      "association": "Colorado Christian University",
+      "associationUrl": "https://www.ccu.edu/",
+      "bio": "<p>Mark Francois, PhD, has recently joined the faculty of the School of Theology at the Colorado Christian University after serving twelve years as a pastor in...</p>",
+      "sessions": [
+        {
+          "id": "bible-good",
+          "category": "plenary",
+          "locationId": "Worship Centre",
+          "title": "Is the Bible Good?",
+          "description": "<p>Over the years, the questions people are focusing on have shifted. Regardless of whether the Bible is true, some people refuse to accept its teachings because of what they perceive to be the barbarism contained therein. Didn't Lot's daughters get their father drunk in order to have incestuous sex? Didn't God command raped women to marry their rapist? Wasn't Israel commanded to kill women and children to make room for them as a nation?</p>"
+        },
+        {
+          "id": "interpreting-the-bible",
+          "category": "breakout",
+          "locationId": "Lower Court",
+          "title": "Intro to Interpreting the Bible",
+          "subtitle": "Why the Bible Can Be Difficult to Interpret",
+          "description": "<p>On one level, the Bible is easy to understand. Christians all over the world with no training in biblical interpretation grow in their faith by simply reading the Bible. On another level, the Bible is very difficult to understand. Readers, both Christian and non-Christian, traditionalist and progressive, often misinterpret, misapply, or simply miss the point of many passages in the Bible. We will look at seven of the most common barriers that prevent us from interpreting the Bible well–and learn how to become better interprets along the way.</p>"
+        }
+      ]
+    },
+    {
+      "id": "wesley-h",
+      "firstName": "Wesley",
+      "lastName": "Huff",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-wesley-huff.png",
+      "title": "Central Canada Director",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://apologeticscanada.com/",
+      "bio": "<p>Wesley Huff was born in Multan, Pakistan and spent a portion of his childhood in the Middle East. After being diagnosed with a rare neurological condition at the age of eleven that left him paralyzed from the waist down Wes experienced a miraculous recovery that the doctors themselves said they had no medical...</p>",
+      "sessions": [
+        {
+          "id": "bible-true",
+          "category": "plenary",
+          "locationId": "Worship Centre",
+          "title": "Is the Bible True?",
+          "description": "<p>The Bible, while it is believed by Christians to be more than a collection of ancient documents, is certainly no less than that. Knowing how old it is, what confidence do we have that it's been preserved correctly? Didn't the Church choose what books to put in the Bible and what books to leave out, at the Council of Nicaea (325 AD), all for political and theological purposes? Even if we can establish that it's been preserved, what good reason do we have to believe that the authors of the books of the Bible were telling the truth?</p>"
+        }
+      ]
+    }
+  ]
+}
