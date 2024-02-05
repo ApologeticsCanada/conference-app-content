@@ -121,5 +121,70 @@
         }
       ]
     }
+  ],
+  "additionalInfo": [
+    {
+      "heading": "Message from the President",
+      "body": "<h1>The Future of Apologetics Canada</h1><p>The theme of the conference this year is...</p>"
+    },
+    {
+      "heading": "WiFi Access",
+      "body": "<h1>WiFi Access</h1><p>Select ACC Public WiFi to connect.</p>"
+    },
+    {
+      "heading": "Got Questions?",
+      "body": "<h1>Got Questions?</h1><p>Send in your questions for...</p>"
+    },
+    {
+      "heading": "Apologetics Canada Podcast",
+      "body": "<h1>Apologetics Canada Podcast</h1><p>Did you know? Apologetics Canada has a weekly podcast program where Andy, Steve, and Terry dialogue on current issues and cultural trends. Search for Apologetics Canada on your podcast app today!</p>",
+      "action": {
+        "label": "AC Podcast",
+        "icon": null,
+        "url": "https://apologeticscanada.com/podcasts/"
+      }
+    },
+    {
+      "heading": "Prayer",
+      "body": "<h1>Prayer</h1><p>We have a prayer room located in the northwest corner of the foyer. If at any time you need prayer, one of our volunteers will be there to pray with you.</p>"
+    },
+    {
+      "heading": "Donations",
+      "body": "<h1>Donations</h1><p>Apologetics Canada is a non-profit organization that depends on the generous support of people like you. If you appreciate our ministry, please prayerfully consider supporting us financially.</p>",
+      "action": {
+        "label": "Click to Donate",
+        "icon": "money",
+        "url": "https://www.apologeticscanada.com/donate/"
+      }
+    },
+    {
+      "heading": "Apologetics Canada (AC) Table",
+      "body": "<h1>Apologetics Canada (AC) Table</h1><p>Come see us at the AC Table. We’d love to talk to you about what we've been working on. Or perhaps you are interested in getting involved as a volunteer, ministry partner or financial supporter. We have volunteers that read, research, and edit for us. We are also looking for more partnering churches as ministry partners in new cities across the Lower Mainland, BC, and even Canada. Or perhaps you are interested in joining our financial support team because you see the value of this ministry or you have personally been impacted by it. Come talk to us.</p>"
+    },
+    {
+      "heading": "Pre-order Conference Recordings",
+      "body": "<h1>Pre-order Conference Recordings</h1><p>All sessions from the conference are being recorded. You can pre-order the recordings as a digital download or on a USB FlashDrive at the Apologetics Canada book table in the foyer. The recording package contains videos of the Main Sessions and audio files of the Breakout Sessions.</p>",
+      "action": {
+        "label": "AC Online Store",
+        "icon": "shopping-cart",
+        "url": "https://store.apologeticscanada.com/products/pre-order-apologetics-canada-conference-2020-digital-recording"
+      }
+    },
+    {
+      "heading": "Book Launch Team",
+      "body": "<h1>Book Launch Team</h1><p>We have a new book launching September 1st! Andy Steiger and Sheri Hiebert have been working hard on <i>Reclaimed: How Jesus Restores our Humanity in a Dehumanized World</i>. This book takes a unique approach to explaining and sharing the gospel through our humanity. Does this topic interest you? If so, we want to invite you to apply for our book launch team. Those that are accepted will receive a free advanced copy of the book from Zondervan. As well, Andy will be providing teaching from the book for this group. To signup text your name and email to 604-200-9788 or go talk to Sheri at the Apologetics Canada Table.</p>"
+    },
+    {
+      "heading": "Pre-Order Reclaimed Book",
+      "body": "<h1>Pre-Order Reclaimed Book</h1><p>We live in an era of polarizing political and religious disagreement. Despite the lip service our society pays to tolerance, it's becoming more and more difficult to look past our differences and to recognize our common humanity. The way that we treat each other is a direct result of how we see one another, and our culture is full of warning signs that we aren't seeing each other correctly.</p><p><i>Reclaimed</i> points to Jesus as the basis for rediscovering our common ground and our shared humanity. In Jesus we find not only that humans are unique, valuable, and bearers of rights and responsibilities, but also that our dehumanizing tendencies--our worst inclinations toward inhumanity--can be redeemed and restored. Jesus enables us to be fully human, and it's in him that we rediscover the kind of relationships and society for which so many people today are longing.</p><p>To pre-purchase <i>Reclaimed</i> visit: <a href='http://www.reclaimedbook.info'>www.reclaimedbook.info</a></p><p>To get info on joining the <i>Reclaimed</i> book launch team text your name and email to 604-259-5088 or go talk to Sheri at the Apologetics Canada Table.</p>"
+    },
+    {
+      "heading": "Everyday Apologetics Book",
+      "body": "<h1>Everyday Apologetics Book:</h1><h2><i>Answering Common Objections to the Christian Faith</i></h2><p>In an era where access to objections and arguments is easier than ever, everyday Christians need to be prepared with strong, clear responses, In <i>Everyday Apologetics</i>, readers will be equipped with answers to some of Christianity's most difficult objections: Why is the God of the Old Testament so violent? Are science and faith in fundemental conflict with one another? The contributors take up these questions, and more, helping Christians be strengthened in their faith, while also providing powerful answers to opponents of the Christian faith.</p><p>With a clear, inviting, winsome style, <i>Everyday Apologetics</i> is for everyone: Christians, skeptics, seekers, and everyone in between.</p>"
+    },
+    {
+      "heading": "What Am I Worth? Book",
+      "body": "<h1>What Am I Worth? Book:</h1><p>Matlynn struggles to find her place in the circus, leaving her feeling worthless. Join Matlynn, her elephant Dudley, and The Amazing Circus Family as she discovers her incredible worth in God.</p><p><i>What Am I Worth?</i> explores the value of human life. In a culture that is sending all kinds of confusing messages to our children about their worth, we need to explain the truth found in scripture about the image they are created in and how priceless they are. This book is designed to engage and capture your child's attention while teaching them biblical truths. For more conversation starters check out <i>The Human Project for Kids</i> podcast at <a href='https://kids.apologeticscanada.com/'>thehumanprojectforkids.ca</a>.</p>"
+    }
   ]
 }
