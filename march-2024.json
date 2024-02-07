@@ -16,18 +16,18 @@
     "2024-03-01": [
       {
         "startTime": "17:30",
-        "endTime": "18:00",
+        "endTime": "18:30",
         "title": "Registration begins. Ministry booths open."
       },
       {
-        "startTime": "18:00",
+        "startTime": "18:30",
         "endTime": "19:00",
-        "title": "Conference begins"
+        "title": "Doors open"
       },
       {
         "startTime": "19:00",
         "endTime": "21:00",
-        "title": "General Session 1"
+        "title": "Main Session 1"
       },
       {
         "endTime": "21:00",
@@ -42,6 +42,21 @@
         "action": {
           "sessionId": "bible-true"
         }
+      },
+      {
+        "startTime": "21:00",
+        "endTime": "21:20",
+        "title": "Break"
+      },
+      {
+        "startTime": "21:20",
+        "endTime": "22:00",
+        "title": "Panel Q&A with Mark and Wesley (moderated by Andy Steiger)"
+      },
+      {
+        "startTime": "22:00",
+        "endTime": "22:30",
+        "title": "Conference ends for the night"
       }
     ],
     "2024-03-02": [
@@ -53,24 +68,63 @@
       {
         "startTime": "08:00",
         "endTime": "10:15",
-        "title": "General Session 2"
+        "title": "Main Session 2"
       },
       {
         "endTime": "10:15",
-        "content": "<b><i>How Did We Get the Bible?</i></b> - Dr. John Meade"
+        "content": "<b><i>How Did We Get the Bible?</i></b> - Dr. John Meade",
+        "action": {
+          "sessionId": "get-bible"
+        }
       },
       {
         "endTime": "10:15",
-        "content": "<b><i>Why are There So Many English Bibles?</i></b> - Dr. Mark Ward"
+        "content": "<b><i>Why are There So Many English Bibles?</i></b> - Dr. Mark Ward",
+        "action": {
+          "sessionId": "english-bibles"
+        }
       },
       {
         "endTime": "10:15",
-        "content": "Q&A (Moderated by Wesley Huff"
+        "content": "Panel Q&A with John and Mark (Moderated by Wesley Huff)"
       },
       {
         "startTime": "10:15",
         "endTime": "10:30",
         "title": "Break"
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "11:10",
+        "title": "Breakout Session 1"
+      },
+      {
+        "startTime": "11:10",
+        "endTime": "12:25",
+        "title": "Lunch"
+      },
+      {
+        "startTime": "12:25",
+        "endTime": "13:05",
+        "title": "Breakout Session 2"
+      },
+      {
+        "startTime": "13:05",
+        "endTime": "13:20",
+        "title": "Break"
+      },
+      {
+        "startTime": "13:20",
+        "endTime": "14:00",
+        "content": "<b><i>Getting High with the Most High?: From Psychedelics to the Bible</i></b> - Ashley Lande (in dialogue with Steve Kim)",
+        "action": {
+          "sessionId": "getting-high"
+        }
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:30",
+        "title": "Conference ends"
       }
     ]
   },
@@ -87,7 +141,7 @@
       "sessions": [
         {
           "id": "bible-good",
-          "category": "plenary",
+          "category": "main",
           "locationId": "Worship Centre",
           "title": "Is the Bible Good?",
           "description": "<p>Over the years, the questions people are focusing on have shifted. Regardless of whether the Bible is true, some people refuse to accept its teachings because of what they perceive to be the barbarism contained therein. Didn't Lot's daughters get their father drunk in order to have incestuous sex? Didn't God command raped women to marry their rapist? Wasn't Israel commanded to kill women and children to make room for them as a nation?</p>"
@@ -95,7 +149,7 @@
         {
           "id": "interpreting-the-bible",
           "category": "breakout",
-          "locationId": "Lower Court",
+          "locationId": "West Court",
           "title": "Intro to Interpreting the Bible",
           "subtitle": "Why the Bible Can Be Difficult to Interpret",
           "description": "<p>On one level, the Bible is easy to understand. Christians all over the world with no training in biblical interpretation grow in their faith by simply reading the Bible. On another level, the Bible is very difficult to understand. Readers, both Christian and non-Christian, traditionalist and progressive, often misinterpret, misapply, or simply miss the point of many passages in the Bible. We will look at seven of the most common barriers that prevent us from interpreting the Bible well–and learn how to become better interprets along the way.</p>"
@@ -114,11 +168,284 @@
       "sessions": [
         {
           "id": "bible-true",
-          "category": "plenary",
+          "category": "main",
           "locationId": "Worship Centre",
           "title": "Is the Bible True?",
           "description": "<p>The Bible, while it is believed by Christians to be more than a collection of ancient documents, is certainly no less than that. Knowing how old it is, what confidence do we have that it's been preserved correctly? Didn't the Church choose what books to put in the Bible and what books to leave out, at the Council of Nicaea (325 AD), all for political and theological purposes? Even if we can establish that it's been preserved, what good reason do we have to believe that the authors of the books of the Bible were telling the truth?</p>"
         }
+      ]
+    },
+    {
+      "id": "john-m",
+      "firstName": "John",
+      "lastName": "Meade",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-john-meade.png",
+      "title": "Professor of Old Testament",
+      "association": "Phoenix Seminary",
+      "associationUrl": "https://ps.edu/",
+      "bio": "<p>Dr. John Meade joined the Phoenix Seminary Faculty in 2012. He teaches courses in Hebrew Language, Old Testament Literature, Greek Language and Literature, and Biblical Theology. His research interests include Origen’s Hexapla, the Septuagint, Textual Criticism of the Hebrew Bible, the Canon of Scripture, and Biblical Theology. He also presents papers at scholarly meetings such as the Evangelical Theological Society, the International Organization for Septuagint and Cognate Studies, and the Society of Biblical Literature.</p> <p>He and his wife have four kids and attend Camelback Bible Church. When he is not researching, he enjoys adventures with his family in the National Parks and on hikes in northern Arizona.</p>",
+      "sessions": [
+        {
+          "id": "get-bible",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "How Did We Get the Bible?",
+          "description": "<p>The Bible you hold in your hand has a long history—almost 2,000 years of it, in fact. Most people know what a Bible looks like in its contemporary form, but have little to no idea about how it came together. </p>"
+        },
+        {
+          "id": "all-its-worth",
+          "category": "breakout",
+          "locationId": "Atrium",
+          "title": "Reading the Bible for All Its Worth by Consulting Footnotes",
+          "description": "<p>In this session, we will learn to read the most out of our Bibles by learning what the footnotes and different translations tell us. Dr. Meade will introduce attendees to the differences in Bible manuscripts signaled in footnotes and different English translations and to the methods scholars and translators use to make decisions between these different readings. The goal of the presentation is to make one a more informed Bible reader by observing the relevant evidence contained within the English Bible tradition.</p>"
+        }
+      ]
+    },
+    {
+      "id": "mark-w",
+      "firstName": "Mark",
+      "lastName": "Ward",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-mark-ward.png",
+      "title": "Editor in Chief",
+      "association": "Bible Study Magazine",
+      "associationUrl": "https://www.logos.com/grow/bible-study-magazine/",
+      "bio": "<p>Mark Ward (PhD, Bob Jones University) is the Editor in Chief of Bible Study Magazine, a product of Faithlife, makers of Logos Bible Software. He has written multiple Bible textbooks for BJU Press, including Biblical Worldview: Creation, Fall, Redemption (2015) for high schoolers and Basics for a Biblical Worldview (2021) for middle-schoolers. Mark serves in his local church, is an active YouTuber and blogger (byfaithweunderstand.com), and is the author of <em>Authorized: The Use and Misuse of the King James Bible</em>(Lexham Press, 2018). <em>Authorized</em> is also an infotainment documentary available on FaithlifeTV.</p><p>He resides with his wife and three children in Mount Vernon, Washington.</p>",
+      "sessions": [
+        {
+          "id": "english-bibles",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Why are There So Many English Bible?",
+          "description": "<p>We have an embarrassment of riches in English Bible translation, but many Christians fail to take advantage of these riches. They are confused by the multiplicity of options in the "Christian Bibles" category on Amazon. They don't know what to do when they encounter differences among Bible translations—so they don't. They stick with just one. But there are many Bibles for good reasons, and a few basic concepts will help you profit from them in your Bible study.</p>"
+        },
+        {
+          "id": "kjv-words",
+          "category": "breakout",
+          "locationId": "Room 217",
+          "title": "KJV Words You Don't Know You Don't Know",
+          "subtitle": "A Gracious Answer to KJV-Onlyism",
+          "description": "<p>The KJV contains many dead words, words we all know we don't know—besom, chambering, amerce. But it also contains words you probably don't know you don't know, called "false friends": remove, halt, commend. If you have a KJV-Only brother-in-law, discussing translation instead of text is the way to go. You can build on the common ground of your mutual desire to understand God's word.</p>"
+        }
+      ]
+    },
+    {
+      "id": "ashley-l",
+      "firstName": "Ashley",
+      "lastName": "Lande",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-ashley-lande-and-steve.png",
+      "title": "Artist, Author",
+      "association": "ashleylande.com",
+      "associationUrl": "https://www.ashleylande.com/",
+      "bio": "<p>Ashley is an artist and writer. At one point in her life, she was heavily into psychedelics and searching for something real. It was at the age of 22, high on acid and utterly lost that she encountered someone real. Jesus saved Ashley from herself. Encountering Jesus as the Way, the Truth, and the Life, she subsequently abandoned all drugs and embraced Christianity. The full story is detailed in her contribution to the new book, Coming to Faith through Dawkins: 12 Essays on the Pathway from New Atheism to Christianity.</p><p>Ashley is a lover of books, especially thick adventure tomes. She greatly enjoys being married to her husband and homeschooling her two children.</p>",
+      "sessions": [
+        {
+          "id": "getting-high",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Getting High with the Most High?",
+          "subtitle": "From Psychedelics to the Bible (in dialogue with Steve Kim)",
+          "description": "In an effort to reach higher levels of reality, or the Most High, psychedelic drug use is becoming more and more prevalent. From the Joe Rogan Podcast to the halls of Academia, hallucinogens are being promoted and popularized. Instead of the Bible, these consciousness-altering drugs are being heavily endorsed in the search for the real and the truth.</p><p>Ashley was no exception to this trend. She was heavy into psychedelics until she gave her life to Jesus and found reality and truth in Him. Now she has completely abandoned hallucinogens and encourages people to turn to Jesus in their search for truth. What happened in between? Join Ashley in conversation with Steve Kim as they discuss the growing drug culture, and how Christians might navigate it.</p>"
+        },
+        {
+          "id": "nothing-new",
+          "category": "breakout",
+          "locationId": "Lower Court",
+          "title": "Nothing New Under the Sun",
+          "subtitle": "The Reincarnation of the New Age in Psychedelic Culture",
+          "description": "<p>The resurgence of psychedelic drug use has spawned a rebirth of numerous strains of New Age belief systems. Psychedelic culture tends to embrace a grab bag of philosophies derived from Eastern mysticism, self-actualization, neo-paganism and pantheism, and is characterized by its openness to nearly everything EXCEPT Christianity.</p><p>While much of the belief systems are repackaged versions of ancient heresies and ideas popularized by the psychedelic movement of the sixties, the disproportional representation of the tech industry in psychedelic culture adds the novel dimension of tech- and AI-driven transhumanism.</p><p>Join Ashley Lande and Steve Kim in conversation over what has changed, what remains the same, and how Christians might creatively and confidently confront the seductive yet specious patterns of thought emerging from psychedelic culture with the truth of Jesus Christ.</p>"
+        }
+      ]
+    },
+    {
+      "id": "quentin-g",
+      "firstName": "Quentin",
+      "lastName": "Genuis",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-quentin-genuis.png",
+      "title": "Physician, Bioethicist",
+      "association": "St. Paul's Hospital",
+      "bio": "<p>Dr. Quentin Genuis is an Emergency Physician at St. Paul’s Hospital in Vancouver, and the Physician Ethicist for Providence Health Care. He holds a Master of Letters from the University of St. Andrews. He teaches in academic, clinical, professional, and lay-settings on a variety of issues related to bioethics. His research and writing interests include the autonomy debates, end-of-life care, compassion, human dignity, addictions, and theological anthropology. He enjoys drinking Scottish whiskey, reading Dostoevsky, and slacklining. He loves his wife, Kalyn, and their four children: Lila, Rowan, Elias, and Junia.</p>",
+      "sessions": [
+        {
+          "id": "medical-ethics",
+          "category": "breakout",
+          "locationId": "Worship Centre",
+          "title": "Medical Ethics and the Life of the Church",
+          "description": "<p>What features define human life? How do individuals and communities understand and withstand suffering and pain? What is good dying? In our time, these essential human questions are often viewed primarily as bioethics issues. In reality, these are not exclusively medical or bioethical enquiries. Rather, they are questions that all human individuals and societies ultimately wrestle with.</p><p>This talk will outline some of the ways that our Christian faith provides rich 'good-news' answers to these complicated and challenging questions, with particular focus on the conversations going on in our own society around issues related to bioethics.</p>"
+        },
+      ]
+    },
+    {
+      "id": "kyla-g",
+      "firstName": "Kyla",
+      "lastName": "Gillespie",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-kyla-gillespie-and-andy.png",
+      "title": "Speaker, Teacher",
+      "association": "kylagillesphie.com",
+      "associationUrl": "https://kylagillespie.com/",
+      "bio": "<p>Kyla Gillespie was born in BC, Canada. Being raised in a Christian home, she came to faith in Jesus Christ at a young age. As early as the age of five, she began to experience gender dysphoria. In her teens, wrestling with both same-sex attraction and gender dysphoria, life became difficult. She spent her late teens and adult years as a Professional Women's Hockey Player. After a lifelong battle with Gender Identity, in 2011 she fully transitioned from female to male. While living as a male for six years, God revealed himself to her in a powerful way. Since then she has fully de-transitioned and is now living out her God-given gender and sexuality as a woman in pursuit of Jesus.</p><p>Kyla has a passion for teaching, speaking and sharing the Gospel. She travels within Canada and the USA and would love to travel the world sharing the Good News of Jesus Christ. Kyla has been working on writing blogs, and podcasts. She has been a  contributor to The Center for Faith, Sexuality & Gender in film and Conferences.</p><p>Her deep desire is to make Jesus known and help other Christians be better equipped to love the LGBTQ+ community. Kyla is an active and involved member of her local Church, Gospel City, in Port Coquitlam, BC, Canada.</p>",
+      "sessions": [
+        {
+          "id": "renewed-transformed",
+          "category": "breakout",
+          "locationId": "Centre Court",
+          "title": "Renewed and Transformed",
+          "subtitle": "Jesus, Gender, and the Unforeseen Journey to Peace (in dialogue with Andy Steiger)",
+          "description": "<p>When someone is struggling with their gender, how do you help? Kyla was one such person. Her childhood trauma and the brokenness in her relationships left her deeply wounded. She felt fractured inside, questioning her identity. After many turns and twists, however, she found wholeness in the person of Jesus Christ. What happened in between, and what can her experience tell us about how we might walk alongside others who wrestle with who they are? Join Kyla Gillespie and Andy Steiger as they dialogue about Kyla's journey to peace in Jesus.</p>"
+        },
+      ]
+    },
+    {
+      "id": "michael-h",
+      "firstName": "Michael",
+      "lastName": "Horner",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-michael-horner.png",
+      "title": "Christian Apologist",
+      "association": "Power to Change",
+      "associationUrl": "https://p2c.com/know/",
+      "bio": "<p>Michael is passionate about learning and teaching. He has always had a strong interest in discovering how the world around him works. Michael holds degrees in physics and computer science. He is currently pursuing a PhD, investigating an area of physics known as quantum gravity.</p><p>The intersection between faith and science is what drew Michael to apologetics. He hopes that through apologetics the Church will have thought provoking conversations about science and how we view the world.</p><p>When Michael is not studying he enjoys working on computers and electronics, getting out into the backcountry for hiking and camping, and photographing the night sky.</p>",
+      "sessions": [
+        {
+          "id": "human-flourishing",
+          "category": "breakout",
+          "locationId": "Room 223",
+          "title": "Is Christianity Harmful to Human Flourishing?",
+          "description": "<p>Despite serious blemishes, history reveals that Christianity is a life-giving, transformational ideology. How can we maintain our passion to be faithful ambassadors of Jesus’ kingdom, and persuade others that Jesus’ worldview and teaching is not the problem but is positively transformational personally and culturally?</p>"
+        },
+      ]
+    },
+    {
+      "id": "sid-k",
+      "firstName": "Sid",
+      "lastName": "Koop",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-sid-koop.png",
+      "title": "Executive Director",
+      "association": "Youth Worker Community",
+      "associationUrl": "https://www.youthworker.community/",
+      "bio": "<p>From camp speaker to local youth pastor to youth ministry professor, Sid draws from over 25 years of youth ministry experience. Sid Koop is the Executive Director of the Youth Worker Community where he and his team are dedicated to equipping, empowering, and relationally supporting youth workers to help the next generation know Jesus. YWC is shaping ministry to adolescents in Canada through Digital Resources, The Coalition, Youth Worker Training Events, and Youth Ministry Coaching, and Consulting, equipping and encouraging thousands of youth workers each year. Currently, his 'most important' contract is working for his wife at Green Bay Bible Camp as the Director of Leadership Development and Discipleship.</p>",
+      "sessions": [
+        {
+          "id": "decision",
+          "category": "breakout",
+          "locationId": "Room B06",
+          "title": "More Than Just a Decision",
+          "subtitle": "Helping Students Become Like Jesus",
+          "description": "<p>The most significant question our students are asking is the question of identity, 'Who am I?' Culture tells them to first 'look in,' then around, and maybe finally up, in order to affirm whatever identity their emotions have chosen for themselves. This process leaves our students fragile, insecure, self protective and ultimately without freedom. The Gospel flips the cultural script on its head. The Gospel calls us to look up, then around, and finally in, to figure out what needs to be re-ordered to align with the identity God has given to us—the identity we have been created for. This is freedom. How do we build our youth ministry so that it helps students discover who they actually are, and embrace the resilient, loving, and freedom giving identity they have been made for.</p>"
+        },
+      ]
+    },
+    {
+      "id": "scott-l",
+      "firstName": "Scott",
+      "lastName": "Lindsey",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_scott-lindsey.png",
+      "title": "Executive Director",
+      "association": "Logos",
+      "associationUrl": "https://www.logos.com/",
+      "bio": "<p>Scott Lindsey is the Executive Director and Ministry Relations Director for Faithlife, the creators of Logos Bible Software. His passion is to equip Christian communicators with the best tools available for the life-long pursuit of God through His word. The world has gone digital and Scott's ministry is to bring people's Bible study and research into the 21st century. Scott teaches at over 20+ conferences per year. He has personally trained and worked with the ministries of Tim Keller, David Jeremiah, Josh McDowell, Carol Kent, John MacArthur, Kay Arthur, and many more.</p>",
+      "sessions": [
+        {
+          "id": "logos10",
+          "category": "breakout",
+          "locationId": "Centre Court Foyer",
+          "title": "The All-New Logos 10 for Personal Bible Study, Apologetics, and Ministry",
+          "description": "<p>This interactive workshop will demonstrate the use of all-new Logos 10 for personal Bible study, apologetics, counseling, and teaching. What normally takes five to 10 hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p>"
+        },
+      ]
+    },
+    {
+      "id": "rachel-m",
+      "firstName": "Rachel",
+      "lastName": "MacKenzie",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-rachel-mackenzie.png",
+      "title": "Teacher, Author",
+      "association": "The Human Project for Kids",
+      "bio": "<p>Rachel MacKenzie is passionate about equipping children to think carefully about truth as they develop a Biblical worldview. She holds a B.Ed. in Elementary Education and is working on her M.Ed. in Instructional Leadership. She has taught in both public and private settings in the UK and Canada. She currently works as a school administrator in a Christian school in B.C.</p><p>While working in Children's Ministry, Rachel realized that many children who grow up in church were not being taught how to think critically or carefully about their beliefs and that parents and teachers often felt ill equipped to navigate big questions from their children. This led to a partnership with Andy Steiger and the creation of The Human Project for Kids book series.</p><p>Through workshops with both educators and parents, Rachel hopes to help equip adults to help the children in their care to engage in deep conversations about faith, develop habits of careful thinking, and to build a solid worldview that will stand firm through the changing tides of culture. </p>",
+      "sessions": [
+        {
+          "id": "bible-bizarre",
+          "category": "breakout",
+          "locationId": "Room 201",
+          "title": "Keeping the Bible Bizarre for Kids",
+          "description": "<p>There are some wildly bizarre parts of the Bible. A man is swallowed by a fish. A donkey talks. Blood has the ability to cleanse. Sometimes we are tempted to avoid the more complicated parts of scripture when teaching children. Or we retell the same stories so often that the wonder & mystery are forgotten. In this session we will explore best practices for teaching Biblical truth in a way that captivates children's hearts and minds.</p>"
+        },
+      ]
+    },
+    {
+      "id": "Mark-m",
+      "firstName": "Mark",
+      "lastName": "McEwan",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-mark-mcewan.png",
+      "title": "Speaker",
+      "association": "Canadian Scientific and Christian Affiliation",
+      "associationUrl": "https://csca.ca/",
+      "bio": "<p>Raised in Edmonton, Mark McEwan lives in Surrey with his wife. He has worked for the Canadian Scientific and Christian Affiliation (CSCA) since 2016, supporting local chapters, giving talks on science and faith, and managing the digital/technical side of things. In 2020, he began working for CSCA's American counterpart, the American Scientific Affiliation (ASA). A red-sealed electrician, Mark also holds a bachelor's degree in secondary education and a master's degree in theological studies from ACTS Seminaries. He occasionally speaks on science and faith for Trinity Western University, local high schools, church groups, and CSCA/ASA conferences. His academic interests include epistemology, apologetics, and the fruitful interaction of science and theology. His personal interests include tinkering with computers and electronics, video gaming, science fiction (especially Star Trek), travelling, and doing vehicle maintenance and upgrades. He feels called to serve Christ by encouraging careful thinking in matters of science and faith.</p>",
+      "sessions": [
+        {
+          "id": "christianity-science",
+          "category": "breakout",
+          "locationId": "Room B04",
+          "title": "Is Christianity Less Intellectually Honest than Science?",
+          "description": "<p>The Dishonesty Objection to Christianity from Science suggests that Christian beliefs are intellectually dishonest compared to scientific thinking. Atheists like Richard Dawkins argue that Christianity tends to ignore new evidence and holds onto pre-established beliefs. Critics argue that Christianity, unlike the open-mindedness of science, is resistant to change, doesn't reflect on itself, uses unfalsifiable claims, and claims certainty without sufficient evidence. This talk responds to such objections by pointing out the assumptions behind the dishonesty objection and drawing parallels and distinctions between how science and Christianity approach knowledge. Ultimately, this talk seeks to defend the Christian faith by highlighting the nuanced ways in which it engages with evidence, self-reflection, and transformative theological knowledge.</p>"
+        },
+      ]
+    },
+    {
+      "id": "john-andrew",
+      "firstName": "John Neufeld/",
+      "lastName": "Andrew Marcus",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-john-neufeld-and-andrew-marcus.png",
+      "title": "The INDOUBT Show",
+      "association": "Back to the Bible Canada",
+      "associationUrl": "https://www.backtothebible.ca/",
+      "bio": "<p><b>Dr. John Neufeld</b> has been in pastoral ministry since 1976, serving in churches in Saskatchewan, California and British Columbia, both as a church planter and senior pastor. He is passionate about preaching the Word of God and does so through expositional preaching.</p><p>After 35 years behind the pulpit, 15 as the senior pastor of one of the largest churches in Canada, God recently opened a new door for John to become the first Canadian teacher at Back to the Bible Canada.</p><p>John and his wife Kathy have been married for 36 years. They have three adult children and five grandchildren.</p><p><b>Andrew Marcus</b> is a 2x GMA Award winning singer/songwriter/worship artist based in Vancouver, British Columbia.  His last album Constant features 7 songs written with artists including Paul Baloche, Leeland Mooring and Ed Cash.  His first radio single You Are With Me hit #1 on the worship charts and has been sung in churches around the world.</p><p>He currently serves as the Director of INDOUBT, a ministry that exists to bring the gospel to the relevant issues of life and faith that young adults face every day. INDOUBT provides resources including our weekly YouTube/Podcast program THE INDOUBT SHOW which Andrew hosts, where he talks with authors, pastors and other Christian leaders to discuss a variety of subjects including theology, relationships, mental health, sexuality, abortion and more.</p>",
+      "sessions": [
+        {
+          "id": "plain-weird",
+          "category": "breakout",
+          "locationId": "Lounge",
+          "title": "When Footnotes Aren't Enough",
+          "subtitle": "How to Deal With Scripture that Seems Just Plain Weird",
+          "description": "<p>Why did the angel of the Lord come down to kill Moses and how did Gershom's circumcision save his life? Why does God tell Balaam tell him to go to Balak and then get angry at him for actually going? You may have experienced a time in your daily devotionals where you’ve come across strange passages like these that just don't make any sense to you. You read through your study Bible notes at the bottom and you still find yourself scratching your head wondering what it means or why it was even included in the text. What do we do then? Join host of THE INDOUBT SHOW Andrew Marcus as he spends time with Back To The Bible Canada teacher Dr. John Neufeld as they talk through what to do with challenging passages of Scripture.</p>"
+        },
+      ]
+    },
+    {
+      "id": "isaac-p",
+      "firstName": "Isaac",
+      "lastName": "Paul",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-isaac-paul.png",
+      "title": "Bible Translator, Linguist",
+      "association": "Canada Institute of Linguistics",
+      "associationUrl": "https://canil.ca/wordpress/",
+      "bio": "<p>Isaac holds a Masters Degree in Linguistics and Translation from the Canada Institute of Linguistics and has received training in Classical Arabic, Islamic law, and Qur'anic interpretation from the Hedayet Institute for Arabic Studies in Cairo Egypt. Isaac has a passion for engaging Muslims in dialogue and has had the opportunity to do so in a wide range of contexts throughout Asia, the Middle East, and North America. He also teaches seminars throughout BC in order to equip Canadian Christians to engage with people of other faiths in truth and love. He currently works as an international translation consultant based out of Western Canada.</p><p>Isaac and his wife currently live in British Columbia and enjoy music, hiking, and playing ultimate frisbee.</p>",
+      "sessions": [
+        {
+          "id": "holy-books",
+          "category": "breakout",
+          "locationId": "Room B02",
+          "title": "The Bible Among Holy Books",
+          "subtitle": "Presenting the Bible to Other Faiths",
+          "description": "<p>Christian defences of the Bible are often aimed at secularism. But how can we discuss the Bible with believers of other religions? What do Sikhs and Muslims, for example, believe about their Holy Books? What kinds of questions do they raise about the Bible from their perspective? And how can Christians address them effectively? Join Isaac in discussing how to present the Bible in an increasingly interfaith context in Canada.</p>"
+        },
+      ]
+    },
+    {
+      "id": "bb-pue",
+      "firstName": "Bryan & Bonnie",
+      "lastName": "Pue",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-bryan-and-bonnie-pue.png",
+      "title": "Founders",
+      "association": "The Union Movement",
+      "associationUrl": "https://www.theunionmovement.com/",
+      "bio": "<p>The Union Movement exists to help people find wholeness by presenting a gospel-centred, holistic approach to the topics of identity, sexuality, and relationships. The Union exists to help individuals, churches and church leadership have a biblically grounded perspective on these challenging topics.</p><p>Bryan and Bonnie are the founders of The Union, and are both experienced communicators,  bringing life-altering, approachable lessons to audiences of all sizes. Drawing from the teachings of Jesus, the apostolic letters, and Old Testament narratives, Bryan and Bonnie are committed to bringing the truth of Scripture in a culturally relevant, compassionate way so that people's lives can be changed by the Spirit of God. In a world of judgement and despair, Bryan and Bonnie bring a compassionate message focused on the redeeming work of Jesus Christ and His desire for the flourishing of humanity.</p><p>For more info on The Union Movement visit www.theunionmovement.com and follow them on social media @theunionmovement.</p>",
+      "sessions": [
+        {
+          "id": "sexual-ethic",
+          "category": "breakout",
+          "locationId": "Room B02",
+          "title": "Is God's Sexual Ethic Oppressive?",
+          "description": "<p>Can God be trusted when it comes to matters of sexuality or is His design oppressive? This is the question of our generation. In this session, we will rediscover the original design that God intended for sexuality in His Word, why it's under attack, and the hope of redemption that we have in Jesus. You will come away with greater confidence in a Biblical sexual ethic as well as the compassion needed to reach those who are far from Christ.</p>"
+        },
       ]
     }
   ],
@@ -136,7 +463,7 @@
       "body": "<h1>Got Questions?</h1><p>Send in your questions for...</p>"
     },
     {
-      "heading": "Apologetics Canada Podcast",
+      "heading": "The AC Podcast",
       "body": "<h1>Apologetics Canada Podcast</h1><p>Did you know? Apologetics Canada has a weekly podcast program where Andy, Steve, and Terry dialogue on current issues and cultural trends. Search for Apologetics Canada on your podcast app today!</p>",
       "action": {
         "label": "AC Podcast",
