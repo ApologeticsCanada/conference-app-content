@@ -507,11 +507,152 @@
     },
     {
       "heading": "Everyday Apologetics Book",
-      "body": "<h1>Everyday Apologetics Book:</h1><h2><i>Answering Common Objections to the Christian Faith</i></h2><p>In an era where access to objections and arguments is easier than ever, everyday Christians need to be prepared with strong, clear responses, In <i>Everyday Apologetics</i>, readers will be equipped with answers to some of Christianity's most difficult objections: Why is the God of the Old Testament so violent? Are science and faith in fundemental conflict with one another? The contributors take up these questions, and more, helping Christians be strengthened in their faith, while also providing powerful answers to opponents of the Christian faith.</p><p>With a clear, inviting, winsome style, <i>Everyday Apologetics</i> is for everyone: Christians, skeptics, seekers, and everyone in between.</p>"
+      "body": "<h1>Everyday Apologetics Book:</h1><h2><i>Answering Common Objections to the Christian Faith</i></h2><p>In an era where access to objections and arguments is easier than ever, everyday Christians need to be prepared with strong, clear responses, In <i>Everyday Apologetics</i>, readers will be equipped with answers to some of Christianity's most difficult objections: Why is the God of the Old Testament so violent? Are science and faith in fundemental conflict with one another? The contributors take up these questions, and more, helping Christians be strengthened in their faith, while also providing powerful answers to opponents of the Christian faith.</p><p>With a clear, inviting, winsome style, <i>Everyday Apologetics</i> is for everyone: Christians, skeptics, seekers, and everyone in between.</p>"
     },
     {
       "heading": "What Am I Worth? Book",
-      "body": "<h1>What Am I Worth? Book:</h1><p>Matlynn struggles to find her place in the circus, leaving her feeling worthless. Join Matlynn, her elephant Dudley, and The Amazing Circus Family as she discovers her incredible worth in God.</p><p><i>What Am I Worth?</i> explores the value of human life. In a culture that is sending all kinds of confusing messages to our children about their worth, we need to explain the truth found in scripture about the image they are created in and how priceless they are. This book is designed to engage and capture your child's attention while teaching them biblical truths. For more conversation starters check out <i>The Human Project for Kids</i> podcast at <a href='https://kids.apologeticscanada.com/'>thehumanprojectforkids.ca</a>.</p>"
+      "body": "<h1>What Am I Worth? Book:</h1><p>Matlynn struggles to find her place in the circus, leaving her feeling worthless. Join Matlynn, her elephant Dudley, and The Amazing Circus Family as she discovers her incredible worth in God.</p><p><i>What Am I Worth?</i> explores the value of human life. In a culture that is sending all kinds of confusing messages to our children about their worth, we need to explain the truth found in scripture about the image they are created in and how priceless they are. This book is designed to engage and capture your child's attention while teaching them biblical truths. For more conversation starters check out <i>The Human Project for Kids</i> podcast at <a href='https://kids.apologeticscanada.com/'>thehumanprojectforkids.ca</a>.</p>"
+    }
+  ],
+  "foodTrucks": [
+    {
+      "name": "Helm's Mobile Kitchen",
+      "logo": "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/hmk_logo.png",
+      "color": "#CCCCCC",
+      "shortDescription": "Quesadilla, Chicken Sandwich, Perogies and Farmer Sausage are just a few of the items they will offer.",
+      "description": "",
+      "photos": [
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/perogies.png",
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/chicken.jpg",
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/burger.png",
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/poutine.png"
+      ],
+      "menu": {
+        "entrees": [
+          {
+            "name": "Perogies and Farmer Sausage w/ Sautéed Onions, Sauerkraut, & Sour Cream",
+            "price": "12"
+          },
+          {
+            "name": "Chicken Kabob Dog w/ Fries",
+            "price": "12"
+          },
+          {
+            "name": "BBQ Cheese burger w/ fries",
+            "price": "10"
+          }
+        ],
+        "sides": [
+          {
+            "name": "Classic Poutine (Large)",
+            "price": "10"
+          },
+          {
+            "name": "Classic Poutine (Small)",
+            "price": "6"
+          }
+        ],
+        "drinks": [
+        ]
+      }
+    },
+    {
+      "name": "Triple O's On The Go",
+      "logo": "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/FoodTruck_TripleOs.png",
+      "color": "#f9bd2a",
+      "shortDescription": "You can enjoy a White Spot burger with fries. They will be onsite serving us from their On-The-Go Truck.",
+      "description": "",
+      "photos": [
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/Burger_Beef_BC_web_144dpi.png",
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/Burger_Beef_Original_web_144dpi.png",
+        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/Burger_Chicken_Ultimate_web_144dpi.png"
+      ],
+      "menu": {
+        "entrees": [
+          {
+            "name": "Original Burger",
+            "price": "7"
+          },
+          {
+            "name": "Original Cheese Burger",
+            "price": "7"
+          },
+          {
+            "name": "Veggie Burger",
+            "price": "7"
+          },
+          {
+            "name": "Bacon Cheddar",
+            "price": "8.50"
+          },
+          {
+            "name": "Spicy Ultiimate Chicken Crunch",
+            "price": "8.50"
+          }
+        ],
+        "sides": [
+          {
+            "name": "Fries",
+            "price": "3"
+          },
+          {
+            "name": "Poutine",
+            "price": "6"
+          },
+          {
+            "name": "Garlic Parmesan Fries",
+            "price": "6"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Pop/Water",
+            "price": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "foodSpots": [
+    {
+      "bullet": "1",
+      "restaurants": "Tim Horton's & Wendy's",
+      "details": "30340 Automall Dr."
+    },
+    {
+      "bullet": "2",
+      "restaurants": "Starbucks, McDonald's, Panago Pizza",
+      "details": "3250 Mt Lehman Rd."
+    },
+    {
+      "bullet": "3",
+      "restaurants": "Subway",
+      "details": "31943 South Fraser Way"
+    },
+    {
+      "bullet": "4",
+      "restaurants": "Pita Pit, Quiznos, Reel Wraps, Wok Box, Starbucks, A&W, Boston Pizza",
+      "details": "32500 South Fraser Way"
+    },
+    {
+      "bullet": "5",
+      "restaurants": "Tim Hortons",
+      "details": "32780 South Fraser Way"
+    },
+    {
+      "bullet": "6",
+      "restaurants": "Subway",
+      "details": "101-32660 George Ferguson Way"
+    },
+    {
+      "bullet": "7",
+      "restaurants": "Lepp Farm Market",
+      "details": "33955 Clayburn Rd."
+    },
+    {
+      "bullet": "•",
+      "restaurants": "Coffee & Snack",
+      "details": "Coffee and Danish will be available for purchase on Saturday for $1 each."
     }
   ]
 }
