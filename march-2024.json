@@ -72,21 +72,21 @@
       },
       {
         "endTime": "10:15",
-        "content": "<b><i>How Did We Get the Bible?</i></b> - Dr. John Meade",
+        "content": "<b><i>How Did We Get the Bible?</i></b> - John Meade, Ph.D",
         "action": {
           "sessionId": "get-bible"
         }
       },
       {
         "endTime": "10:15",
-        "content": "<b><i>Why are There So Many English Bibles?</i></b> - Dr. Mark Ward",
+        "content": "<b><i>Why are There So Many English Bibles?</i></b> - Mark Ward, Ph.D",
         "action": {
           "sessionId": "english-bibles"
         }
       },
       {
         "endTime": "10:15",
-        "content": "Panel Q&A with John and Mark (Moderated by Wesley Huff)"
+        "content": "<p>Panel Q&A with John and Mark (Moderated by Wesley Huff)</p>"
       },
       {
         "startTime": "10:15",
@@ -132,7 +132,7 @@
     {
       "id": "mark-f",
       "firstName": "Mark S.",
-      "lastName": "Francois",
+      "lastName": "Francois, Ph.D",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-mark-francois.png",
       "title": "Assistant Professor of Old Testament and Semitic Languages",
       "association": "Colorado Christian University",
@@ -178,7 +178,7 @@
     {
       "id": "john-m",
       "firstName": "John",
-      "lastName": "Meade",
+      "lastName": "Meade, Ph.D",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-john-meade.png",
       "title": "Professor of Old Testament",
       "association": "Phoenix Seminary",
@@ -204,7 +204,7 @@
     {
       "id": "mark-w",
       "firstName": "Mark",
-      "lastName": "Ward",
+      "lastName": "Ward, Ph.D",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-mark-ward.png",
       "title": "Editor in Chief",
       "association": "Bible Study Magazine",
@@ -244,7 +244,7 @@
           "locationId": "Worship Centre",
           "title": "Getting High with the Most High?",
           "subtitle": "From Psychedelics to the Bible (in dialogue with Steve Kim)",
-          "description": "In an effort to reach higher levels of reality, or the Most High, psychedelic drug use is becoming more and more prevalent. From the Joe Rogan Podcast to the halls of Academia, hallucinogens are being promoted and popularized. Instead of the Bible, these consciousness-altering drugs are being heavily endorsed in the search for the real and the truth.</p><p>Ashley was no exception to this trend. She was heavy into psychedelics until she gave her life to Jesus and found reality and truth in Him. Now she has completely abandoned hallucinogens and encourages people to turn to Jesus in their search for truth. What happened in between? Join Ashley in conversation with Steve Kim as they discuss the growing drug culture, and how Christians might navigate it.</p>"
+          "description": "<p>In an effort to reach higher levels of reality, or the Most High, psychedelic drug use is becoming more and more prevalent. From the Joe Rogan Podcast to the halls of Academia, hallucinogens are being promoted and popularized. Instead of the Bible, these consciousness-altering drugs are being heavily endorsed in the search for the real and the truth.</p><p>Ashley was no exception to this trend. She was heavy into psychedelics until she gave her life to Jesus and found reality and truth in Him. Now she has completely abandoned hallucinogens and encourages people to turn to Jesus in their search for truth. What happened in between? Join Ashley in conversation with Steve Kim as they discuss the growing drug culture, and how Christians might navigate it.</p>"
         },
         {
           "id": "nothing-new",
@@ -259,7 +259,7 @@
     {
       "id": "quentin-g",
       "firstName": "Quentin",
-      "lastName": "Genuis",
+      "lastName": "Genuis, M.D",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-quentin-genuis.png",
       "title": "Physician, Bioethicist",
       "association": "St. Paul's Hospital",
