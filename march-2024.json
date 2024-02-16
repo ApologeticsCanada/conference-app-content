@@ -31,16 +31,16 @@
       },
       {
         "endTime": "21:00",
-        "content": "<b><i>Is the Bible Good?</i></b> - Mark S. Francois",
+        "content": "<b><i>Is the Bible True?</i></b> - Wesley Huff",
         "action": {
-          "sessionId": "bible-good"
+          "sessionId": "bible-true"
         }
       },
       {
         "endTime": "21:00",
-        "html": "<b><i>Is the Bible True?</i></b> - Wesley Huff",
+        "html": "<b><i>Is the Bible Good?</i></b> - Mark S. Francois, Ph.D",
         "action": {
-          "sessionId": "bible-true"
+          "sessionId": "bible-good"
         }
       },
       {
@@ -94,12 +94,12 @@
         "title": "Break"
       },
       {
-        "startTime": "10:30",
+        "startTime": "10:40",
         "endTime": "11:10",
         "title": "Breakout Session 1"
       },
       {
-        "startTime": "11:10",
+        "startTime": "11:20",
         "endTime": "12:25",
         "title": "Lunch"
       },
@@ -137,7 +137,7 @@
       "title": "Assistant Professor of Old Testament and Semitic Languages",
       "association": "Colorado Christian University",
       "associationUrl": "https://www.ccu.edu/",
-      "bio": "<p>Mark Francois, PhD, has recently joined the faculty of the School of Theology at the Colorado Christian University after serving twelve years as a pastor in...</p>",
+      "bio": "<p>Mark Francois, PhD, has recently joined the faculty of the School of Theology at the Colorado Christian University after serving twelve years as a pastor in Ontario, Canada. While serving as a pastor, he taught courses at Tyndale Seminary, Toronto Baptist Seminary, and the One Hope Canada School of Discipleship. Prior to serving as a pastor, he taught Hebrew Grammar, Hebrew Syntax, and a semester of Aramaic at Toronto Baptist Seminary.</p><p>Mark's primary academic interests are Deuteronomy, OT law, OT Theology, OT textual criticism, Hebrew, and Classical Syriac. His dissertation focused on the relationship between the curses of Deuteronomy 28 and the Loyalty Oath of Esarhaddon based on the types of changes that occur when curses are translated from one language to another in bilingual texts from the ancient Near East. He has a strong interest in Semitic languages and is currently writing an introductory grammar of Classical Syriac.</p><p>He lives in Lakewood with his wife, Alecia, and his two children: Jael and Caleb.</p>",
       "sessions": [
         {
           "id": "bible-good",
@@ -152,7 +152,7 @@
           "locationId": "West Court",
           "title": "Intro to Interpreting the Bible",
           "subtitle": "Why the Bible Can Be Difficult to Interpret",
-          "description": "<p>On one level, the Bible is easy to understand. Christians all over the world with no training in biblical interpretation grow in their faith by simply reading the Bible. On another level, the Bible is very difficult to understand. Readers, both Christian and non-Christian, traditionalist and progressive, often misinterpret, misapply, or simply miss the point of many passages in the Bible. We will look at seven of the most common barriers that prevent us from interpreting the Bible well–and learn how to become better interprets along the way.</p>"
+          "description": "<p>On one level, the Bible is easy to understand. Christians all over the world with no training in biblical interpretation grow in their faith by simply reading the Bible. On another level, the Bible is very difficult to understand. Readers, both Christian and non-Christian, traditionalist and progressive, often misinterpret, misapply, or simply miss the point of many passages in the Bible. We will look at seven of the most common barriers that prevent us from interpreting the Bible well, and learn how to become better interpreters along the way.</p>"
         }
       ]
     },
@@ -164,7 +164,7 @@
       "title": "Central Canada Director",
       "association": "Apologetics Canada",
       "associationUrl": "https://apologeticscanada.com/",
-      "bio": "<p>Wesley Huff was born in Multan, Pakistan and spent a portion of his childhood in the Middle East. After being diagnosed with a rare neurological condition at the age of eleven that left him paralyzed from the waist down Wes experienced a miraculous recovery that the doctors themselves said they had no medical...</p>",
+      "bio": "<p>Wesley Huff was born in Multan, Pakistan and spent a portion of his childhood in the Middle East. After being diagnosed with a rare neurological condition at the age of eleven that left him paralyzed from the waist down Wes experienced a miraculous recovery that the doctors themselves said they had no medical explanation for. This experience, along with a great deal of study and soul searching in his later teens solidified his interest in the subjects of faith and engaging the beliefs and worldview perspectives of others. He spent his high school years in the Northern Ontarian town of Elliot Lake, and currently lives in Toronto, Canada with his wife, Melissa, their son Eli, and daughters Everly and Juliette.</p><p>He holds a BA in sociology from York University, a Masters of Theological Studies from Tyndale University, and is currently doing a PhD in New Testament and Christian Origins at the University of Toronto’s Wycliffe College. For five years Wes worked as a writer, researcher, and speaker for Power to Change - Students (formerly Campus Crusade in Canada) and has made online contributions to Apologetics Canada, Power to Change - Students, The Gospel Coalition Canada, and the Apologetics Academy Webinar. Along with being involved in the collective with Talk About Doubts, he has been a curriculum contributor with Trans World Radio and written multiple entries (including those on Rastafarianism, Canadian Druze Society, and Kathok Conpa Buddhism) in the Melton’s Encyclopedia of American Religions (Ninth Edition, Vol 2: Canada).</p><p>Wesley is currently the Director of Central Canada for Apologetics Canada and has participated in numerous talks and interfaith dialogue events at universities and colleges across North America. He has been participating in public dialogues on issues of faith, belief, and religion for the last ten years.</p><p>He enjoys canoeing, archery, and cats (although not all three at the same time).</p>",
       "sessions": [
         {
           "id": "bible-true",
@@ -195,7 +195,7 @@
         {
           "id": "all-its-worth",
           "category": "breakout",
-          "locationId": "Atrium",
+          "locationId": "Worship Centre",
           "title": "Reading the Bible for All Its Worth by Consulting Footnotes",
           "description": "<p>In this session, we will learn to read the most out of our Bibles by learning what the footnotes and different translations tell us. Dr. Meade will introduce attendees to the differences in Bible manuscripts signaled in footnotes and different English translations and to the methods scholars and translators use to make decisions between these different readings. The goal of the presentation is to make one a more informed Bible reader by observing the relevant evidence contained within the English Bible tradition.</p>"
         }
@@ -224,7 +224,7 @@
           "locationId": "217",
           "title": "KJV Words You Don't Know You Don't Know",
           "subtitle": "A Gracious Answer to KJV-Onlyism",
-          "description": "<p>The KJV contains many dead words, words we all know we don't know—besom, chambering, amerce. But it also contains words you probably don't know you don't know, called “false friends”: remove, halt, commend. If you have a KJV-Only brother-in-law, discussing translation instead of text is the way to go. You can build on the common ground of your mutual desire to understand God's word.</p>"
+          "description": "<p>The KJV contains many dead words, words we all know we don't know—besom, chambering, amerce. But it also contains words you probably don't know you don't know, called 'false friends'—remove, halt, commend. If you have a KJV-Only brother-in-law, discussing translation instead of text is the way to go. You can build on the common ground of your mutual desire to understand God's word.</p>"
         }
       ]
     },
@@ -268,7 +268,7 @@
         {
           "id": "medical-ethics",
           "category": "breakout",
-          "locationId": "Worship Centre",
+          "locationId": "Atrium",
           "title": "Medical Ethics and the Life of the Church",
           "description": "<p>What features define human life? How do individuals and communities understand and withstand suffering and pain? What is good dying? In our time, these essential human questions are often viewed primarily as bioethics issues. In reality, these are not exclusively medical or bioethical enquiries. Rather, they are questions that all human individuals and societies ultimately wrestle with.</p><p>This talk will outline some of the ways that our Christian faith provides rich 'good-news' answers to these complicated and challenging questions, with particular focus on the conversations going on in our own society around issues related to bioethics.</p>"
         }
@@ -329,7 +329,7 @@
           "locationId": "B06",
           "title": "More Than Just a Decision",
           "subtitle": "Helping Students Become Like Jesus",
-          "description": "<p>The most significant question our students are asking is the question of identity, 'Who am I?' Culture tells them to first 'look in,' then around, and maybe finally up, in order to affirm whatever identity their emotions have chosen for themselves. This process leaves our students fragile, insecure, self protective and ultimately without freedom. The Gospel flips the cultural script on its head. The Gospel calls us to look up, then around, and finally in, to figure out what needs to be re-ordered to align with the identity God has given to us—the identity we have been created for. This is freedom. How do we build our youth ministry so that it helps students discover who they actually are, and embrace the resilient, loving, and freedom giving identity they have been made for.</p>"
+          "description": "<p>The most significant question our students are asking is the question of identity, 'Who am I?' Culture tells them to first 'look in,' then around, and maybe finally up, in order to affirm whatever identity their emotions have chosen for themselves. This process leaves our students fragile, insecure, self protective and ultimately without freedom. The Gospel flips the cultural script on its head. The Gospel calls us to look up, then around, and finally in, to figure out what needs to be re-ordered to align with the identity God has given to us—the identity we have been created for. This is freedom. How do we build our youth ministry so that it helps students discover who they actually are, and embrace the resilient, loving, and freedom-giving identity they have been made for.</p>"
         }
       ]
     },
@@ -442,7 +442,7 @@
         {
           "id": "sexual-ethic",
           "category": "breakout",
-          "locationId": "B02",
+          "locationId": "219/221",
           "title": "Is God's Sexual Ethic Oppressive?",
           "description": "<p>Can God be trusted when it comes to matters of sexuality or is His design oppressive? This is the question of our generation. In this session, we will rediscover the original design that God intended for sexuality in His Word, why it's under attack, and the hope of redemption that we have in Jesus. You will come away with greater confidence in a Biblical sexual ethic as well as the compassion needed to reach those who are far from Christ.</p>"
         }
@@ -451,20 +451,28 @@
   ],
   "additionalInfo": [
     {
-      "heading": "Message from the President",
-      "body": "<h1>The Future of Apologetics Canada</h1><p>The theme of the conference this year is...</p>"
-    },
-    {
       "heading": "WiFi Access",
-      "body": "<h1>WiFi Access</h1><p>Select ACC Public WiFi to connect.</p>"
+      "body": "<h1>WiFi Access</h1><p>FREE public WiFi is available at the conference. Network name is: <b>Northview.Public</b>.</p>"
     },
     {
       "heading": "Got Questions?",
-      "body": "<h1>Got Questions?</h1><p>Send in your questions for...</p>"
+      "body": "<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via Slido.com. Join the session with the code <b>2165 914</b>.</p>"
+    },
+    {
+      "heading": "Hungry?",
+      "body": "<h1>Hungry?</h1><p>Complimentary breakfast is available Saturday morning. Start your day with a COBS scone and a cup of coffee or tea!</p>"
+    },
+    {
+      "heading": "Pre-Ordered Lunch",
+      "body": "<h1>Pre-Ordered Lunch</h1><p>Pick up your pre-ordered bagged lunch in <b>Centre Court</b> during the lunch break.</p>"
+    },
+    {
+      "heading": "Food Truck",
+      "body": "<h1>Food Truck</h1><p>HMK food truck will be available as a lunch option in the back parking lot of the church.</p>"
     },
     {
       "heading": "The AC Podcast",
-      "body": "<h1>Apologetics Canada Podcast</h1><p>Did you know? Apologetics Canada has a weekly podcast program where Andy, Steve, and Terry dialogue on current issues and cultural trends. Search for Apologetics Canada on your podcast app today!</p>",
+      "body": "<h1>The AC Podcast</h1><p>Apologetics Canada has a weekly podcast program where Andy, Steve, Wes, and Troy offer a healthy dose of Christian perspective on cultural issues of our day. Search for The AC Podcast on your favourite podcast platform!</p>",
       "action": {
         "label": "AC Podcast",
         "icon": null,
@@ -472,12 +480,8 @@
       }
     },
     {
-      "heading": "Prayer",
-      "body": "<h1>Prayer</h1><p>We have a prayer room located in the northwest corner of the foyer. If at any time you need prayer, one of our volunteers will be there to pray with you.</p>"
-    },
-    {
       "heading": "Donations",
-      "body": "<h1>Donations</h1><p>Apologetics Canada is a non-profit organization that depends on the generous support of people like you. If you appreciate our ministry, please prayerfully consider supporting us financially.</p>",
+      "body": "<h1>Donations</h1><p>Apologetics Canada Ministries is a registered charity organization that depends on the generous support of people like you. If you appreciate our ministry, please prayerfully consider supporting us financially.</p>",
       "action": {
         "label": "Click to Donate",
         "icon": "money",
@@ -486,32 +490,16 @@
     },
     {
       "heading": "Apologetics Canada (AC) Table",
-      "body": "<h1>Apologetics Canada (AC) Table</h1><p>Come see us at the AC Table. We’d love to talk to you about what we've been working on. Or perhaps you are interested in getting involved as a volunteer, ministry partner or financial supporter. We have volunteers that read, research, and edit for us. We are also looking for more partnering churches as ministry partners in new cities across the Lower Mainland, BC, and even Canada. Or perhaps you are interested in joining our financial support team because you see the value of this ministry or you have personally been impacted by it. Come talk to us.</p>"
+      "body": "<h1>Apologetics Canada (AC) Table</h1><p>Come see us at the AC Table. We’d love to talk to you about what we've been working on. Or perhaps you are interested in getting involved as a volunteer, ministry partner or financial supporter. We have volunteers that read, research, and edit for us. We are also looking for more partnering churches as ministry partners in new cities across Canada. Or perhaps you are interested in joining our financial support team because you see the value of this ministry or you have personally been impacted by it. Come talk to us.</p>"
     },
     {
       "heading": "Pre-order Conference Recordings",
-      "body": "<h1>Pre-order Conference Recordings</h1><p>All sessions from the conference are being recorded. You can pre-order the recordings as a digital download or on a USB FlashDrive at the Apologetics Canada book table in the foyer. The recording package contains videos of the Main Sessions and audio files of the Breakout Sessions.</p>",
+      "body": "<h1>Pre-order Conference Recordings</h1><p>All sessions from the conference are being recorded. You can pre-order the recordings as a digital download at the Apologetics Canada book table in the foyer. The recording package contains videos of the Main Sessions and audio files of the Breakout Sessions.</p>",
       "action": {
         "label": "AC Online Store",
         "icon": "shopping-cart",
-        "url": "https://store.apologeticscanada.com/products/pre-order-apologetics-canada-conference-2020-digital-recording"
+        "url": "https://store.apologeticscanada.com/products/preorder-acc24bc-recordings"
       }
-    },
-    {
-      "heading": "Book Launch Team",
-      "body": "<h1>Book Launch Team</h1><p>We have a new book launching September 1st! Andy Steiger and Sheri Hiebert have been working hard on <i>Reclaimed: How Jesus Restores our Humanity in a Dehumanized World</i>. This book takes a unique approach to explaining and sharing the gospel through our humanity. Does this topic interest you? If so, we want to invite you to apply for our book launch team. Those that are accepted will receive a free advanced copy of the book from Zondervan. As well, Andy will be providing teaching from the book for this group. To signup text your name and email to 604-200-9788 or go talk to Sheri at the Apologetics Canada Table.</p>"
-    },
-    {
-      "heading": "Pre-Order Reclaimed Book",
-      "body": "<h1>Pre-Order Reclaimed Book</h1><p>We live in an era of polarizing political and religious disagreement. Despite the lip service our society pays to tolerance, it's becoming more and more difficult to look past our differences and to recognize our common humanity. The way that we treat each other is a direct result of how we see one another, and our culture is full of warning signs that we aren't seeing each other correctly.</p><p><i>Reclaimed</i> points to Jesus as the basis for rediscovering our common ground and our shared humanity. In Jesus we find not only that humans are unique, valuable, and bearers of rights and responsibilities, but also that our dehumanizing tendencies--our worst inclinations toward inhumanity--can be redeemed and restored. Jesus enables us to be fully human, and it's in him that we rediscover the kind of relationships and society for which so many people today are longing.</p><p>To pre-purchase <i>Reclaimed</i> visit: <a href='http://www.reclaimedbook.info'>www.reclaimedbook.info</a></p><p>To get info on joining the <i>Reclaimed</i> book launch team text your name and email to 604-259-5088 or go talk to Sheri at the Apologetics Canada Table.</p>"
-    },
-    {
-      "heading": "Everyday Apologetics Book",
-      "body": "<h1>Everyday Apologetics Book:</h1><h2><i>Answering Common Objections to the Christian Faith</i></h2><p>In an era where access to objections and arguments is easier than ever, everyday Christians need to be prepared with strong, clear responses, In <i>Everyday Apologetics</i>, readers will be equipped with answers to some of Christianity's most difficult objections: Why is the God of the Old Testament so violent? Are science and faith in fundemental conflict with one another? The contributors take up these questions, and more, helping Christians be strengthened in their faith, while also providing powerful answers to opponents of the Christian faith.</p><p>With a clear, inviting, winsome style, <i>Everyday Apologetics</i> is for everyone: Christians, skeptics, seekers, and everyone in between.</p>"
-    },
-    {
-      "heading": "What Am I Worth? Book",
-      "body": "<h1>What Am I Worth? Book:</h1><p>Matlynn struggles to find her place in the circus, leaving her feeling worthless. Join Matlynn, her elephant Dudley, and The Amazing Circus Family as she discovers her incredible worth in God.</p><p><i>What Am I Worth?</i> explores the value of human life. In a culture that is sending all kinds of confusing messages to our children about their worth, we need to explain the truth found in scripture about the image they are created in and how priceless they are. This book is designed to engage and capture your child's attention while teaching them biblical truths. For more conversation starters check out <i>The Human Project for Kids</i> podcast at <a href='https://kids.apologeticscanada.com/'>thehumanprojectforkids.ca</a>.</p>"
     }
   ],
   "foodTrucks": [
@@ -555,62 +543,6 @@
         "drinks": [
         ]
       }
-    },
-    {
-      "name": "Triple O's On The Go",
-      "logo": "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/FoodTruck_TripleOs.png",
-      "color": "#f9bd2a",
-      "shortDescription": "You can enjoy a White Spot burger with fries. They will be onsite serving us from their On-The-Go Truck.",
-      "description": "",
-      "photos": [
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/Burger_Beef_BC_web_144dpi.png",
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/Burger_Beef_Original_web_144dpi.png",
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/triple-os/Burger_Chicken_Ultimate_web_144dpi.png"
-      ],
-      "menu": {
-        "entrees": [
-          {
-            "name": "Original Burger",
-            "price": "7"
-          },
-          {
-            "name": "Original Cheese Burger",
-            "price": "7"
-          },
-          {
-            "name": "Veggie Burger",
-            "price": "7"
-          },
-          {
-            "name": "Bacon Cheddar",
-            "price": "8.50"
-          },
-          {
-            "name": "Spicy Ultiimate Chicken Crunch",
-            "price": "8.50"
-          }
-        ],
-        "sides": [
-          {
-            "name": "Fries",
-            "price": "3"
-          },
-          {
-            "name": "Poutine",
-            "price": "6"
-          },
-          {
-            "name": "Garlic Parmesan Fries",
-            "price": "6"
-          }
-        ],
-        "drinks": [
-          {
-            "name": "Pop/Water",
-            "price": "2"
-          }
-        ]
-      }
     }
   ],
   "foodSpots": [
@@ -652,7 +584,7 @@
     {
       "bullet": "•",
       "restaurants": "Coffee & Snack",
-      "details": "Coffee and Danish will be available for purchase on Saturday for $1 each."
+      "details": "Complimentary breakfast available. Start your day off with a COBS scone and coffee."
     }
   ]
 }
