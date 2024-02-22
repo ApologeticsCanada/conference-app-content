@@ -7,7 +7,7 @@
       {
         "startTime": "19:00",
         "endTime": "19:00",
-        "content": "<b><i>Premiere of Can I Trust the Bible</i></b> at Columbia Bible College (2940 Clearbrook Road, Abbotsford, BC)",
+        "content": "<p><b><i>Premiere of Can I Trust the Bible</i></b> at Columbia Bible College (2940 Clearbrook Road, Abbotsford, BC)</p>",
         "action": {
           "url": "https://bible.apologeticscanada.com/"
         }
@@ -31,14 +31,14 @@
       },
       {
         "endTime": "21:00",
-        "content": "<b><i>Is the Bible True?</i></b> - Wesley Huff",
+        "content": "<p><b><i>Is the Bible True?</i></b> - Wesley Huff</p>",
         "action": {
           "sessionId": "bible-true"
         }
       },
       {
         "endTime": "21:00",
-        "html": "<b><i>Is the Bible Good?</i></b> - Mark S. Francois, Ph.D",
+        "html": "<p><b><i>Is the Bible Good?</i></b> - Mark S. Francois, Ph.D</p>",
         "action": {
           "sessionId": "bible-good"
         }
@@ -72,14 +72,14 @@
       },
       {
         "endTime": "10:15",
-        "content": "<b><i>How Did We Get the Bible?</i></b> - John Meade, Ph.D",
+        "content": "<p><b><i>How Did We Get the Bible?</i></b> - John Meade, Ph.D</p>",
         "action": {
           "sessionId": "get-bible"
         }
       },
       {
         "endTime": "10:15",
-        "content": "<b><i>Why are There So Many English Bibles?</i></b> - Mark Ward, Ph.D",
+        "content": "<p><b><i>Why are There So Many English Bibles?</i></b> - Mark Ward, Ph.D</p>",
         "action": {
           "sessionId": "english-bibles"
         }
@@ -116,7 +116,7 @@
       {
         "startTime": "13:20",
         "endTime": "14:00",
-        "content": "<b><i>Getting High with the Most High?: From Psychedelics to the Bible</i></b> - Ashley Lande (in dialogue with Steve Kim)",
+        "content": "<p><b><i>Getting High with the Most High?: From Psychedelics to the Bible</i></b> - Ashley Lande (in dialogue with Steve Kim)</p>",
         "action": {
           "sessionId": "getting-high"
         }
@@ -456,7 +456,7 @@
     },
     {
       "heading": "Got Questions?",
-      "body": "<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via Slido.com. Join the session with the code <b>2165 914</b>.</p>"
+      "body": "<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via <b>Slido.com</b>. Join the session with the code <b>#2165914</b>.</p>"
     },
     {
       "heading": "Hungry?",
@@ -481,7 +481,7 @@
     },
     {
       "heading": "Donations",
-      "body": "<h1>Donations</h1><p>Apologetics Canada Ministries is a registered charity organization that depends on the generous support of people like you. If you appreciate our ministry, please prayerfully consider supporting us financially.</p>",
+      "body": "<h1>Donations</h1><p>Apologetics Canada Ministries is a registered Canadian charity that depends on the generous support of people like you. If you appreciate our ministry, please prayerfully consider supporting us financially.</p>",
       "action": {
         "label": "Click to Donate",
         "icon": "money",
@@ -490,7 +490,7 @@
     },
     {
       "heading": "Apologetics Canada (AC) Table",
-      "body": "<h1>Apologetics Canada (AC) Table</h1><p>Come see us at the AC Table. We’d love to talk to you about what we've been working on. Or perhaps you are interested in getting involved as a volunteer, ministry partner or financial supporter. We have volunteers that read, research, and edit for us. We are also looking for more partnering churches as ministry partners in new cities across Canada. Or perhaps you are interested in joining our financial support team because you see the value of this ministry or you have personally been impacted by it. Come talk to us.</p>"
+      "body": "<h1>Apologetics Canada (AC) Table</h1><p>Come see us at the AC Table. We'd love to talk to you about what we are up to: the work we are doing, the events and resources that might be right for you, or any questions you might have. We are also looking for more partnering churches as ministry partners in new cities across Canada. Or perhaps you are interested in joining our financial support team because you see the value of this ministry or you have personally been impacted by it. Come visit us.</p>"
     },
     {
       "heading": "Pre-order Conference Recordings",
