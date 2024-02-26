@@ -518,37 +518,46 @@
       "shortDescription": "Quesadilla, Chicken Sandwich, Perogies and Farmer Sausage are just a few of the items they will offer.",
       "description": "",
       "photos": [
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/perogies.png",
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/chicken.jpg",
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/burger.png",
-        "https://apologeticscanada.github.io/conference-app-content/images/restaurants/hmk/poutine.png"
+        "https://apologeticscanada.com/wp-content/uploads/2024/02/1.-Bacon-Swiss-Burger-14.jpg",
+        "https://apologeticscanada.com/wp-content/uploads/2024/02/2.-Perogies-and-Sausage-15.jpg",
+        "https://apologeticscanada.com/wp-content/uploads/2024/02/3.-Chicken-Caesar-Wrap-15.jpg",
+        "https://apologeticscanada.com/wp-content/uploads/2024/02/4.-GP-Fries-11.jpg",
+        "https://apologeticscanada.com/wp-content/uploads/2024/02/5.-Mozza-Poutine-11.jpg"
       ],
       "menu": {
         "entrees": [
           {
-            "name": "Perogies and Farmer Sausage w/ Sautéed Onions, Sauerkraut, & Sour Cream",
-            "price": "12"
+            "name": "Bacon Swiss Burger",
+            "price": "14"
           },
           {
-            "name": "Chicken Kabob Dog w/ Fries",
-            "price": "12"
+            "name": "Burg Jr.",
+            "price": "13"
           },
           {
-            "name": "BBQ Cheese burger w/ fries",
-            "price": "10"
+            "name": "Perogies and Sausage",
+            "price": "15"
+          },
+          {
+            "name": "Chicken Caesar Wrap",
+            "price": "15"
           }
         ],
         "sides": [
           {
-            "name": "Classic Poutine (Large)",
-            "price": "10"
+            "name": "GP Fries",
+            "price": "11"
           },
           {
-            "name": "Classic Poutine (Small)",
-            "price": "6"
+            "name": "Mozza Poutine",
+            "price": "11"
           }
         ],
         "drinks": [
+          {
+            "name": "Pop / Water",
+            "price": "2"
+          }
         ]
       }
     }
