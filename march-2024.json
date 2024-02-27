@@ -561,47 +561,5 @@
         ]
       }
     }
-  ],
-  "foodSpots": [
-    {
-      "bullet": "1",
-      "restaurants": "Tim Horton's & Wendy's",
-      "details": "30340 Automall Dr."
-    },
-    {
-      "bullet": "2",
-      "restaurants": "Starbucks, McDonald's, Panago Pizza",
-      "details": "3250 Mt Lehman Rd."
-    },
-    {
-      "bullet": "3",
-      "restaurants": "Subway",
-      "details": "31943 South Fraser Way"
-    },
-    {
-      "bullet": "4",
-      "restaurants": "Pita Pit, Quiznos, Reel Wraps, Wok Box, Starbucks, A&W, Boston Pizza",
-      "details": "32500 South Fraser Way"
-    },
-    {
-      "bullet": "5",
-      "restaurants": "Tim Hortons",
-      "details": "32780 South Fraser Way"
-    },
-    {
-      "bullet": "6",
-      "restaurants": "Subway",
-      "details": "101-32660 George Ferguson Way"
-    },
-    {
-      "bullet": "7",
-      "restaurants": "Lepp Farm Market",
-      "details": "33955 Clayburn Rd."
-    },
-    {
-      "bullet": "•",
-      "restaurants": "Coffee & Snack",
-      "details": "Complimentary breakfast available. Start your day off with a COBS scone and coffee."
-    }
   ]
 }
