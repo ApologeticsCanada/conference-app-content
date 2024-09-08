@@ -574,39 +574,19 @@
       },
       "markers": [
         {
-          "id": "Room 111",
-          "x": 85,
-          "y": -25
-        },
-        {
-          "id": "Atrium",
-          "x": 228,
-          "y": 461
-        },
-        {
-          "id": "West Court",
-          "x": 70,
-          "y": 70
-        },
-        {
           "id": "Worship Centre",
           "x": 278,
           "y": 233
         },
         {
-          "id": "Centre Court Foyer",
+          "id": "Social Centre",
           "x": 70,
           "y": 350
         },
         {
-          "id": "Centre Court",
+          "id": "Gymnasium",
           "x": 60,
           "y": 270
-        },
-        {
-          "id": "Lounge",
-          "x": 350,
-          "y": 355
         }
       ]
     },
