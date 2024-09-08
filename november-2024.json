@@ -569,7 +569,7 @@
       "name": "Main Floor",
       "image": {
         "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-1.png",
-        "width": 454,
+        "width": 776,
         "height": 545
       },
       "markers": [
@@ -616,7 +616,7 @@
       "name": "Second Floor",
       "image": {
         "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-2.png",
-        "width": 454,
+        "width": 776,
         "height": 545
       },
       "markers": [
