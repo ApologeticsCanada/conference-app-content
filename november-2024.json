@@ -561,5 +561,118 @@
         ]
       }
     }
+  ],
+  floors: [
+    {
+      index: 0,
+      id: 1,
+      name: 'Main Floor',
+      imageUrl: "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-1.png",
+      markers: [
+        {
+          id: 'Room 111',
+          x: 85,
+          y: -25
+        },
+        {
+          id: 'Atrium',
+          x: 228,
+          y: 461
+        },
+        {
+          id: 'West Court',
+          x: 70,
+          y: 70
+        },
+        {
+          id: 'Worship Centre',
+          x: 278,
+          y: 233
+        },
+        {
+          id: 'Centre Court Foyer',
+          x: 70,
+          y: 350
+        },
+        {
+          id: 'Centre Court',
+          x: 60,
+          y: 270
+        },
+        {
+          id: 'Lounge',
+          x: 350,
+          y: 355
+        }
+      ]
+    },
+    {
+      index: 1,
+      id: 2,
+      name: 'Second Floor',
+      imageUrl: "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-2.png",
+      markers: [
+        {
+          id: '201',
+          x: 152,
+          y: 390
+        },
+        {
+          id: '203', //203
+          x: 105,
+          y: 390
+        },
+        {
+          id: '204', //204
+          x: 105,
+          y: 335
+        },
+        {
+          id: '205', //205
+          x: 65,
+          y: 390
+        },
+        {
+          id: '206', //206
+          x: 65,
+          y: 335
+        },
+        {
+          id: '207', //207
+          x: 30,
+          y: 390
+        },
+        {
+          id: '208', //208
+          x: 25,
+          y: 335
+        },
+        {
+          id: '213', //213
+          x: 157,
+          y: 227
+        },
+        {
+          id: '215', //215
+          x: 153,
+          y: 185
+        },
+        {
+          id: '217',
+          x: 143,
+          y: 140
+        },
+        {
+          id: '219/221', //219/221
+          x: 143,
+          y: 90
+        },
+        {
+          id: '223',
+          x: 143,
+          y: 25
+        }
+      ]
+    }
   ]
 }
