@@ -268,7 +268,7 @@
         {
           "id": "medical-ethics",
           "category": "breakout",
-          "locationId": "Atrium",
+          "locationId": "Children's Chapel",
           "title": "Medical Ethics and the Life of the Church",
           "description": "<p>What features define human life? How do individuals and communities understand and withstand suffering and pain? What is good dying? In our time, these essential human questions are often viewed primarily as bioethics issues. In reality, these are not exclusively medical or bioethical enquiries. Rather, they are questions that all human individuals and societies ultimately wrestle with.</p><p>This talk will outline some of the ways that our Christian faith provides rich 'good-news' answers to these complicated and challenging questions, with particular focus on the conversations going on in our own society around issues related to bioethics.</p>"
         }
@@ -287,7 +287,7 @@
         {
           "id": "renewed-transformed",
           "category": "breakout",
-          "locationId": "Centre Court",
+          "locationId": "Youth Room",
           "title": "Renewed and Transformed",
           "subtitle": "Jesus, Gender, and the Unforeseen Journey to Peace (in dialogue with Andy Steiger)",
           "description": "<p>When someone is struggling with their gender, how do you help? Kyla was one such person. Her childhood trauma and the brokenness in her relationships left her deeply wounded. She felt fractured inside, questioning her identity. After many turns and twists, however, she found wholeness in the person of Jesus Christ. What happened in between, and what can her experience tell us about how we might walk alongside others who wrestle with who they are? Join Kyla Gillespie and Andy Steiger as they dialogue about Kyla's journey to peace in Jesus.</p>"
@@ -307,7 +307,7 @@
         {
           "id": "human-flourishing",
           "category": "breakout",
-          "locationId": "223",
+          "locationId": "Children's Ministry Room 1",
           "title": "Is Christianity Harmful to Human Flourishing?",
           "description": "<p>Despite serious blemishes, history reveals that Christianity is a life-giving, transformational ideology. How can we maintain our passion to be faithful ambassadors of Jesus’ kingdom, and persuade others that Jesus’ worldview and teaching is not the problem but is positively transformational personally and culturally?</p>"
         }
@@ -326,7 +326,7 @@
         {
           "id": "decision",
           "category": "breakout",
-          "locationId": "B06",
+          "locationId": "Children's Ministry Room 2",
           "title": "More Than Just a Decision",
           "subtitle": "Helping Students Become Like Jesus",
           "description": "<p>The most significant question our students are asking is the question of identity, 'Who am I?' Culture tells them to first 'look in,' then around, and maybe finally up, in order to affirm whatever identity their emotions have chosen for themselves. This process leaves our students fragile, insecure, self protective and ultimately without freedom. The Gospel flips the cultural script on its head. The Gospel calls us to look up, then around, and finally in, to figure out what needs to be re-ordered to align with the identity God has given to us—the identity we have been created for. This is freedom. How do we build our youth ministry so that it helps students discover who they actually are, and embrace the resilient, loving, and freedom-giving identity they have been made for.</p>"
@@ -346,7 +346,7 @@
         {
           "id": "logos10",
           "category": "breakout",
-          "locationId": "Centre Court Foyer",
+          "locationId": "Children's Ministry Room 3",
           "title": "The All-New Logos 10 for Personal Bible Study, Apologetics, and Ministry",
           "description": "<p>This interactive workshop will demonstrate the use of all-new Logos 10 for personal Bible study, apologetics, counseling, and teaching. What normally takes five to 10 hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p>"
         }
@@ -585,7 +585,7 @@
         },
         {
           "id": "Gymnasium",
-          "x": 515,
+          "x": 540,
           "y": 160
         }
       ]
@@ -601,65 +601,31 @@
       },
       "markers": [
         {
-          "id": "201",
+          "id": "Children's Chapel",
           "x": 152,
           "y": 390
         },
         {
-          "id": "203",
+          "id": "Youth Room",
           "x": 105,
           "y": 390
         },
         {
-          "id": "204",
+          "id": "Children's Ministry Room 1",
           "x": 105,
           "y": 335
         },
         {
-          "id": "205",
+          "id": "Children's Ministry Room 2",
           "x": 65,
           "y": 390
         },
         {
-          "id": "206",
+          "id": "Children's Ministry Room 3",
           "x": 65,
           "y": 335
         },
-        {
-          "id": "207",
-          "x": 30,
-          "y": 390
-        },
-        {
-          "id": "208",
-          "x": 25,
-          "y": 335
-        },
-        {
-          "id": "213",
-          "x": 157,
-          "y": 227
-        },
-        {
-          "id": "215",
-          "x": 153,
-          "y": 185
-        },
-        {
-          "id": "217",
-          "x": 143,
-          "y": 140
-        },
-        {
-          "id": "219/221",
-          "x": 143,
-          "y": 90
-        },
-        {
-          "id": "223",
-          "x": 143,
-          "y": 25
-        }
+
       ]
     }
   ]
