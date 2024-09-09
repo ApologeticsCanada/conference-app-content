@@ -149,7 +149,7 @@
         {
           "id": "interpreting-the-bible",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "Social Centre",
           "title": "Intro to Interpreting the Bible",
           "subtitle": "Why the Bible Can Be Difficult to Interpret",
           "description": "<p>On one level, the Bible is easy to understand. Christians all over the world with no training in biblical interpretation grow in their faith by simply reading the Bible. On another level, the Bible is very difficult to understand. Readers, both Christian and non-Christian, traditionalist and progressive, often misinterpret, misapply, or simply miss the point of many passages in the Bible. We will look at seven of the most common barriers that prevent us from interpreting the Bible well, and learn how to become better interpreters along the way.</p>"
@@ -249,7 +249,7 @@
         {
           "id": "nothing-new",
           "category": "breakout",
-          "locationId": "Lower Court",
+          "locationId": "Gymnasium",
           "title": "Nothing New Under the Sun",
           "subtitle": "The Reincarnation of the New Age in Psychedelic Culture",
           "description": "<p>The resurgence of psychedelic drug use has spawned a rebirth of numerous strains of New Age belief systems. Psychedelic culture tends to embrace a grab bag of philosophies derived from Eastern mysticism, self-actualization, neo-paganism and pantheism, and is characterized by its openness to nearly everything EXCEPT Christianity.</p><p>While much of the belief systems are repackaged versions of ancient heresies and ideas popularized by the psychedelic movement of the sixties, the disproportional representation of the tech industry in psychedelic culture adds the novel dimension of tech- and AI-driven transhumanism.</p><p>Join Ashley Lande and Steve Kim in conversation over what has changed, what remains the same, and how Christians might creatively and confidently confront the seductive yet specious patterns of thought emerging from psychedelic culture with the truth of Jesus Christ.</p>"
@@ -581,12 +581,12 @@
         {
           "id": "Social Centre",
           "x": 377,
-          "y": 95
+          "y": 105
         },
         {
           "id": "Gymnasium",
           "x": 407,
-          "y": 95
+          "y": 115
         }
       ]
     },
