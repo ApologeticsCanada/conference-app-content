@@ -246,7 +246,7 @@
         {
           "id": "trust-inspiration",
           "category": "main",
-          "locationId": "Children's Chapel",
+          "locationId": "Worship Centre",
           "title": "Can I Trust the Bible is Divinely Inspired?",
           "subtitle": "The Possibility of a God Who Can Be Known",
           "description": "<p>Many today question whether we can know about God with any certainty. It is often said that there is a kind of knowledge that comes from science which is concrete and trustworthy, but all other knowledge -- especially spiritual knowledge -- is inherently unknowable. Because of this, anyone who claims to know the truth about God is not only deluded, but also arrogant. Yet, Christians believe that God can be known, particularly through His revelation of Himself in the Bible. But is this even possible? This talk will argue that it is, looking at the modern foundations behind our scepticism of the supernatural, the hidden assumptions and problems behind it, and the real confidence that can be placed in the Bible as God's trustworthy revelation of Himself to us.</p>"
@@ -266,7 +266,7 @@
         {
           "id": "bible-us",
           "category": "breakout",
-          "locationId": "Youth Room",
+          "locationId": "Worship Centre",
           "title": "The Bible and Us",
           "subtitle": "How Do Canadian Christsians Engage and Understand Holy Scripture?",
           "description": "<p>How do Canadian Christians read the Bible? Why do they read the Bible? What do they think about the Bible? Do they know the Bible?</p><p>Explore a recent survey showing that there are often significant differences among Christians in how, when, and why they read the Bible. It also reveals that Canadian Christians are reading the Bible in different ways, both in terms of reading it in its physical or online form and also in what they understand from their reading. It is those takeaways that often reveal some of the greatest differences among Canadian Christians’ attitudes about the Bible and its role in their lives and in the life of our country.</p>"
@@ -286,7 +286,7 @@
         {
           "id": "be-real",
           "category": "breakout",
-          "locationId": "Children's Ministry Room 1",
+          "locationId": "Children's Chapel",
           "title": "Be Real",
           "subtitle": "The Features of Genuine Authenticity... and Hypocrisy",
           "description": "<p>The moral value ascribed to authenticity in popular culture is apparent from popular slogans like 'Be Real,' 'Believe in Yourself,' 'Follow Your Heart,' etc. To what extent can these claims be reconciled with the summons of Jesus to follow him? In this session we will distinguish between genuine authenticity and questionable authenticity. In so doing, we will identify some ways in which the cultural quest for authenticity is occasioning a misunderstanding of biblical hypocrisy.</p>"
@@ -306,7 +306,7 @@
         {
           "id": "page-one",
           "category": "breakout",
-          "locationId": "Children's Ministry Room 2",
+          "locationId": "Children's Ministry Room 1",
           "title": "The Bible Page One—How Does It Compare with Modern Science?",
           "description": "<p>Is the Bible full of lies from the first page onwards? That's the kind of message Mike received recently on social media. In this session, Mike compares the first page of the Bible with the secular view of the Earth's history.</p>"
         }
@@ -344,7 +344,7 @@
         {
           "id": "medical-analysis",
           "category": "breakout",
-          "locationId": "201",
+          "locationId": "Social Centre",
           "title": "A Historical and Medical Analysis of the Death and Resurrection of Jesus",
           "description": "<p>Christianity is unique amongst all other religions because its central claim is not a spiritual teaching or emotive experience, but a historical event—fixed at a particular time in a specific geographical location. If Jesus really rose from the dead, that changes everything! Join me as we examine the evidence for this event, through the dual lenses of history and medicine.</p>"
         }
