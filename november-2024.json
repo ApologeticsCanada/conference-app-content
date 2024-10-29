@@ -332,6 +332,25 @@
       ]
     },
     {
+      "id": "scott-l",
+      "firstName": "Scott",
+      "lastName": "Lindsey",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_scott-lindsey.png",
+      "title": "Executive Director",
+      "association": "Logos",
+      "associationUrl": "https://www.logos.com/",
+      "bio": "<p>Scott Lindsey is the Executive Director and Ministry Relations Director for Faithlife, the creators of Logos Bible Software. His passion is to equip Christian communicators with the best tools available for the life-long pursuit of God through His word. The world has gone digital and Scott's ministry is to bring people's Bible study and research into the 21st century. Scott teaches at over 20+ conferences per year. He has personally trained and worked with the ministries of Tim Keller, David Jeremiah, Josh McDowell, Carol Kent, John MacArthur, Kay Arthur, and many more.</p>",
+      "sessions": [
+        {
+          "id": "logos10",
+          "category": "breakout",
+          "locationId": "Children's Ministry Room 2",
+          "title": "The All-New Logos 10 for Personal Bible Study, Apologetics, and Ministry",
+          "description": "<p>This interactive workshop will demonstrate the use of all-new Logos 10 for personal Bible study, apologetics, counseling, and teaching. What normally takes five to 10 hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p>"
+        }
+      ]
+    },
+    {
       "id": "raphael-s",
       "firstName": "Raphael",
       "lastName": "Samuel",
