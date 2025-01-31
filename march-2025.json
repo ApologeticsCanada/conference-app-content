@@ -1,0 +1,488 @@
+{
+  "home": {
+    "logoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/ACC-ON-Logo-v2.png"
+  },
+  "schedule": {
+    "2024-11-08": [
+      {
+        "startTime": "18:00",
+        "endTime": "18:30",
+        "title": "Registration begins. Ministry booths open."
+      },
+      {
+        "startTime": "18:30",
+        "endTime": "19:00",
+        "title": "Doors open"
+      },
+      {
+        "startTime": "19:00",
+        "endTime": "20:45",
+        "title": "Main Session 1"
+      },
+      {
+        "endTime": "20:45",
+        "content": "<p><b><i>Can I Trust the God of the Bible?</i></b> - Andy Steiger, Ph.D</p>",
+        "action": {
+          "sessionId": "trust-God"
+        }
+      },
+      {
+        "endTime": "20:45",
+        "html": "<p><b><i>Can I Trust the Bible is Good?</i></b> - Glen Scrivener</p>",
+        "action": {
+          "sessionId": "trust-bible"
+        }
+      },
+      {
+        "startTime": "20:45",
+        "endTime": "21:00",
+        "title": "Break"
+      },
+      {
+        "startTime": "21:00",
+        "endTime": "21:30",
+        "title": "Panel Q&A with Andy & Glen (moderated by Wesley Huff)"
+      },
+      {
+        "startTime": "21:30",
+        "endTime": "22:00",
+        "title": "Conference ends for the night"
+      }
+    ],
+    "2024-11-09": [
+      {
+        "startTime": "08:00",
+        "endTime": "08:30",
+        "title": "AC Vision Breakfast (RSVP req'd at time of registration)"
+      },
+      {
+        "startTime": "08:30",
+        "endTime": "09:00",
+        "title": "Doors open"
+      },
+      {
+        "startTime": "09:00",
+        "endTime": "12:00",
+        "title": "Main Session 2"
+      },
+      {
+        "endTime": "12:00",
+        "content": "<p><b><i>Can I Trust the Old Testament?</i></b> - Titus Kennedy, Ph.D</p>",
+        "action": {
+          "sessionId": "trust-ot"
+        }
+      },
+      {
+        "endTime": "12:00",
+        "content": "<p><b><i>Can I Trust the New Testament?</i></b> - Wesley Huff</p>",
+        "action": {
+          "sessionId": "trust-nt"
+        }
+      },
+      {
+        "endTime": "12:00",
+        "content": "<p>Panel Q&A with Titus & Wesley (Moderated by Tim Woodcock)</p>"
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "title": "Lunch Break"
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "title": "Breakout Session 1"
+      },
+      {
+        "startTime": "14:30",
+        "endTime": "15:15",
+        "title": "Breakout Session 2"
+      },
+      {
+        "startTime": "15:15",
+        "endTime": "15:30",
+        "title": "Break"
+      },
+      {
+        "startTime": "15:30",
+        "endTime": "16:15",
+        "content": "<p><b><i>Can I Trust the Bible is Divinely Inspired?</i></b> - Logan Gates</p>",
+        "action": {
+          "sessionId": "trust-inspiration"
+        }
+      },
+      {
+        "startTime": "16:15",
+        "endTime": "16:45",
+        "title": "Conference ends"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "id": "glen-s",
+      "firstName": "Glen",
+      "lastName": "Scrivener",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Glen-Scrivener.png",
+      "title": "Evangelism Director",
+      "association": "Speak Life",
+      "associationUrl": "https://speaklife.org.uk/",
+      "bio": "<p>Glen Scrivener is an ordained Church of England minister and evangelist who preaches Christ through writing, speaking, and online media. He directs the evangelistic ministry Speak Life. He is passionate about people meeting Christ and equipping Christians to share their faith. He's often found speaking at churches and universities, in the studio producing online media or in his office, writing books and other evangelistic material.</p><p>Glen is the author of several books, including The Air We Breathe: How We All Came to Believe in Freedom, Kindness, Progress, and Equality (The Good Book Company, 2022) and 3-2-1: The Story of God, the World, and You (10Publishing, 2014).</p><p>Glen is originally from Australia and now he and his wife, Emma, live with their two children in England. They belong to All Souls Eastbourne.</p>",
+      "sessions": [
+        {
+          "id": "trust-bible",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Can I Trust the Bible is Good?",
+          "subtitle": "How the Scriptures Shaped Our Ethics",
+          "description": "<p>Over the course of millennia, the Bible has shaped the moral intuitions of the West. Now, though, the Bible is deemed guilty of crimes that would be unthinkable without the Bible's own profound influence. It is considered bigoted, cruel, restrictive and regressive. But it's the Bible itself that has taught us the values of equality, compassion, freedom and progress. How should we respond when Christianity is attacked on Christian-ish grounds?</p>"
+        },
+        {
+          "id": "air-breathe",
+          "category": "breakout",
+          "locationId": "Social Centre",
+          "title": "The Air We Breathe",
+          "subtitle": "in conversation with Wesley Huff",
+          "description": "<p>Is Christian history the deepest explanation of the modern world?</p><p>Today in the west, many consider the church to be dead or dying. Christianity is seen as outdated, bigoted and responsible for many of society’s problems. This leaves many believers embarrassed about their faith and many outsiders wary of religion. But what if the Christian message is not the enemy of our modern Western values, but the very thing that makes sense of them?</p><p>In this session, Glen Scrivener engages in a conversation with Wesley Huff and tells the story of how the teachings of Jesus not only turned the ancient world upside down, but continue to underpin the way we think of life, worth, and meaning. Far from being a relic from the past, the distinctive ideas of Christianity, such as freedom, kindness, progress and equality, are a crucial part of the air that we breathe.</p>"
+        }
+      ]
+    },
+    {
+      "id": "andy-s",
+      "firstName": "Andy",
+      "lastName": "Steiger, Ph.D",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Andy-Steiger.png",
+      "title": "President",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://apologeticscanada.com/",
+      "bio": "<p>Andy Steiger is the founder and president of Apologetics Canada Ministries (AC). He passionately engages pressing issues related to our humanity from a Christian perspective. He has presented at various venues such as Cambridge University on philosophical issues related to Artificial Intelligence, provided ethical guidelines on robotics for the United Nations, and addressed legal concerns over rights of conscience at the World Congress in Philosophy of Law.</p><p>Andy has published widely from children’s books to the Supreme Court Law Review. His most recent book, Reclaimed: How Jesus Restores Our Humanity in a Dehumanized World was awarded runner up to evangelistic resource of the year. Andy is known for making complex theological and philosophical ideas understandable through the art of storytelling as seen in AC’s video resources. The Human Project video series debuted at film festivals around the world and won a number of awards including Best Short Film and People's Choice. Recently released is BRANDED: A Series on Identity which is now available on RightNow Media. Between his 20 years of pastoral experience and a PhD from the University of Aberdeen, Andy brings both experience and research to his work.</p><p>Andy currently lives in Abbotsford, British Columbia, with his wife, Nancy, and their two sons. Most weekends you’ll find the Steigers in the mountains or lakes of BC.</p>",
+      "sessions": [
+        {
+          "id": "trust-God",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Can I Trust the God of the Bible?",
+          "description": "<p>If you have read the Bible, you have been confronted by war, slavery, murder, prostitution, rape, and more. Everything that shames humanity is on display. For a holy book, it’s not what you would expect. The characters found in the pages of Scripture are not the heroes we are often tempted to revere. They are complicated, broken, and in need of saving. The Bible provides such clarity on the human condition that, if we’re not careful, we distort the main character—God. The Bible has left many to question: is the God of the Bible good? Can He be trusted? In this session, we will look beyond the biblical characters to see God clearly and that he can be trusted.</p>"
+        }
+      ]
+    },
+    {
+      "id": "titus-k",
+      "firstName": "Titus",
+      "lastName": "Kennedy, Ph.D",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Titus-Kennedy_rev.png",
+      "title": "Adjunct Professor of Archaeology",
+      "association": "Biola University",
+      "associationUrl": "https://www.biola.edu/",
+      "bio": "<p>Dr. Titus Kennedy is a field archaeologist working primarily with sites and materials of the ancient Near East and the Mediterranean world. He has been involved in archaeological projects at 18 sites spanning 6 countries, including directing and supervising multiple projects from the Bronze Age through the Byzantine period, and has also conducted artifact research at museums and collections around the world. He earned his doctorate from the University of South Africa in Biblical Archaeology with an emphasis on archaeological demographics, MA degrees from the University of Toronto and the University of South Africa, and a BA from Biola University. He is a research fellow at the Discovery Institute, a university and seminary professor of archaeology, editor of the Near Eastern Archaeological Society bulletin, and has been a consultant, writer, and guide for history and archaeology documentaries and curricula, including Drive Thru History® and Bible Unearthed™. He has written numerous articles about biblical archaeology and history, and is the author of <i>Unearthing the Bible</i>, <i>Excavating the Evidence for Jesus</i>, and <i>The Essential Archaeological Guide to Bible Lands</i>.</p>",
+      "sessions": [
+        {
+          "id": "trust-ot",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Can I Trust the Old Testament?",
+          "subtitle": "Archaeological Discoveries that Corroborate Scripture",
+          "description": "<p>The Bible, and in particular the Old Testament, has been classified as myth and propaganda by many scholars in recent times. If the Old Testament is not a reliable historical document as is often alleged, then it cannot be trusted as a source of truth. However, archaeological discoveries of the last 150 years have corroborated the historical claims of Scripture and demonstrated the reliability of the Old Testament. Drawing on major finds relating to events, people, and places spanning the time of the Patriarchs to the time of the Persians, evidence from archaeology indicates that the Old Testament accurately records history and can be considered a trustworthy source.</p>"
+        },
+        {
+          "id": "history-legend",
+          "category": "breakout",
+          "locationId": "Gymnasium",
+          "title": "History or Legend?",
+          "subtitle": "Joshua and the Conquest of Canaanites",
+          "description": "<p>The book of Joshua records a campaign of conquest in Canaan involving cities such as Jericho, Ai, Jerusalem, Lachish, Gezer, Shechem, and Hazor. Since the beginning of archaeological excavations in the Middle East, many scholars have placed this story in the realm of legend or myth based on the lack of archaeological finds, conflicting interpretations, and literary hypotheses. In recent decades, however, new archaeological data and a renewed look at previous excavations have led more than a few archaeologists to assert that these were historical events represented by finds from numerous sites. Based on information both new and old from several ancient cities, a powerful argument can be made that the urban conquests chronicled in Joshua are corroborated by archaeological discoveries.</p>"
+        }
+      ]
+    },
+    {
+      "id": "wesley-h",
+      "firstName": "Wesley",
+      "lastName": "Huff",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-wesley-huff.png",
+      "title": "Central Canada director",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://www.apologeticscanada.com/",
+      "bio": "<p>Wesley Huff was born in Multan, Pakistan and spent a portion of his childhood in the Middle East. After being diagnosed with a rare neurological condition at the age of eleven that left him paralyzed from the waist down Wes experienced a miraculous recovery that the doctors themselves said they had no medical explanation for. This experience, along with a great deal of study and soul searching in his later teens solidified his interest in the subjects of faith and engaging the beliefs and worldview perspectives of others. He spent his high school years in the Northern Ontarian town of Elliot Lake, and currently lives in Toronto, Canada with his wife, Melissa, their son Eli, and daughters Everly and Juliette.</p><p>He holds a BA in sociology from York University, a Masters of Theological Studies from Tyndale University, and is currently doing a PhD in New Testament and Christian Origins at the University of Toronto’s Wycliffe College. For five years Wes worked as a writer, researcher, and speaker for Power to Change - Students (formerly Campus Crusade in Canada) and has made online contributions to Apologetics Canada, Power to Change - Students, The Gospel Coalition Canada, and the Apologetics Academy Webinar. Along with being involved in the collective with Talk About Doubts, he has been a curriculum contributor with Trans World Radio and written multiple entries (including those on Rastafarianism, Canadian Druze Society, and Kathok Conpa Buddhism) in the Melton’s Encyclopedia of American Religions (Ninth Edition, Vol 2: Canada).</p><p>Wesley is currently the Director of Central Canada for Apologetics Canada and has participated in numerous talks and interfaith dialogue events at universities and colleges across North America. He has been participating in public dialogues on issues of faith, belief, and religion for the last ten years.</p><p>He enjoys canoeing, archery, and cats (although not all three at the same time).</p>",
+      "sessions": [
+        {
+          "id": "trust-nt",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Can I Trust the New Testament?",
+          "subtitle": "Ancient Artifacts that Confirm the Bible",
+          "description": "<p>The second half of our Bibles (what we call the New Testament) is made up of 27 books. But where did these writings come from and what physical evidence do we have that corroborates their reliability? From manuscripts and monuments to ancient graffiti, this talk will look at a number of key artifacts that point to the validity of the Bible’s content, context, and canonization as a collection of trustworthy witnesses to the life and time of Jesus.</p>"
+        }
+      ]
+    },
+    {
+      "id": "tim-w",
+      "firstName": "Tim",
+      "lastName": "Woodcock",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/08/Tim-Woodcock.png",
+      "title": "Lead Pastor",
+      "association": "Glad Tidings Church",
+      "associationUrl": "https://www.gtburlington.org/",
+      "bio": "<p>Tim grew up as a pastor’s kid and has had the privilege of living and ministering both in Canada and the US. Although feeling somewhat “thrown” into ministry at a very young age he has now been serving the church formally for over 20 years.</p><p>Tim's heart is to pastor the incredible people that call Glad Tidings Church home with conviction and care. He has a strong desire to see the church equipped with a deep understanding of God’s Word and their identity as sons and daughters in the Kingdom rule and reign of Jesus. Believing passionately that the church universal is God’s plan in accomplishing His mission in the world.</p><p>Tim's greatest calling and privilege is that he is the husband of Jennifer Woodcock and the father of three incredible girls. He loves sports (especially Basketball), the outdoors, and reading.</p>",
+      "sessions": [
+        {
+          "id": "qa-titus-wesley",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Q&A with Titus & Wesley",
+          "description": "<p>Pastor Tim will be moderating the Q&A with Titus & Wesley after their main sessions on Saturday.</p>"
+        }
+      ]
+    },
+    {
+      "id": "logan-g",
+      "firstName": "Logan",
+      "lastName": "Gates",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Logan-Gates.png",
+      "title": "Adjunct Speaker",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://www.apologeticscanada.com/",      
+      "bio": "<p>Logan is a PhD Candidate in Political Theory at the University of Toronto, studying the emergence of human rights in early modern political thought. He holds an MTh in Applied Theology from the University of Oxford and is a graduate of OCCA, The Oxford Centre for Christian Apologetics. As an apologist, Logan has spoken on tough questions about the Christian faith at universities across Canada and the US. He is ordained in the Anglican Network in Canada (ANiC) and is married to his wonderful bride Samantha -- a native Torontonian! He enjoys a cup of hot tea and talking about the big questions in life.</p>",
+      "sessions": [
+        {
+          "id": "trust-inspiration",
+          "category": "main",
+          "locationId": "Worship Centre",
+          "title": "Can I Trust the Bible is Divinely Inspired?",
+          "subtitle": "The Possibility of a God Who Can Be Known",
+          "description": "<p>Many today question whether we can know about God with any certainty. It is often said that there is a kind of knowledge that comes from science which is concrete and trustworthy, but all other knowledge -- especially spiritual knowledge -- is inherently unknowable. Because of this, anyone who claims to know the truth about God is not only deluded, but also arrogant. Yet, Christians believe that God can be known, particularly through His revelation of Himself in the Bible. But is this even possible? This talk will argue that it is, looking at the modern foundations behind our scepticism of the supernatural, the hidden assumptions and problems behind it, and the real confidence that can be placed in the Bible as God's trustworthy revelation of Himself to us.</p>"
+        }
+      ]
+    },
+    {
+      "id": "andrew-b",
+      "firstName": "Rev. Dr. Andrew P. W.",
+      "lastName": "Bennett",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/09/Andrew-Bennett_v2.png",
+      "title": "Program Director, Faith Communities",
+      "association": "Cardus",
+      "associationUrl": "https://www.cardus.ca/",
+      "bio": "<p>The Rev. Dr. Andrew Bennett is an ordained deacon in the Ukrainian Greek-Catholic Church in the Eparchy of Toronto and Eastern Canada serving at St. John the Baptist Ukrainian-Catholic Shrine in Ottawa.</p><p>Fr. Deacon Andrew is also the Director of Faith Communities at Cardus, a non-partisan, Christian think-tank in Ottawa, and a Senior Fellow at the Washington, DC-based Religious Freedom Institute.</p><p>He previously served as Canada's first Ambassador for Religious Freedom and Head of the Office of Religious Freedom from 2013 to 2016 in the Department of Global Affairs Canada. He is a leading commentator on religious freedom and the role of Christianity in Canada’s public square and a regular contributor to the Catholic Register under the byline “Ad Orientem”.</p><p>Fr. Dcn. Andrew holds a Ph.D. in Politics from the University of Edinburgh as well as degrees in history from McGill (M.A.) and Dalhousie (B.A. Hons.).</p>",
+      "sessions": [
+        {
+          "id": "bible-us",
+          "category": "breakout",
+          "locationId": "Worship Centre",
+          "title": "The Bible and Us",
+          "subtitle": "How Do Canadian Christsians Engage and Understand Holy Scripture?",
+          "description": "<p>How do Canadian Christians read the Bible? Why do they read the Bible? What do they think about the Bible? Do they know the Bible?</p><p>Explore a recent survey showing that there are often significant differences among Christians in how, when, and why they read the Bible. It also reveals that Canadian Christians are reading the Bible in different ways, both in terms of reading it in its physical or online form and also in what they understand from their reading. It is those takeaways that often reveal some of the greatest differences among Canadian Christians’ attitudes about the Bible and its role in their lives and in the life of our country.</p>"
+        }
+      ]
+    },
+    {
+      "id": "bill-dj",
+      "firstName": "Bill",
+      "lastName": "DeJong, Ph.D",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Bill-De-Jong.png",
+      "title": "Assistant Professor of Religion and Theology",
+      "association": "Redeemer University",
+      "associationUrl": "https://www.redeemer.ca/",
+      "bio": "<p>Bill DeJong has served as a pastor for nearly 30 years in Canada and the US, most recently as the lead pastor of Blessings Christian Church in Hamilton, ON. He also serves as a Fellow of the Kirby Laing Centre for Public Theology (Cambridge, UK) and as chair of the Scripture and Church Seminar for the Institute for Biblical Research. He is excited to play a part in the spiritual formation of faculty and staff at Redeemer University as well as teach some courses.</p>",
+      "sessions": [
+        {
+          "id": "be-real",
+          "category": "breakout",
+          "locationId": "Children's Chapel",
+          "title": "Be Real",
+          "subtitle": "The Features of Genuine Authenticity... and Hypocrisy",
+          "description": "<p>The moral value ascribed to authenticity in popular culture is apparent from popular slogans like 'Be Real,' 'Believe in Yourself,' 'Follow Your Heart,' etc. To what extent can these claims be reconciled with the summons of Jesus to follow him? In this session we will distinguish between genuine authenticity and questionable authenticity. In so doing, we will identify some ways in which the cultural quest for authenticity is occasioning a misunderstanding of biblical hypocrisy.</p>"
+        }
+      ]
+    },
+    {
+      "id": "mike-h",
+      "firstName": "Mike",
+      "lastName": "Hiscock",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Mike-Hiscock.png",
+      "title": "Adjunct Speaker",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://apologeticscanada.com/",
+      "bio": "<p>Mike is a retired pilot. Ever since he's had a taste of it, he has come to appreciate the value and the role of apologetics in Christian discipleship and faith formation.</p><p>Mike came to faith through the apologetics ministry of Lee Strobel. He now has a passion to bring apologetics to the larger Church because he has seen firsthand how it changes lives. Mike is a former Royal Canadian Air Force pilot, holds a BSc from the Royal Military College of Canada, and holds a master’s degree in Christian Apologetics from Columbia Evangelical Seminary. Mike lives in Victoria, BC with his wife Shirley.</p>",
+      "sessions": [
+        {
+          "id": "page-one",
+          "category": "breakout",
+          "locationId": "Children's Ministry Room 1",
+          "title": "The Bible Page One—How Does It Compare with Modern Science?",
+          "description": "<p>Is the Bible full of lies from the first page onwards? That's the kind of message Mike received recently on social media. In this session, Mike compares the first page of the Bible with the secular view of the Earth's history.</p>"
+        }
+      ]
+    },
+    {
+      "id": "steve-k",
+      "firstName": "Steve",
+      "lastName": "Kim",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/06/Steve-Kim.png",
+      "title": "Alberta Director",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://www.apologeticscanada.com/",
+      "bio": "<p>Steve is a follower of Christ with a heart for apologetics. In his early 20s, Steve experienced a faith crisis due to intellectual undernourishment. Through this experience, he has come to see apologetics as the “intellectual care of the soul” and now feels a personal burden to walk with others who may be struggling with doubt and/or seeking sincerely. Steve holds a diploma in Worship Arts and a BA in Biblical Studies from Columbia Bible College in Abbotsford, BC. He has completed a master’s degree in Christian Apologetics through Biola University in La Mirada, CA. He began his PhD studies through the University of the Highlands and Islands in Scotland, exploring any proper limits of human enhancement.</p><p>A native of Korea, Steve now lives in the Edmonton area with his wife, Sharina, and two children, Maya and Tavin.</p>",
+      "sessions": [
+        {
+          "id": "human-rights",
+          "category": "breakout",
+          "locationId": "Children's Ministry Room 3",
+          "title": "What Does God Have to Do with Human Rights?",
+          "description": "<p>If we are to name the one non-negotiable cultural value in our society, many would quickly champion human rights. Yet, insofar as human rights is invoked as an objective reality in our world, we must make sense of it through our worldview. Is every worldview adequate to the task of providing the sacred bedrock for human rights? Join Steve as he compares and contrasts Christianity with atheism and new age spirituality to see which worldview best accounts for the most important cultural value of our time.</p>"
+        }
+      ]
+    },
+    {
+      "id": "scott-l",
+      "firstName": "Scott",
+      "lastName": "Lindsey",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_scott-lindsey.png",
+      "title": "Executive Director",
+      "association": "Logos",
+      "associationUrl": "https://www.logos.com/",
+      "bio": "<p>Scott Lindsey is the Executive Director and Ministry Relations Director for Faithlife, the creators of Logos Bible Software. His passion is to equip Christian communicators with the best tools available for the life-long pursuit of God through His word. The world has gone digital and Scott's ministry is to bring people's Bible study and research into the 21st century. Scott teaches at over 20+ conferences per year. He has personally trained and worked with the ministries of Tim Keller, David Jeremiah, Josh McDowell, Carol Kent, John MacArthur, Kay Arthur, and many more.</p>",
+      "sessions": [
+        {
+          "id": "logos10",
+          "category": "breakout",
+          "locationId": "Children's Ministry Room 2",
+          "title": "The All-New Logos for Personal Bible Study, Apologetics, and Ministry",
+          "description": "<p>This interactive workshop will demonstrate the use of all-new Logos for personal Bible study, apologetics, counseling, and teaching. What normally takes five to 10 hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p>"
+        }
+      ]
+    },
+    {
+      "id": "raphael-s",
+      "firstName": "Raphael",
+      "lastName": "Samuel",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Raphael-Samuel.png",
+      "title": "Anesthesiologist",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://www.apologeticscanada.com/",      
+      "bio": "<p>Raphael Samuel is a Christian speaker, apologist, and anesthesiologist in Ontario, Canada. Born in Durban, South Africa, he obtained his medical degree and a master’s degree in medicine there. He further obtained fellowships in anesthesiology from the Colleges of Medicine of South Africa and the Royal College of Physicians and Surgeons of Canada. He is currently completing his master’s degree in Christian Apologetics at Talbot School of Theology, Biola University, in Southern California on a part-time basis.</p><p>Apart from general apologetics, his other areas of interest include pro-life advocacy, human consciousness as evidence for the soul, and the evidence for God from the human body.</p><p>Raphael lives in Hamilton, with his wife, Reshmi, and two sons.</p>",
+      "sessions": [
+        {
+          "id": "medical-analysis",
+          "category": "breakout",
+          "locationId": "Social Centre",
+          "title": "A Historical and Medical Analysis of the Death and Resurrection of Jesus",
+          "description": "<p>Christianity is unique amongst all other religions because its central claim is not a spiritual teaching or emotive experience, but a historical event—fixed at a particular time in a specific geographical location. If Jesus really rose from the dead, that changes everything! Join me as we examine the evidence for this event, through the dual lenses of history and medicine.</p>"
+        }
+      ]
+    }
+  ],
+  "additionalInfo": [
+    {
+      "heading": "WiFi Access",
+      "body": "<h1>WiFi Access</h1><p>FREE public WiFi is available at the conference.<br/><br/>Network Name: <b>GT Guest</b><br/>Password: <b>Guest2021</b>.</p>"
+    },
+    {
+      "heading": "Got Questions?",
+      "body": "<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via <b>Slido.com</b>. Join the session with the code <b>#1903 004</b>.</p>"
+    },
+    {
+      "heading": "The AC Podcast",
+      "body": "<h1>The AC Podcast</h1><p>Apologetics Canada has a weekly podcast program where Andy, Steve, Wes, and Troy offer a healthy dose of Christian perspective on cultural issues of our day. Search for The AC Podcast on your favourite podcast platform!</p>",
+      "action": {
+        "label": "AC Podcast",
+        "icon": null,
+        "url": "https://apologeticscanada.com/podcasts/"
+      }
+    },
+    {
+      "heading": "Donations",
+      "body": "<h1>Donations</h1><p>Apologetics Canada Ministries is a registered Canadian charity that depends on the generous support of people like you. If you appreciate our ministry, please prayerfully consider supporting us financially.</p>",
+      "action": {
+        "label": "Click to Donate",
+        "icon": "money",
+        "url": "https://www.apologeticscanada.com/donate/"
+      }
+    },
+    {
+      "heading": "Apologetics Canada (AC) Table",
+      "body": "<h1>Apologetics Canada (AC) Table</h1><p>Come see us at the AC Table. We'd love to talk to you about what we are up to: the work we are doing, the events and resources that might be right for you, or any questions you might have. We are also looking for more partnering churches as ministry partners in new cities across Canada. Or perhaps you are interested in joining our financial support team because you see the value of this ministry or you have personally been impacted by it. Come visit us.</p>"
+    },
+    {
+      "heading": "Pre-order Conference Recordings",
+      "body": "<h1>Pre-order Conference Recordings</h1><p>All sessions from the conference are being recorded. You can pre-order the recordings as a digital download at the Apologetics Canada book table in the foyer. The recording package contains videos of the Main Sessions and audio files of the Breakout Sessions.</p>",
+      "action": {
+        "label": "AC Online Store",
+        "icon": "shopping-cart",
+        "url": "https://store.apologeticscanada.com/products/acc24-on-recordings"
+      }
+    },
+    {
+      "heading": "Can I Trust the Bible?",
+      "body": "<h1>Sign up today to receive the video downloads for free!</h1><p>The Bible is the most important book of the last two millennia. From sitting at the formation of governments, cultures, and law, this collection of ancient documents has shaped the modern world in ways you may have never realized. However, while the Bible's influence has remained, central attitudes towards it have radically shifted. Once referred to as 'the Good Book,' there has been a growing skepticism and downright distaste for the Bible.</p><p>Are there good reasons to take the Bible seriously? Can we have confidence that it hasn't been altered, adapted, influenced, and edited since its last book was penned nearly two thousand years ago? What are the implications if the Bible's claims are true?</p><p>Sign up today to receive the download links! Click the button below to get started!</p>",
+      "action": {
+        "label": "Sign Up",
+        "url": "https://bible.apologeticscanada.com/" 
+      }
+    }
+  ],
+  "floors": [
+    {
+      "index": 0,
+      "id": 1,
+      "name": "Main Floor",
+      "image": {
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-1.png",
+        "width": 776,
+        "height": 545
+      },
+      "markers": [
+        {
+          "id": "Worship Centre",
+          "x": 347,
+          "y": 95
+        },
+        {
+          "id": "Social Centre",
+          "x": 440,
+          "y": 145
+        },
+        {
+          "id": "Gymnasium",
+          "x": 540,
+          "y": 160
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "id": 2,
+      "name": "Second Floor",
+      "image": {
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-2.png",
+        "width": 776,
+        "height": 545
+      },
+      "markers": [
+        {
+          "id": "Children's Chapel",
+          "x": 302,
+          "y": 315
+        },
+        {
+          "id": "Youth Room",
+          "x": 465,
+          "y": 430
+        },
+        {
+          "id": "Children's Ministry Room 3",
+          "x": 445,
+          "y": 85
+        },
+        {
+          "id": "Children's Ministry Room 2",
+          "x": 445,
+          "y": 145
+        },
+        {
+          "id": "Children's Ministry Room 1",
+          "x": 445,
+          "y": 215
+        }
+      ]
+    }
+  ]
+}
