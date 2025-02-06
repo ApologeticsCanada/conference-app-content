@@ -1,13 +1,13 @@
 {
   "home": {
-    "logoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/ACC-ON-Logo-v2.png"
+    "logoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/QuestionMark-Logo-V2.gif"
   },
   "schedule": {
-    "2024-11-08": [
+    "2025-03-07": [
       {
-        "startTime": "18:00",
+        "startTime": "17:30",
         "endTime": "18:30",
-        "title": "Registration begins. Ministry booths open."
+        "title": "Registration begins. Any remaining tickets available for purchase."
       },
       {
         "startTime": "18:30",
@@ -16,356 +16,577 @@
       },
       {
         "startTime": "19:00",
-        "endTime": "20:45",
+        "endTime": "21:00",
         "title": "Main Session 1"
       },
       {
-        "endTime": "20:45",
-        "content": "<p><b><i>Can I Trust the God of the Bible?</i></b> - Andy Steiger, Ph.D</p>",
-        "action": {
-          "sessionId": "trust-God"
-        }
-      },
-      {
-        "endTime": "20:45",
-        "html": "<p><b><i>Can I Trust the Bible is Good?</i></b> - Glen Scrivener</p>",
-        "action": {
-          "sessionId": "trust-bible"
-        }
-      },
-      {
-        "startTime": "20:45",
         "endTime": "21:00",
-        "title": "Break"
+        "content": "<p><a><b><i>From Code to Consciousness: Can Artificial Intelligence Be Human?</i></b></a> - Andy Steiger, Ph.D</p>",
+        "action": {
+          "sessionId": "andy-s-main"
+        }
+      },
+      {
+        "endTime": "21:00",
+        "html": "<p><a><b><i>From Ethical to Righteous: Can Artificial Intelligence Be Good?</i></b></a> - Gretchen Huizinga</p>",
+        "action": {
+          "sessionId": "gretchen-h-main"
+        }
       },
       {
         "startTime": "21:00",
-        "endTime": "21:30",
-        "title": "Panel Q&A with Andy & Glen (moderated by Wesley Huff)"
-      },
-      {
-        "startTime": "21:30",
-        "endTime": "22:00",
-        "title": "Conference ends for the night"
-      }
-    ],
-    "2024-11-09": [
-      {
-        "startTime": "08:00",
-        "endTime": "08:30",
-        "title": "AC Vision Breakfast (RSVP req'd at time of registration)"
-      },
-      {
-        "startTime": "08:30",
-        "endTime": "09:00",
-        "title": "Doors open"
-      },
-      {
-        "startTime": "09:00",
-        "endTime": "12:00",
-        "title": "Main Session 2"
-      },
-      {
-        "endTime": "12:00",
-        "content": "<p><b><i>Can I Trust the Old Testament?</i></b> - Titus Kennedy, Ph.D</p>",
-        "action": {
-          "sessionId": "trust-ot"
-        }
-      },
-      {
-        "endTime": "12:00",
-        "content": "<p><b><i>Can I Trust the New Testament?</i></b> - Wesley Huff</p>",
-        "action": {
-          "sessionId": "trust-nt"
-        }
-      },
-      {
-        "endTime": "12:00",
-        "content": "<p>Panel Q&A with Titus & Wesley (Moderated by Tim Woodcock)</p>"
-      },
-      {
-        "startTime": "12:00",
-        "endTime": "13:30",
-        "title": "Lunch Break"
-      },
-      {
-        "startTime": "13:30",
-        "endTime": "14:15",
-        "title": "Breakout Session 1"
-      },
-      {
-        "startTime": "14:30",
-        "endTime": "15:15",
-        "title": "Breakout Session 2"
-      },
-      {
-        "startTime": "15:15",
-        "endTime": "15:30",
+        "endTime": "21:20",
         "title": "Break"
       },
       {
-        "startTime": "15:30",
-        "endTime": "16:15",
-        "content": "<p><b><i>Can I Trust the Bible is Divinely Inspired?</i></b> - Logan Gates</p>",
+        "startTime": "21:20",
+        "endTime": "22:00",
+        "title": "Panel Q&A with Andy Steiger, Gretchen Huizinga, and Mike Butler (moderated by Steve Kim)"
+      },
+      {
+        "startTime": "22:00",
+        "endTime": "22:30",
+        "title": "Conference ends for the night"
+      }
+    ],
+    "2025-03-08": [
+      {
+        "startTime": "07:30",
+        "endTime": "08:00",
+        "title": "Doors open. Complimentary coffee/tea and COBS scone (1 COBS/person)."
+      },
+      {
+        "startTime": "08:00",
+        "endTime": "10:15",
+        "title": "Main Session 2"
+      },
+      {
+        "endTime": "10:15",
+        "content": "<p><a><b><i>The Gospel According to TikTok: Seeing Jesus Clearly through the Digital Haze</i></b></a> - Wesley Huff</p>",
         "action": {
-          "sessionId": "trust-inspiration"
+          "sessionId": "wesley-h-main"
         }
       },
       {
-        "startTime": "16:15",
-        "endTime": "16:45",
+        "endTime": "10:15",
+        "content": "<p><a><b><i>From Pixels to Purpose: Discerning Christian Stewardship of Digital Platforms</i></b></a> - Ruslan KD</p>",
+        "action": {
+          "sessionId": "ruslan-kd-main"
+        }
+      },
+      {
+        "endTime": "10:15",
+        "content": "<p>Q&A with Wesley Huff and Ruslan KD (Moderated by Troy Lydiate)</p>"
+      },
+      {
+        "startTime": "10:15",
+        "endTime": "10:40",
+        "title": "Break"
+      },
+      {
+        "startTime": "10:40",
+        "endTime": "11:20",
+        "title": "Breakout Session 1",
+        "subtitle": "(Choose a topic of interest)",
+        "action": "speakers",
+        "actionParams": { "initialPage": 1 }
+      },
+      {
+        "startTime": "11:20",
+        "endTime": "12:25",
+        "title": "Lunch",
+        "subtitle": "(Food truck will be available on-site)"
+      },
+      {
+        "startTime": "12:25",
+        "endTime": "13:05",
+        "title": "Breakout Session 2",
+        "subtitle": "(Choose a topic of interest)",
+        "actionParams": { "initialPage": 1 }
+      },
+      {
+        "startTime": "13:05",
+        "endTime": "13:20",
+        "title": "Break"
+      },
+      {
+        "startTime": "13:20",
+        "endTime": "14:00",
+        "title": "Main Session 3"
+      },
+      {
+        "endTime": "14:00",
+        "content": "<p><a><b><i>Surviving the Culture Wars: What the Church Must Learn From Europe's Failures</i></b></a> - Sebastian Vaduva</p>",
+        "action": {
+          "sessionId": "sebastian-v-main"
+        }
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:30",
         "title": "Conference ends"
       }
     ]
   },
   "speakers": [
     {
-      "id": "glen-s",
-      "firstName": "Glen",
-      "lastName": "Scrivener",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Glen-Scrivener.png",
-      "title": "Evangelism Director",
-      "association": "Speak Life",
-      "associationUrl": "https://speaklife.org.uk/",
-      "bio": "<p>Glen Scrivener is an ordained Church of England minister and evangelist who preaches Christ through writing, speaking, and online media. He directs the evangelistic ministry Speak Life. He is passionate about people meeting Christ and equipping Christians to share their faith. He's often found speaking at churches and universities, in the studio producing online media or in his office, writing books and other evangelistic material.</p><p>Glen is the author of several books, including The Air We Breathe: How We All Came to Believe in Freedom, Kindness, Progress, and Equality (The Good Book Company, 2022) and 3-2-1: The Story of God, the World, and You (10Publishing, 2014).</p><p>Glen is originally from Australia and now he and his wife, Emma, live with their two children in England. They belong to All Souls Eastbourne.</p>",
-      "sessions": [
-        {
-          "id": "trust-bible",
-          "category": "main",
-          "locationId": "Worship Centre",
-          "title": "Can I Trust the Bible is Good?",
-          "subtitle": "How the Scriptures Shaped Our Ethics",
-          "description": "<p>Over the course of millennia, the Bible has shaped the moral intuitions of the West. Now, though, the Bible is deemed guilty of crimes that would be unthinkable without the Bible's own profound influence. It is considered bigoted, cruel, restrictive and regressive. But it's the Bible itself that has taught us the values of equality, compassion, freedom and progress. How should we respond when Christianity is attacked on Christian-ish grounds?</p>"
-        },
-        {
-          "id": "air-breathe",
-          "category": "breakout",
-          "locationId": "Social Centre",
-          "title": "The Air We Breathe",
-          "subtitle": "in conversation with Wesley Huff",
-          "description": "<p>Is Christian history the deepest explanation of the modern world?</p><p>Today in the west, many consider the church to be dead or dying. Christianity is seen as outdated, bigoted and responsible for many of society’s problems. This leaves many believers embarrassed about their faith and many outsiders wary of religion. But what if the Christian message is not the enemy of our modern Western values, but the very thing that makes sense of them?</p><p>In this session, Glen Scrivener engages in a conversation with Wesley Huff and tells the story of how the teachings of Jesus not only turned the ancient world upside down, but continue to underpin the way we think of life, worth, and meaning. Far from being a relic from the past, the distinctive ideas of Christianity, such as freedom, kindness, progress and equality, are a crucial part of the air that we breathe.</p>"
-        }
-      ]
-    },
-    {
-      "id": "andy-s",
+      "id": "0",
       "firstName": "Andy",
-      "lastName": "Steiger, Ph.D",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Andy-Steiger.png",
+      "lastName": "Steiger, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Andy-Steiger_v3.png",
       "title": "President",
       "association": "Apologetics Canada",
       "associationUrl": "https://apologeticscanada.com/",
       "bio": "<p>Andy Steiger is the founder and president of Apologetics Canada Ministries (AC). He passionately engages pressing issues related to our humanity from a Christian perspective. He has presented at various venues such as Cambridge University on philosophical issues related to Artificial Intelligence, provided ethical guidelines on robotics for the United Nations, and addressed legal concerns over rights of conscience at the World Congress in Philosophy of Law.</p><p>Andy has published widely from children’s books to the Supreme Court Law Review. His most recent book, Reclaimed: How Jesus Restores Our Humanity in a Dehumanized World was awarded runner up to evangelistic resource of the year. Andy is known for making complex theological and philosophical ideas understandable through the art of storytelling as seen in AC’s video resources. The Human Project video series debuted at film festivals around the world and won a number of awards including Best Short Film and People's Choice. Recently released is BRANDED: A Series on Identity which is now available on RightNow Media. Between his 20 years of pastoral experience and a PhD from the University of Aberdeen, Andy brings both experience and research to his work.</p><p>Andy currently lives in Abbotsford, British Columbia, with his wife, Nancy, and their two sons. Most weekends you’ll find the Steigers in the mountains or lakes of BC.</p>",
       "sessions": [
         {
-          "id": "trust-God",
+          "id": "andy-s-main",
           "category": "main",
           "locationId": "Worship Centre",
-          "title": "Can I Trust the God of the Bible?",
-          "description": "<p>If you have read the Bible, you have been confronted by war, slavery, murder, prostitution, rape, and more. Everything that shames humanity is on display. For a holy book, it’s not what you would expect. The characters found in the pages of Scripture are not the heroes we are often tempted to revere. They are complicated, broken, and in need of saving. The Bible provides such clarity on the human condition that, if we’re not careful, we distort the main character—God. The Bible has left many to question: is the God of the Bible good? Can He be trusted? In this session, we will look beyond the biblical characters to see God clearly and that he can be trusted.</p>"
+          "title": "From Code to Consciousness",
+          "subtitle": "Can Artificial Intelligence Be Human?",
+          "description": "<p>AI technologies have been around for decades but within the last few years they have taken significant leaps forward. We are currently living in a time of rapid technological advancements and it can be a little disorientating. In this session, Andy will discuss a Christian perspective of technology and AI specifically as it relates to our humanity and the humanity of others. This session will cut through the sci-fi fears and propose a theology of technology that will help us navigate our present moment and the future that’s quickly advancing.</p>"
         }
       ]
     },
     {
-      "id": "titus-k",
-      "firstName": "Titus",
-      "lastName": "Kennedy, Ph.D",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Titus-Kennedy_rev.png",
-      "title": "Adjunct Professor of Archaeology",
-      "association": "Biola University",
-      "associationUrl": "https://www.biola.edu/",
-      "bio": "<p>Dr. Titus Kennedy is a field archaeologist working primarily with sites and materials of the ancient Near East and the Mediterranean world. He has been involved in archaeological projects at 18 sites spanning 6 countries, including directing and supervising multiple projects from the Bronze Age through the Byzantine period, and has also conducted artifact research at museums and collections around the world. He earned his doctorate from the University of South Africa in Biblical Archaeology with an emphasis on archaeological demographics, MA degrees from the University of Toronto and the University of South Africa, and a BA from Biola University. He is a research fellow at the Discovery Institute, a university and seminary professor of archaeology, editor of the Near Eastern Archaeological Society bulletin, and has been a consultant, writer, and guide for history and archaeology documentaries and curricula, including Drive Thru History® and Bible Unearthed™. He has written numerous articles about biblical archaeology and history, and is the author of <i>Unearthing the Bible</i>, <i>Excavating the Evidence for Jesus</i>, and <i>The Essential Archaeological Guide to Bible Lands</i>.</p>",
+      "id": "1",
+      "firstName": "Gretchen",
+      "lastName": "Huizinga, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Gretchen-Huizinga_v2.png",
+      "title": "Research Fellow",
+      "association": "AI and Faith",
+      "associationUrl": "https://aiandfaith.org/",
+      "bio": "<p>Dr. Gretchen Huizinga is a research fellow and board member of <a href='https://aiandfaith.org/'>AI and Faith</a>, an organization that brings the wisdom of the world’s great religions to the moral and ethical challenges of artificial intelligence. She recently completed a visiting fellowship with the <a href='https://www.laniertheologicallibrary.org/'>Lanier Theological Library</a> at <a href='https://yarntonmanor.org/'>Yarnton Manor</a> in Oxford, UK, where she continued her research at the intersection of artificial intelligence, ethics, and Christian theology under <a href='https://www.theocca.org/author/john-lennox/'>Prof. John Lennox</a>. In addition to her academic work, Gretchen is a podcast host for <a href='https://www.microsoft.com/en-us/research/podcast/'>Microsoft Research</a> where she has interviewed more than a hundred scientists and leaders on the latest technological innovations, including recent advances in machine learning and generative AI. Gretchen is an English major at heart (always reading a good book or silently correcting someone’s grammar) but holds master’s degrees in both Mass Communication and Learning Sciences &amp; Human Development, as well as a PhD from the <a href='https://www.washington.edu/'>University of Washington</a> with a dissertation titled <a href='https://digital.lib.washington.edu/researchworks/handle/1773/48925'><i>Righteous AI: The Christian voice in the ethical AI conversation</i></a>. She lives in the Seattle area with her husband and wears better <a href='https://www.instagram.com/p/CVItvJ2LcXt/?img_index=1'>shoes</a> than academia demands, or a podcast warrants.</p>",
       "sessions": [
         {
-          "id": "trust-ot",
+          "id": "gretchen-h-main",
           "category": "main",
           "locationId": "Worship Centre",
-          "title": "Can I Trust the Old Testament?",
-          "subtitle": "Archaeological Discoveries that Corroborate Scripture",
-          "description": "<p>The Bible, and in particular the Old Testament, has been classified as myth and propaganda by many scholars in recent times. If the Old Testament is not a reliable historical document as is often alleged, then it cannot be trusted as a source of truth. However, archaeological discoveries of the last 150 years have corroborated the historical claims of Scripture and demonstrated the reliability of the Old Testament. Drawing on major finds relating to events, people, and places spanning the time of the Patriarchs to the time of the Persians, evidence from archaeology indicates that the Old Testament accurately records history and can be considered a trustworthy source.</p>"
+          "title": "From Ethical to Righteous",
+          "subtitle": "Can Artificial Intelligence Be Good?",
+          "description": "<p>In response to fears around the ethical challenges of artificial intelligence, we’ve seen an increase in efforts to ensure that AI is made and used ethically. Most of these efforts, however, are based on a secular humanist worldview that seeks to compel people to behave ethically without transcendent reason or power. The Christian faith, by contrast, maintains that God is the originator, motivator, and sustainer of moral behaviour, and points to a creative notion of goodness that cannot be achieved by human will or effort. In a secularized, AI-centric world, is it wise to de-platform Christianity? In this talk, Gretchen contrasts secular ethics with biblical righteousness and challenges the assumption that humanistic efforts alone will result in safe, ethical, or “good” AI.</p>"
         },
         {
-          "id": "history-legend",
+          "id": "gretchen-h-breakout",
           "category": "breakout",
-          "locationId": "Gymnasium",
-          "title": "History or Legend?",
-          "subtitle": "Joshua and the Conquest of Canaanites",
-          "description": "<p>The book of Joshua records a campaign of conquest in Canaan involving cities such as Jericho, Ai, Jerusalem, Lachish, Gezer, Shechem, and Hazor. Since the beginning of archaeological excavations in the Middle East, many scholars have placed this story in the realm of legend or myth based on the lack of archaeological finds, conflicting interpretations, and literary hypotheses. In recent decades, however, new archaeological data and a renewed look at previous excavations have led more than a few archaeologists to assert that these were historical events represented by finds from numerous sites. Based on information both new and old from several ancient cities, a powerful argument can be made that the urban conquests chronicled in Joshua are corroborated by archaeological discoveries.</p>"
+          "locationId": "Centre Court",
+          "title": "To GPT or Not to GPT",
+          "description": "<p>In this session Gretchen will address common ethical concerns about generative AI chatbots and offer a theological framework on if, when, and where to use it in real life applications.</p>"
         }
       ]
     },
     {
-      "id": "wesley-h",
+      "id": "2",
       "firstName": "Wesley",
       "lastName": "Huff",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_new-wesley-huff.png",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Wes-Huff_v2.png",
       "title": "Central Canada director",
       "association": "Apologetics Canada",
       "associationUrl": "https://www.apologeticscanada.com/",
-      "bio": "<p>Wesley Huff was born in Multan, Pakistan and spent a portion of his childhood in the Middle East. After being diagnosed with a rare neurological condition at the age of eleven that left him paralyzed from the waist down Wes experienced a miraculous recovery that the doctors themselves said they had no medical explanation for. This experience, along with a great deal of study and soul searching in his later teens solidified his interest in the subjects of faith and engaging the beliefs and worldview perspectives of others. He spent his high school years in the Northern Ontarian town of Elliot Lake, and currently lives in Toronto, Canada with his wife, Melissa, their son Eli, and daughters Everly and Juliette.</p><p>He holds a BA in sociology from York University, a Masters of Theological Studies from Tyndale University, and is currently doing a PhD in New Testament and Christian Origins at the University of Toronto’s Wycliffe College. For five years Wes worked as a writer, researcher, and speaker for Power to Change - Students (formerly Campus Crusade in Canada) and has made online contributions to Apologetics Canada, Power to Change - Students, The Gospel Coalition Canada, and the Apologetics Academy Webinar. Along with being involved in the collective with Talk About Doubts, he has been a curriculum contributor with Trans World Radio and written multiple entries (including those on Rastafarianism, Canadian Druze Society, and Kathok Conpa Buddhism) in the Melton’s Encyclopedia of American Religions (Ninth Edition, Vol 2: Canada).</p><p>Wesley is currently the Director of Central Canada for Apologetics Canada and has participated in numerous talks and interfaith dialogue events at universities and colleges across North America. He has been participating in public dialogues on issues of faith, belief, and religion for the last ten years.</p><p>He enjoys canoeing, archery, and cats (although not all three at the same time).</p>",
+      "bio": "<p>Wesley Huff was born in Multan, Pakistan, and spent a portion of his childhood in the Middle East. After being diagnosed with a rare neurological condition at the age of eleven that left him paralyzed from the waist down, Wes experienced a miraculous recovery for which the doctors themselves had no medical explanation. This experience, along with a great deal of study and soul searching in his later teen years, solidified his interest in faith and in engaging the beliefs and worldview perspectives of others. He spent his high school years in Northern Ontario and currently lives in Toronto, Canada, with his wife and three children.</p><p>Wesley is currently the Central Canada Director for Apologetics Canada and has been a guest on a variety of public platforms, from <b><i>The Joe Rogan Experience</i></b> to <b><i>Blurry Creatures Podcast</i></b>. He has participated in numerous public dialogues, debates, and interfaith events on issues of belief and religion across North America.</p><p>He holds a BA in sociology from York University, a Masters of Theological Studies from Tyndale University, and is currently doing a PhD in New Testament at the University of Toronto’s Wycliffe College.</p>",
       "sessions": [
         {
-          "id": "trust-nt",
+          "id": "wesley-h-main",
           "category": "main",
           "locationId": "Worship Centre",
-          "title": "Can I Trust the New Testament?",
-          "subtitle": "Ancient Artifacts that Confirm the Bible",
-          "description": "<p>The second half of our Bibles (what we call the New Testament) is made up of 27 books. But where did these writings come from and what physical evidence do we have that corroborates their reliability? From manuscripts and monuments to ancient graffiti, this talk will look at a number of key artifacts that point to the validity of the Bible’s content, context, and canonization as a collection of trustworthy witnesses to the life and time of Jesus.</p>"
+          "title": "The Gospel According to TikTok",
+          "subtitle": "Seeing Jesus Clearly through the Digital Haze",
+          "description": "<p>Misinformation about Jesus abounds on social media. From a secular humanist moral teacher to a New Age guru, many seek to recreate Jesus in their own image. But all is not lost. Christian content creators are responding to false narratives, engaging with questions, and presenting the gospel in ways that resonate with a digital audience. In this session, Wes will explore how Christians have used technology throughout the ages to respond to false teaching and advance the gospel.</p>"
         }
       ]
     },
     {
-      "id": "tim-w",
-      "firstName": "Tim",
-      "lastName": "Woodcock",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/08/Tim-Woodcock.png",
-      "title": "Lead Pastor",
-      "association": "Glad Tidings Church",
-      "associationUrl": "https://www.gtburlington.org/",
-      "bio": "<p>Tim grew up as a pastor’s kid and has had the privilege of living and ministering both in Canada and the US. Although feeling somewhat “thrown” into ministry at a very young age he has now been serving the church formally for over 20 years.</p><p>Tim's heart is to pastor the incredible people that call Glad Tidings Church home with conviction and care. He has a strong desire to see the church equipped with a deep understanding of God’s Word and their identity as sons and daughters in the Kingdom rule and reign of Jesus. Believing passionately that the church universal is God’s plan in accomplishing His mission in the world.</p><p>Tim's greatest calling and privilege is that he is the husband of Jennifer Woodcock and the father of three incredible girls. He loves sports (especially Basketball), the outdoors, and reading.</p>",
+      "id": "3",
+      "firstName": "Ruslan",
+      "lastName": "KD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Ruslan-KD.png",
+      "title": "YouTuber, Recording Artist",
+      "association": "Kings Dream Entertainment",
+      "associationUrl": "https://www.kingsdreament.com/",
+      "bio": "<p>Ruslan KD, a Christian YouTuber of Armenian descent, was a refugee from Baku, Azerbaijan, before moving to the U.S. He started his YouTube channel in the mid-2010s, which has grown into a popular platform for discussions on faith, lifestyle, and music. Known for his insightful commentary on Christian living, culture, and personal development, Ruslan is also a speaker, author, and advocate for godly ambition. His mission is to encourage, empower, and inspire people to live a life that Blesses God. As Psalm 68:26 says, “Bless God in the great congregation,” and Psalm 145:2 declares, “Every day will I bless Thee.” Like Simeon, who “took Him up in his arms and blessed God” (Luke 2:28), Ruslan seeks to lead others in stewardship, relevant engagement, and practical living that honors the Lord.</p>",
       "sessions": [
         {
-          "id": "qa-titus-wesley",
+          "id": "ruslan-kd-main",
           "category": "main",
           "locationId": "Worship Centre",
-          "title": "Q&A with Titus & Wesley",
-          "description": "<p>Pastor Tim will be moderating the Q&A with Titus & Wesley after their main sessions on Saturday.</p>"
+          "title": "From Pixels to Purpose",
+          "subtitle": "Discerning Christian Stewardship of Digital Platforms",
+          "description": "<p>In this session, Ruslan will examine how Christians can leverage algorithm and responsibly engage with the digital age to spread the gospel and build community. Drawing inspiration from Acts 17, he will discuss how Paul’s culturally savvy approach to preaching can inform our use of modern technology to reach a broader audience. How can Christians steward these platforms wisely, turning them into powerful tools for discipleship, connection, and evangelism? Come and be challenged to thoughtfully navigate the digital world, ensuring our efforts align with God’s mission in a rapidly changing cultural landscape.</p>"
         }
       ]
     },
     {
-      "id": "logan-g",
-      "firstName": "Logan",
-      "lastName": "Gates",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Logan-Gates.png",
-      "title": "Adjunct Speaker",
-      "association": "Apologetics Canada",
-      "associationUrl": "https://www.apologeticscanada.com/",      
-      "bio": "<p>Logan is a PhD Candidate in Political Theory at the University of Toronto, studying the emergence of human rights in early modern political thought. He holds an MTh in Applied Theology from the University of Oxford and is a graduate of OCCA, The Oxford Centre for Christian Apologetics. As an apologist, Logan has spoken on tough questions about the Christian faith at universities across Canada and the US. He is ordained in the Anglican Network in Canada (ANiC) and is married to his wonderful bride Samantha -- a native Torontonian! He enjoys a cup of hot tea and talking about the big questions in life.</p>",
+      "id": "4",
+      "firstName": "Sebastian",
+      "lastName": "Vaduva",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Sebastian-Vaduva_v2.png",
+      "title": "Serial Entrepreneur",
+      "association": "sebastianvaduva.com",
+      "associationUrl": "https://www.sebastianvaduva.com/",
+      "bio": "<p>Dr. Sebastian Vaduva is a professor, consultant and entrepreneur. He teaches, and writes about ethics, entrepreneurship, and technology.</p><p>His main goal is to help people and organizations be their best. He believes that a company's most important assets are its people and ideas. Sebastian is committed to developing them through training, coaching, mentoring, and networking.</p><p>He values ethics because he thinks they create long-term success. He envisions a connected global business world based on creativity, communication, collaboration, and character.</p>",
       "sessions": [
         {
-          "id": "trust-inspiration",
+          "id": "sebastian-v-main",
           "category": "main",
           "locationId": "Worship Centre",
-          "title": "Can I Trust the Bible is Divinely Inspired?",
-          "subtitle": "The Possibility of a God Who Can Be Known",
-          "description": "<p>Many today question whether we can know about God with any certainty. It is often said that there is a kind of knowledge that comes from science which is concrete and trustworthy, but all other knowledge -- especially spiritual knowledge -- is inherently unknowable. Because of this, anyone who claims to know the truth about God is not only deluded, but also arrogant. Yet, Christians believe that God can be known, particularly through His revelation of Himself in the Bible. But is this even possible? This talk will argue that it is, looking at the modern foundations behind our scepticism of the supernatural, the hidden assumptions and problems behind it, and the real confidence that can be placed in the Bible as God's trustworthy revelation of Himself to us.</p>"
-        }
-      ]
-    },
-    {
-      "id": "andrew-b",
-      "firstName": "Rev. Dr. Andrew P. W.",
-      "lastName": "Bennett",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/09/Andrew-Bennett_v2.png",
-      "title": "Program Director, Faith Communities",
-      "association": "Cardus",
-      "associationUrl": "https://www.cardus.ca/",
-      "bio": "<p>The Rev. Dr. Andrew Bennett is an ordained deacon in the Ukrainian Greek-Catholic Church in the Eparchy of Toronto and Eastern Canada serving at St. John the Baptist Ukrainian-Catholic Shrine in Ottawa.</p><p>Fr. Deacon Andrew is also the Director of Faith Communities at Cardus, a non-partisan, Christian think-tank in Ottawa, and a Senior Fellow at the Washington, DC-based Religious Freedom Institute.</p><p>He previously served as Canada's first Ambassador for Religious Freedom and Head of the Office of Religious Freedom from 2013 to 2016 in the Department of Global Affairs Canada. He is a leading commentator on religious freedom and the role of Christianity in Canada’s public square and a regular contributor to the Catholic Register under the byline “Ad Orientem”.</p><p>Fr. Dcn. Andrew holds a Ph.D. in Politics from the University of Edinburgh as well as degrees in history from McGill (M.A.) and Dalhousie (B.A. Hons.).</p>",
-      "sessions": [
+          "title": "Surviving the Culture Wars",
+          "subtitle": "What the Church Must Learn From Europe’s Failures",
+          "description": "<p>There once was a time that Canada looked to Europe to see the secular future. Those times have changed. Europe still has its secular holdouts but for the most part, Canada and the United States have now become Europe’s cautionary tale, not of the future but of their past. The culture wars that now grip North America are nothing new to Europe. In many ways, Europe is rebuilding from the ashes of multiple culture wars that have taken their toll on the church. Growing up in Romania during the fall of the communist party, Sebastian knows first-hand Europe’s failures and the difficulty in rebuilding a family, church, and society. In this session, Sebastian will bring a much needed perspective to our current cultural moment.</p>"
+        },
         {
-          "id": "bible-us",
+          "id": "sebastian-v-breakout",
           "category": "breakout",
           "locationId": "Worship Centre",
-          "title": "The Bible and Us",
-          "subtitle": "How Do Canadian Christsians Engage and Understand Holy Scripture?",
-          "description": "<p>How do Canadian Christians read the Bible? Why do they read the Bible? What do they think about the Bible? Do they know the Bible?</p><p>Explore a recent survey showing that there are often significant differences among Christians in how, when, and why they read the Bible. It also reveals that Canadian Christians are reading the Bible in different ways, both in terms of reading it in its physical or online form and also in what they understand from their reading. It is those takeaways that often reveal some of the greatest differences among Canadian Christians’ attitudes about the Bible and its role in their lives and in the life of our country.</p>"
+          "title": "Your Profession, Your Pulpit",
+          "description": "<p>When it comes to ministry, some Christians believe there is a “sacred-secular divide.” They believe only a selected few have a special calling and are in full-time ministry, while the rest are simple church members with no particular ministry. However, the heroes of the Christian faith portrayed in Hebrews 11 used their professions as their pulpits.</p><p>In this session, Sebastian, a business professor and a serial entrepreneur, will outline the principles of “Monday through Friday ministry” and the benefits of using your profession as your pulpit.</p>"
         }
       ]
     },
     {
-      "id": "bill-dj",
-      "firstName": "Bill",
-      "lastName": "DeJong, Ph.D",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Bill-De-Jong.png",
-      "title": "Assistant Professor of Religion and Theology",
-      "association": "Redeemer University",
-      "associationUrl": "https://www.redeemer.ca/",
-      "bio": "<p>Bill DeJong has served as a pastor for nearly 30 years in Canada and the US, most recently as the lead pastor of Blessings Christian Church in Hamilton, ON. He also serves as a Fellow of the Kirby Laing Centre for Public Theology (Cambridge, UK) and as chair of the Scripture and Church Seminar for the Institute for Biblical Research. He is excited to play a part in the spiritual formation of faculty and staff at Redeemer University as well as teach some courses.</p>",
-      "sessions": [
-        {
-          "id": "be-real",
-          "category": "breakout",
-          "locationId": "Children's Chapel",
-          "title": "Be Real",
-          "subtitle": "The Features of Genuine Authenticity... and Hypocrisy",
-          "description": "<p>The moral value ascribed to authenticity in popular culture is apparent from popular slogans like 'Be Real,' 'Believe in Yourself,' 'Follow Your Heart,' etc. To what extent can these claims be reconciled with the summons of Jesus to follow him? In this session we will distinguish between genuine authenticity and questionable authenticity. In so doing, we will identify some ways in which the cultural quest for authenticity is occasioning a misunderstanding of biblical hypocrisy.</p>"
-        }
-      ]
-    },
-    {
-      "id": "mike-h",
+      "id": "5",
       "firstName": "Mike",
-      "lastName": "Hiscock",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Mike-Hiscock.png",
-      "title": "Adjunct Speaker",
+      "lastName": "Butler, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Mike-Butler_v2.png",
       "association": "Apologetics Canada",
-      "associationUrl": "https://apologeticscanada.com/",
-      "bio": "<p>Mike is a retired pilot. Ever since he's had a taste of it, he has come to appreciate the value and the role of apologetics in Christian discipleship and faith formation.</p><p>Mike came to faith through the apologetics ministry of Lee Strobel. He now has a passion to bring apologetics to the larger Church because he has seen firsthand how it changes lives. Mike is a former Royal Canadian Air Force pilot, holds a BSc from the Royal Military College of Canada, and holds a master’s degree in Christian Apologetics from Columbia Evangelical Seminary. Mike lives in Victoria, BC with his wife Shirley.</p>",
+      "associationUrl": "https://www.apologeticscanada.com/",
+      "bio": "<p>Dr. Michael Butler is passionate about learning and teaching. He has always had a strong interest in discovering how the world around him works. Michael holds degrees in physics and computer science. He has completed his PhD at the University of Saskatchewan, investigating an area of physics known as quantum gravity.</p><p>The intersection between faith and science is what drew Michael to apologetics. He hopes that through apologetics the Church will have thought provoking conversations about science and how we view the world.</p><p>When Michael is not studying he enjoys working on computers and electronics, getting out into the backcountry for hiking and camping, and photographing the night sky.</p>",
       "sessions": [
         {
-          "id": "page-one",
+          "id": "mike-butler-breakout",
           "category": "breakout",
-          "locationId": "Children's Ministry Room 1",
-          "title": "The Bible Page One—How Does It Compare with Modern Science?",
-          "description": "<p>Is the Bible full of lies from the first page onwards? That's the kind of message Mike received recently on social media. In this session, Mike compares the first page of the Bible with the secular view of the Earth's history.</p>"
+          "locationId": "Centre Court Foyer",
+          "title": "Understanding AI Through Christian Ethics",
+          "description": "<p>As artificial intelligence (AI) increasingly affects various aspects of modern life, it is essential for Christians to join the conversation regarding the roles that these technologies should have in the future. This presentation explores the intersection of AI and Christian ethics, examining the fundamental concepts of AI technology with the goal of providing the context required to discuss its moral implications. How do AI technologies work? What is required to create an AI model? How capable or reliable are they? By answering these questions and through examination of recent ethical concerns surrounding AI; we can begin to frame the Christian response for the ethical use of AI and the wider impact it will have on society.</p>"
         }
       ]
     },
     {
-      "id": "steve-k",
+      "id": "6",
+      "firstName": "Gordon",
+      "lastName": "Carkner, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Gord-Carkner_v2.png",
+      "title": "Meta-Educator",
+      "association": "Outreach Canada",
+      "associationUrl": "https://outreach.ca/",
+      "bio": "<p>Dr. Gordon E. Carkner is a meta-educator with postgraduate students and faculty at the University of British Columbia, promoting faith-and-culture dialogue and offering thought-provoking YouTube webinars. He is chairperson of the scholarly lecture series “The UBC Graduate and Faculty Christian Forum.” He holds a BSc. in Human Physiology from Queen's University; an MDiv from Trinity Evangelical Divinity School; and a PhD in philosophical theology on the late modern self from University of Wales. He is the author of <em><a href='https://www.amazon.ca/Great-Escape-Nihilism-Rediscovering-Modernity/dp/0995096821/'>The Great Escape from Nihilism</a></em> (2016); and <a href='https://www.amazon.ca/Towards-Incarnational-Spiritual-Culture-Grounding/dp/B0CTLDCNBV/'><em>Towards an Incarnational Spiritual Culture: Grounding Our Identity in Christ</em></a> (2024).</p>",
+      "sessions": [
+        {
+          "id": "gordon-c-breakout",
+          "category": "breakout",
+          "locationId": "204",
+          "title": "Rethinking Identity Through the Lens of Incarnation",
+          "description": "<p>Meta-Educator and Author Dr. Gordon E. Carkner helps us rethink our current identity crisis through the lens of Incarnation. Despite our amazing technology, many people today are experiencing identity angst and confusion. Some are in real crisis, going through 'disintegration' or 'alienation'. We have a strong sense that all is not well in late modern, individualistic, self-construction. Dr. Carkner suggests an alternative route to a more robust identity via the Christian narrative of the Incarnation of Jesus the Christ. This quest for identity involves our response to a call into dialogue from our Creator. It results in a more communal self-concept, where the particularity of each person is valued and protected. Join him in this exciting adventure of unpacking the plausibility of this fresh approach. See also his new book, <a href='https://www.amazon.ca/Towards-Incarnational-Spiritual-Culture-Grounding/dp/B0CTLDCNBV/'>Towards an Incarnational Spiritual Culture: Grounding Our Identity in Christ</a>.</p>"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "firstName": "Paul",
+      "lastName": "Chamberlain, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/11/Paul-Chamberlain.png",
+      "title": "Professor of Ethics and Philosophy",
+      "association": "Trinity Western University",
+      "associationUrl": "https://twu.ca/",
+      "bio": "<p>Dr. Paul Chamberlain is a professor of ethics, philosophy of religion, leadership and Christian Apologetics at TWU. He is an effective communicator both in and out of the classroom. His humorous, down-to-earth manner appeals to a wide variety of people. Drawing from the media and using a professional power point presentation, his seminars are both interesting and relevant. Dr. Chamberlain has appeared on numerous radio and television talk shows, debated on university campuses, and is a frequent guest speaker at public functions. He is the author of five books: <em>Can We be Good Without God</em>, <em>Final Wishes</em>, <em>How To Talk About Good and Bad Without Getting Ugly: A Guide to Moral Persuasion</em>, <em>Why People Don’t Believe: Confronting Seven Challenges to Christian Faith</em>, and <em>Why People Stop Believing</em>, as well as a number of articles addressing current social and moral issues. He is also the coeditor of <em>Everyday Apologetics</em>. He enjoys outdoor activities such as riding motorcycle, swimming, camping, and doing most anything outside with his family.</p>",
+      "sessions": [
+        {
+          "id": "paul-c-breakout",
+          "category": "breakout",
+          "locationId": "205",
+          "title": "Can Christians Make a Difference?",
+          "subtitle": "Learning from William Wilberforce",
+          "description": "<p>Can Christians actually make a difference in our world? In this lecture, we will learn from William Wilberforce (1759-1833), a British parliamentarian whose life has inspired many. After becoming a Christian, he began to fight slavery and other destructive practices in his culture. Unlike many others who have tried, he was successful, and slavery was abolished. How did he do it? We will track his strategies and see how they apply today. A heads-up: some of them may surprise and inspire you too.</p>"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "firstName": "Moses",
+      "lastName": "Chirusha",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Moises-Chirusha_v2.png",
+      "title": "CEO",
+      "association": "Ufanuzi",
+      "associationUrl": "https://www.ufanuzi.com/",
+      "bio": "<p>Moses Chirusha is a visionary entrepreneur and technologist with a deep commitment to leveraging technology and innovation to address challenges faced by communities in Africa, particularly in education, agriculture, and the financial sector. Born into a family of 12 Children, Moses’ parents worked as church planters and subsistence farmers in the Congo. From an early age Moses loved God and technology. He founded his tech company Ufanuzi at the remarkable age of 15, with a mission to make technology accessible and ensure that everyone, regardless of their background, has the tools and opportunity to succeed.</p><p>After observing the severe food shortages subsistence farmers face in Malawi, Moses founded Fruitful Mart, a distribution company that supports subsistence farmers by helping them access high-end markets via an e-commerce platform, and providing essential training, technology, and microloans for farmers. His work extends beyond just creating a marketplace; he also envisions using artificial intelligence to equip farmers with the knowledge they need to improve their yields and livelihoods.</p>",
+      "sessions": [
+        {
+          "id": "moses-c-breakout",
+          "category": "breakout",
+          "locationId": "208",
+          "title": "Out of Poverty",
+          "subtitle": "My Journey of Faith, Technology, and Transformation in Africa",
+          "description": "<p>Growing up in the Democratic Republic of Congo, Moses Chirusha experienced firsthand the struggles of poverty and the lack of opportunities. Yet, through his Christian faith, unwavering determination, and belief in the power of technology, he embarked on a journey that would not only transform his life but also the lives of countless others in his community.</p><p>In this inspiring talk, Moses shares his personal story of rising from humble beginnings to becoming a Christian leader leveraging technology for social good. He will explore how his faith has been the cornerstone of his journey, guiding him through adversity and shaping a vision for transformation across Africa.</p><p>Moses will discuss how initiatives like Fruitful Mart and Ufanuzi are not just about providing market access or technological tools but about creating pathways to survival and purpose. By aligning his work with biblical principles of stewardship, justice, and compassion, Moses demonstrates how technology can be a force for transformation in the hands of those driven by a love for God and their community.</p>"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "firstName": "Johan",
+      "lastName": "Erasmus",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Johan-Erasmus_v2.1.png",
+      "title": "Co-Founder",
+      "association": "Betereinders",
+      "associationUrl": "https://betereinders.co.za/",
+      "bio": "<p>Johan holds degrees in history, philosophy and theology and is currently pursuing a PhD, focussing on race and reconciliation. He is the co-founder of Dialogue Community Church, a multi-cultural church in Pretoria and Betereinders, an NGO focusing on social development and reconciliation in South Africa. The activities of Betereinders have been covered by national and international media and they recently won the Andrew Murray-Desmond Tutu Prize for Unity, Reconciliation and Justice. Johan is married to Loraine, a film lecturer, and they have two small boys, Louw and Eben.</p>",
+      "sessions": [
+        {
+          "id": "johan-e-breakout",
+          "category": "breakout",
+          "locationId": "B03",
+          "title": "Age of Rage",
+          "subtitle": "Resentment Engineering and the Breakdown of Race Relations",
+          "description": "<p>In these last days we are seeing blacks against whites, republicans against democrats, feminists against masculists and many other groups equally convinced of the reality of their oppression and the righteousness of their anger. Despite the irreligiousness of the West we are seeing congregants going on collective witch-hunts and publicly hanging sinners for all to see. On a daily basis something is going viral and someone is being cancelled. All of this is happening in a time when we are more connected than we've ever been and yet we are strangely very divided. How did the world get this mad this quickly and how do we escape this vortex of rage?</p>"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "firstName": "Quentin",
+      "lastName": "Genuis, MD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Quentin-Genuis_v2.png",
+      "title": "Emergency Care Physician",
+      "bio": "<p>Dr. Quentin Genuis is an Emergency Physician and Bioethicist in Vancouver. He holds a Master of Letters from the University of St. Andrews in Scotland, with a research focus in bioethics. His research and writing interests include the autonomy debates, end-of-life care, compassion, human dignity, and theological anthropology. He also likes smokey Scottish whiskey, Russian literature, poetry, hot sauce, and slack-lining. He loves his wife, Kalyn, and their three children: Lila, Rowan, and Elias.</p>",
+      "sessions": [
+        {
+          "id": "quentin-genuis-breakout",
+          "category": "breakout",
+          "locationId": "B02",
+          "title": "Addiction, Freedom, and the Life of the Church",
+          "description": "<p>Addiction is a crisis of our time, with devastating consequences to our society and within our churches. This talk engages the question of what addiction is, when considered from a Christian worldview. We will also discuss ways that Christian communities can be places where addiction is healed through a cooperative effort of the affected person, communities of friendship, and the work of the Holy Spirit.</p>"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "firstName": "Ewan",
+      "lastName": "Goligher, MD, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Ewan-Goligher_v2.png",
+      "title": "Intensive Care Physician",     
+      "bio": "<p>Dr. Ewan Goligher is a physician-scientist practicing intensive care medicine. He writes and speaks on faith, science, suffering, ethics, and conscience.</p><p>Ewan is Assistant Professor of Medicine at the University of Toronto. He earned his MD at the University of British Columbia and a PhD in Physiology at the University of Toronto. He trained in internal medicine and critical care medicine.</p><p>His research program studies lung function and respiratory muscle function in patients with acute respiratory failure, and he is heavily involved in clinical trials testing new treatments for respiratory failure. He is author or co-author of more than 100 peer-reviewed publications and book chapters. His research has been published in a leading scientific journals in medicine and in his subspecialty of intensive care medicine.</p><p>He is involved in efforts to advocate against the practice of euthanasia (also known as medical aid-in-dying) and for the protection of conscience in healthcare. He writes and speaks on these issues for both academic and lay audiences.</p><p>When not writing, analyzing data, or looking after patients, Ewan is likely to be found sailing on Georgian Bay, Ontario. He and his wife Rachel have four children and one dog and live in Toronto. He attends Christ Church Toronto.</p>",
+      "sessions": [
+        {
+          "id": "ewan-goligher-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "How Should We Then Die?",
+          "subtitle": "A Christian Response to Physician-Assisted Death",
+          "description": "<p><b>“My times are in thy hands.”</b></p><p>As more people accept the practice of physician-assisted death, Christians must decide whether to embrace or oppose it. Is it ethical for physicians to assist patients in hastening their own death? Should Christians who are facing death accept the offer of an assisted death?</p><p>In this session, physician Ewan Goligher draws from general revelation and Scripture to persuade and equip Christians to oppose physician-assisted death. Euthanasia presumes what it is like to be dead. But for Christians, death is not the end. Christ Jesus has destroyed death and brought life and immortality through the gospel.</p>"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "firstName": "Rick",
+      "lastName": "Goossen, JD, PhD",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Rick-Goossen_v2.png",
+      "title": "Chairman",
+      "association": "ELO Group",
+      "associationUrl": "https://www.entrepreneurialleaders.com/",
+      "bio": "<p>Dr. Rick Goossen is a meaning-driven entrepreneurial leader who serves an extensive network of entrepreneurs and family/business owners built over decades of client contributions, collaboration, research, public speaking, and volunteering, impacting over 100,000 leaders annually. He has edited five books and authored seven books on the topics of entrepreneurship, leadership and meaning/calling. Two of the books he authored are available in six translations. He has also written over 1,000 blog posts and articles. Much of his writing is on work and meaning. In terms of credentials, Rick earned a Ph.D. from Middlesex University, London, UK; a Masters of Law (LL.M.) from Columbia University, New York City; a Juris Doctor (JD) from McGill University, Montreal; and a Bachelor of Arts (B.A.) (Hons.) (First Class) from Simon Fraser University, Vancouver. Rick was admitted as Barrister and Solicitor of the Province of British Columbia, Canada and voluntarily withdrew his membership to focus entirely on business pursuits. Rick has been a Visiting Scholar at Regent's Park College, University of Oxford and St. Stephen's House, University of Oxford. He has worked with prominent University of Oxford professors and business leaders since 2018 to deliver the ELO Oxford Leadership Program.</p>",
+      "sessions": [
+        {
+          "id": "rick-goossen-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Woke Antidote",
+          "subtitle": "10 Practical Suggestions to Lead in Today's Post-Truth Culture",
+          "description": "<p>Thinking. It’s a useful process. Yet, rigorous thinking, indeed critical thinking, is increasingly under assault today. In light of the power of woke media, inconvenient facts get steamrolled. Western institutions, particularly the Christian church, are targeted. Even in halls of higher learning, facts are trounced by emotivism. Those who disagree are then marginalized as “denialists.” Trial is by social media and public ostracization is swift. I will provide 10 practical suggestions on how to lead in today’s post-truth culture.</p>"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "firstName": "Phil",
+      "lastName": "Hills",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Phil-Hills_v3.png",
+      "title": "Regional Director",
+      "association": "ACSI Western Canada",
+      "associationUrl": "https://www.acsiwc.org/",
+      "bio": "<p>Phil has served ACSI Western Canada as Regional Director for 19 years. During the early years of his career in education, he worked as a teacher in the public system of BC. Later served as a principal of a Christian school in Chilliwack, BC. Phil believed passionately in the transforming power of Christ-saturated education and has devoted his life to equipping people to prepare the World for the return of Jesus.</p>",
+      "sessions": [
+        {
+          "id": "phil-hills-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "The Multiverse and the Theory That Explains it All",
+          "subtitle": "Reaching the Minds and Hearts of our Students Through Meta Modernism",
+          "description": "<p>When Phil began his career there was a lot of talk about our students being a product of the post-modern age. That is not longer true. Today’s students live in a virtual multiverse. Because of this they believe many ideas are true, but what distinguishes them from their relativistic elders is that they also believe some things are true for everyone at all times. Come to this session to understand how they can hold to these contradictions. Discover their deepest desires in this world. More than this, learn how to use this emerging worldview as a powerful springboard to gospel centred thinking and living.</p>"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "firstName": "Troy",
+      "lastName": "Lydiate",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Troy-Lydiate_v2.png",
+      "title": "Creative Director",
+      "association": "Apologetics Canada",
+      "associationUrl": "https://www.apologeticscanada.com/",
+      "bio": "<p>Troy Lydiate is a multifaceted artist, speaker, and Creative Director at Apologetics Canada, where he also serves as host of “The AC Podcast.” As a graduate of Providence University with a Bachelor's Degree focused on Social Sciences, much of Troy's professional career has been spent working with youth and young adults. Operating under the artistic moniker Scribe Music, Troy has unveiled four studio albums, skillfully utilizing his music as a conduit to convey the gospel message. His music production has garnered him nominations at the GMA (Covenant Awards), further complemented by widespread recognition through blog features and regular airplay on Canadian Christian radio.</p><p>Beyond his artistic endeavours, Troy is a devoted husband to Jasmine and a doting father to two young children. He has dedicated himself to the growth and vitality of the local church, actively engaging in discipleship, worship team, and church leadership. Embracing a mission to catalyze both cultural and global transformation, Troy's approach is firmly anchored in love, releasing hope by loving God and loving people.</p>",
+      "sessions": [
+        {
+          "id": "troy-lydiate-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Bursting the Bubble",
+          "subtitle": "Bible College Survival Kit",
+          "description": "<p>Join us for an exciting live recording of THE INDOUBT SHOW as we tackle the pressing topic of the “Christian Bubble.” In this breakout session, we will be exploring what it means to live within the insulated world of Christian culture. Whether it is bible college, the christian workplace or church culture in general, director and host of THE INDOUBT SHOW Andrew Marcus and special guest Troy Lydiate (Creative Director and Host of the AC Podcast) will dive into this discussion answer questions like:</p><p>What is the “Christian Bubble,” and how does it form?</p><p>Is it possible to maintain a strong faith while stepping outside of our comfort zones?</p><p>How can we intentionally break free from isolation and truly live as salt and light in the world?</p><p>With thought-provoking insights and practical advice, this live episode will inspire you to rethink what it looks like to live authentically for Christ while fostering genuine connections with people from all walks of life. Whether you're deeply rooted in your faith or just starting to question the norms of Christian subculture, this conversation will challenge you to take bold steps toward engaging the world with grace and truth.</p>"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "firstName": "Ruslan",
+      "lastName": "KD & Andy",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Ruslan-and-Andy_ACC.png",
+      "bio": "<p><b>Ruslan KD</b></p><p>YouTuber, Recording Artist<br>Kings Dream Entertainment</p><p><b>Ruslan KD</b>, a Christian YouTuber of Armenian descent, was a refugee from Baku, Azerbaijan, before moving to the U.S. He started his YouTube channel in the mid-2010s, which has grown into a popular platform for discussions on faith, lifestyle, and music. Known for his insightful commentary on Christian living, culture, and personal development, Ruslan is also a speaker, author, and advocate for godly ambition. His mission is to encourage, empower, and inspire people to live a life that Blesses God. As Psalm 68:26 says, “Bless God in the great congregation,” and Psalm 145:2 declares, “Every day will I bless Thee.” Like Simeon, who “took Him up in his arms and blessed God” (Luke 2:28), Ruslan seeks to lead others in stewardship, relevant engagement, and practical living that honours the Lord.</p><p><b>Andy Steiger</b></p><p><b>President<br>Apologetics Canada</b></p><p><b>Andy Steiger</b> is the founder and president of Apologetics Canada Ministries (AC). He passionately engages pressing issues related to our humanity from a Christian perspective. Andy has published widely from children’s books to the Supreme Court Law Review. His most recent book, Reclaimed: How Jesus Restores Our Humanity in a Dehumanized World was awarded runner up to evangelistic resource of the year. Andy is known for making complex theological and philosophical ideas understandable through the art of storytelling as seen in AC’s video resources. Between his 20 years of pastoral experience and a PhD from the University of Aberdeen, Andy brings both experience and research to his work. Andy currently lives in Abbotsford, British Columbia, with his wife, Nancy, and their two sons. Most weekends you’ll find the Steigers in the mountains or lakes of BC.</p>",
+      "sessions": [
+        {
+          "id": "ruslan-kd-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Bursting the Bubble",
+          "subtitle": "Bible College Survival Kit",
+          "description": "<p>Join us for an exciting live recording of THE INDOUBT SHOW as we tackle the pressing topic of the “Christian Bubble.” In this breakout session, we will be exploring what it means to live within the insulated world of Christian culture. Whether it is bible college, the christian workplace or church culture in general, director and host of THE INDOUBT SHOW Andrew Marcus and special guest Troy Lydiate (Creative Director and Host of the AC Podcast) will dive into this discussion answer questions like:</p><p>What is the “Christian Bubble,” and how does it form?</p><p>Is it possible to maintain a strong faith while stepping outside of our comfort zones?</p><p>How can we intentionally break free from isolation and truly live as salt and light in the world?</p><p>With thought-provoking insights and practical advice, this live episode will inspire you to rethink what it looks like to live authentically for Christ while fostering genuine connections with people from all walks of life. Whether you're deeply rooted in your faith or just starting to question the norms of Christian subculture, this conversation will challenge you to take bold steps toward engaging the world with grace and truth.</p>"
+        }
+      ]
+    },
+    {
+      "id": "16",
       "firstName": "Steve",
       "lastName": "Kim",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/06/Steve-Kim.png",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Steve-Kim_v2.png",
       "title": "Alberta Director",
       "association": "Apologetics Canada",
       "associationUrl": "https://www.apologeticscanada.com/",
-      "bio": "<p>Steve is a follower of Christ with a heart for apologetics. In his early 20s, Steve experienced a faith crisis due to intellectual undernourishment. Through this experience, he has come to see apologetics as the “intellectual care of the soul” and now feels a personal burden to walk with others who may be struggling with doubt and/or seeking sincerely. Steve holds a diploma in Worship Arts and a BA in Biblical Studies from Columbia Bible College in Abbotsford, BC. He has completed a master’s degree in Christian Apologetics through Biola University in La Mirada, CA. He began his PhD studies through the University of the Highlands and Islands in Scotland, exploring any proper limits of human enhancement.</p><p>A native of Korea, Steve now lives in the Edmonton area with his wife, Sharina, and two children, Maya and Tavin.</p>",
+      "bio": "<p>Steve is a follower of Christ with a heart for apologetics which he views as the “intellectual care of the soul.” In his early 20s, he experienced a faith crisis due to intellectual undernourishment. Through this experience, he has come to see apologetics as the “intellectual care of the soul” and now feels a personal burden to walk with others who may be struggling with doubt and/or seeking sincerely. Steve holds a diploma in Worship Arts and a BA in Biblical Studies from Columbia Bible College in Abbotsford, BC. He has completed a master’s degree in Christian Apologetics through Biola University in La Mirada, CA. He began his PhD studies through the University of the Highlands and Islands in Scotland, exploring any proper limits of human enhancement through a dialogue between Friedrich Nietzsche and G. K. Chesterton.</p><p>A native of Korea, Steve now lives in the Edmonton area with his wife, Sharina, and two children, Maya and Tavin. His guilty pleasure includes eating instant ramen noodles late at night and watching YouTube videos on North Korea. (What is Kim Jong-Un up to this time?)</p>",
       "sessions": [
         {
-          "id": "human-rights",
+          "id": "steve-kim-breakout",
           "category": "breakout",
-          "locationId": "Children's Ministry Room 3",
-          "title": "What Does God Have to Do with Human Rights?",
-          "description": "<p>If we are to name the one non-negotiable cultural value in our society, many would quickly champion human rights. Yet, insofar as human rights is invoked as an objective reality in our world, we must make sense of it through our worldview. Is every worldview adequate to the task of providing the sacred bedrock for human rights? Join Steve as he compares and contrasts Christianity with atheism and new age spirituality to see which worldview best accounts for the most important cultural value of our time.</p>"
+          "locationId": "West Court",
+          "title": "Are People Just Language Models?",
+          "description": "<p>From Siri to ChatGPT, conversational AI tools are on the rise. This ability for software to mimic human behaviour is casting doubts on our own humanity. If the rise of macroevolutionary view of living things resulted in a view of humans as “just” another species of animals, the rise of AI is making us wonder whether humans are “just” language models. What is a language model? What are the ethical implications if we are no more than algorithm working through meat machine?</p><p>Join Steve and explore this critical question of our humanity.</p>"
         }
       ]
     },
     {
-      "id": "scott-l",
+      "id": "17",
       "firstName": "Scott",
       "lastName": "Lindsey",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/01/acc24bc_scott-lindsey.png",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Scott-Lindsey_v3.png",
       "title": "Executive Director",
       "association": "Logos",
       "associationUrl": "https://www.logos.com/",
       "bio": "<p>Scott Lindsey is the Executive Director and Ministry Relations Director for Faithlife, the creators of Logos Bible Software. His passion is to equip Christian communicators with the best tools available for the life-long pursuit of God through His word. The world has gone digital and Scott's ministry is to bring people's Bible study and research into the 21st century. Scott teaches at over 20+ conferences per year. He has personally trained and worked with the ministries of Tim Keller, David Jeremiah, Josh McDowell, Carol Kent, John MacArthur, Kay Arthur, and many more.</p>",
       "sessions": [
         {
-          "id": "logos10",
+          "id": "steve-kim-breakout",
           "category": "breakout",
-          "locationId": "Children's Ministry Room 2",
-          "title": "The All-New Logos for Personal Bible Study, Apologetics, and Ministry",
-          "description": "<p>This interactive workshop will demonstrate the use of all-new Logos for personal Bible study, apologetics, counseling, and teaching. What normally takes five to 10 hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p>"
+          "locationId": "West Court",
+          "title": "The NEW Era of Logos is Here",
+          "subtitle": "AI in Logos for Biblical, Theological, and Apologetic Studies",
+          "description": "<p>This interactive workshop will demonstrate the use of all-new Logos for personal Bible study, apologetics, counselling, and teaching. What normally takes five to ten hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p><p><i>“You have never heard a more powerful presentation, of a more powerful tool, in studying the most powerful Book in the world!”</i></p><p>- Dr. Norm Geisler<br>- Christian apologist and philosopher</p>"
         }
       ]
     },
     {
-      "id": "raphael-s",
-      "firstName": "Raphael",
-      "lastName": "Samuel",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/05/Raphael-Samuel.png",
-      "title": "Anesthesiologist",
-      "association": "Apologetics Canada",
-      "associationUrl": "https://www.apologeticscanada.com/",      
-      "bio": "<p>Raphael Samuel is a Christian speaker, apologist, and anesthesiologist in Ontario, Canada. Born in Durban, South Africa, he obtained his medical degree and a master’s degree in medicine there. He further obtained fellowships in anesthesiology from the Colleges of Medicine of South Africa and the Royal College of Physicians and Surgeons of Canada. He is currently completing his master’s degree in Christian Apologetics at Talbot School of Theology, Biola University, in Southern California on a part-time basis.</p><p>Apart from general apologetics, his other areas of interest include pro-life advocacy, human consciousness as evidence for the soul, and the evidence for God from the human body.</p><p>Raphael lives in Hamilton, with his wife, Reshmi, and two sons.</p>",
+      "id": "18",
+      "firstName": "Sam",
+      "lastName": "McLoughlin",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Sam-McLoughlin-v2.png",
+      "title": "Filmmaker",
+      "association": "@sjfinlayfilms",
+      "associationUrl": "https://www.instagram.com/sjfinlayfilms/",
+      "bio": "<p>Sam is an award-winning filmmaker who specializes in sport and cause related content. Locally, he directs sport themed web series, and, internationally, he directs and produces documentaries that spotlight cause related inspiring stories. He has directed and filmed many works, including Pride of Katanga, Boy from Nowhere, and, most notably, Apologetics Canada Ministries' Can I Trust the Bible? series.</p>",
       "sessions": [
         {
-          "id": "medical-analysis",
+          "id": "steve-mcloughlin-breakout",
           "category": "breakout",
-          "locationId": "Social Centre",
-          "title": "A Historical and Medical Analysis of the Death and Resurrection of Jesus",
-          "description": "<p>Christianity is unique amongst all other religions because its central claim is not a spiritual teaching or emotive experience, but a historical event—fixed at a particular time in a specific geographical location. If Jesus really rose from the dead, that changes everything! Join me as we examine the evidence for this event, through the dual lenses of history and medicine.</p>"
+          "locationId": "West Court",
+          "title": "Telling Stories in a Distracted Age",
+          "description": "<p>Sam is an award-winning filmmaker &amp; storyteller & the filmmaker behind <em>Can I Trust the Bible?</em>). As Christians, it can feel impossible to communicate the Gospel to people living in the infinity-stream of content and distraction. However, people are desperately thirsty to hear genuine stories from intentional, proficient storytellers that encourage and equip our hearts: real stories will always stand out. Here, Sam talks about his own story of directing his first feature film &amp; what God taught him through the process. He will share the importance of treasuring story as an art form &amp; learning the art of story structure, method &amp; delivery to learn to better tell our own stories, and God's story.</p>"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "firstName": "Andrew,",
+      "lastName": "Jon, Shauna",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Andrew-Jon-Shauna.png",
+      "title": "The INDOUBT Show",
+      "association": "INDOUBT",
+      "associationUrl": "https://indoubt.com/",
+      "bio": "<p><strong>Andrew Marcus</strong> is a 2x GMA award winning singer/songwriter/worship artist based in Vancouver, British Columbia. His latest album features songs written with Paul Baloche, Leeland Mooring as well as Scott and Ed Cash (We The Kingdom). He is currently the director of INDOUBT, a young adults ministry that exists to bring the gospel to the relevant issues of life and faith that young people face every day. INDOUBT provides resources including a weekly YouTube/Podcast program THE INDOUBT SHOW, where Andrew talks with authors, pastors, and Christian leaders to discuss a variety of subjects including theology, relationships, mental health, sexuality and more.</p><p><strong>Jon Morrison</strong> understands how tough it is to do outstanding marketing and still run a growing business. Located on the West Coast of Canada, Get Clear empowers business leaders from all over the world by giving them the tools they need to make their marketing simple and effective. Unlike other agencies that keep you focused on your company, Get Clear helps you develop the mindset and message to transform prospective customers into raving fans of your brand. As a business leader, husband, and father, Jon knows that true joy and satisfaction only comes when you give up the rights to yourself and pour yourself out in the service to others. Jon holds an MBA from Trinity Western University and an MA from Biola University. He is also an alumnus of Oxford University, a TEDx speaker, and is married to Hayley. They live in Abbotsford, B.C. with their three girls.</p><p><strong>Shauna Goodison</strong> joined Eaglecom with extensive experience in marketing for Christian ministries and media providers and is a natural communicator. Specializing in social media strategy, Shauna guides teams to effectively connect and engage with current and new audiences. Shauna holds an Honors B.A. in Fine Art, Theatre &amp; Film and is currently working on her Masters in Theological Studies. She enjoys movie nights, walking her dog Finlay, creating art, tackling new fitness challenges and being a parent.</p>",
+      "sessions": [
+        {
+          "id": "in-doubt-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Navigating the Digital Abyss",
+          "subtitle": "Are AI and Social Media Beyond Redemption?",
+          "description": "<p>In an age dominated by artificial intelligence and social media, how do we discern between the benefits and the potential pitfalls of these transformative technologies? Are they tools for connection and creativity, or have they become forces driving isolation and misinformation? Join us for our live recording of THE INDOUBT SHOW as host Andrew Marcus sits down with Jon Morrison (owner and lead consultant of Get Clear Consulting) and Shauna Goodison (director of communications at Eaglecom Marketing) explore the spiritual and ethical implications of AI and social media, and dive in to tackle the questions of redemption, responsibility and how Christians can navigate the digital abyss with wisdom, faith and hope.</p>"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "firstName": "Graham",
+      "lastName": "Nickel & Connor Belsher",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Graham-and-Connor_v2.png",
+      "title": "Hosts of Questioning Christianity",
+      "association": "Northview Community Church",
+      "associationUrl": "https://northview.org/",
+      "bio": "<p><b>Graham Nickel<b> is a high school teacher in English and Bible at MEI Secondary and an Elder at Northview Church. He graduated with a BA in Biblical Studies from Columbia Bible College in 1993, a BA in English and History from SFU in 1999, and an MA in Interdisciplinary Humanities from TWU in 2014. He and his wife Sharon have been active members at Northview since 1990; they have four children and enjoy travel, film, music, visual arts as well as frequent meals and celebrations with extended family.</p><p><b>Connor Belsher</b> works at Northview Community Church as the Local Outreach Coordinator and is completing his Master of Divinity. One-half of his role at Northview is helping oversee evangelism programs like Alpha for those curious about Christianity and individuals new to the faith. The other half of the job sees him engaging with the community to identify and address community needs and vulnerable populations like refugee claimants, at-risk children and youth, and those facing food insecurity.  When not working or studying, you'll find him spending time with family and looking after their dog, two cats, and twenty-six chickens. He lives in Abbotsford with his wife, Rachael, and his two daughters.</p>",
+      "sessions": [
+        {
+          "id": "graham-n-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Questioning Christianity",
+          "subtitle": "How to Share Your Faith in a Culture of Questions",
+          "description": "<p>Many have declared that the West is no longer Christian and we live in a post-Christian culture. Church attendance is down, people's familiarity with the Bible and its stories has shrunk, and the Christian ethic is increasingly seen as outdated, harmful, and backward. The shifting culture has meant that churches and Christians have faced more obstacles in sharing their faith with others. Moreover, those in and outside the church have questions, confusion, and obstacles in understanding who God is and what he has done for them.</p><p>In this session, Graham and Connor will be drawing from their own experience in developing and hosting <i>Questioning Christianity</i>, a five-week program dedicated to answering the big questions of life and faith. Having talked with people from all walks of life with all sorts of doubts and questions, this session will seek to help give the right posture and practice for sharing your faith, listening well, and answering people's toughest questions.</p>"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "firstName": "Bryan",
+      "lastName": "Pue",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Bryan-Pue.png",
+      "title": "Co-founder",
+      "association": "The Union Movement",
+      "associationUrl": "https://www.theunionmovement.com/",
+      "bio": "<p>The Union Movement exists to help people find wholeness by presenting a gospel-centred, holistic approach to the topics of identity, sexuality, and relationships. The Union exists to help individuals, churches and church leadership have a biblically grounded perspective on these challenging topics.</p><p>Bryan and Bonnie are the founders of The Union, and are both experienced communicators, bringing life-altering, approachable lessons to audiences of all sizes. Drawing from the teachings of Jesus, the apostolic letters, and Old Testament narratives, Bryan and Bonnie are committed to bringing the truth of Scripture in a culturally relevant, compassionate way so that people's lives can be changed by the Spirit of God. In a world of judgement and despair, Bryan and Bonnie bring a compassionate message focused on the redeeming work of Jesus Christ and His desire for the flourishing of humanity.</p><p>For more info on The Union Movement visit www.theunionmovement.com and follow them on social media @theunionmovement.</p>",
+      "sessions": [
+        {
+          "id": "bryan-p-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Deepfaked Design",
+          "subtitle": "Reclaiming a Biblical View of Identity & Sexuality in the Face of Technology",
+          "description": "<p>In an age where technology is rapidly reshaping human identity, relationships, and even sexuality, how can Christians respond with clarity and conviction? This session will explore the deep metaphysical and theological implications of hypersexualized digital culture—examining how social media, AI, and virtual realities are distorting God’s design for love, embodiment, and human identity.</p>"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "firstName": "Alisha",
+      "lastName": "Stobbe",
+      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Alisha-Stobbe.png",
+      "title": "Registered Clinical Counsellor",
+      "association": "Experience Change Counselling",
+      "associationUrl": "https://www.experiencechange.ca/",
+      "bio": "<p>Alisha Stobbe a clinical counsellor registered with the British Columbia Association of Clinical Counsellors. She holds a Master of Arts degree in Marriage and Family Therapy, with a focus on how change and healing occurs in individuals, couples, and families throughout the lifespan. She earned her Bachelor of Arts in Psychology/Counselling which emphasized the stages of healthy development.</p><p>Alisha’s training comes not only with expertise but also a strong sense of empathy born out of her own experience. Finding healing from trauma, deeper connection to self and others, and increased peace and compassion—this experience has been profoundly impacted by therapy. Her desire as a therapist is to join with her client and their goals for change.</p>",
+      "sessions": [
+        {
+          "id": "alisha-s-breakout",
+          "category": "breakout",
+          "locationId": "West Court",
+          "title": "Anxious Generation",
+          "subtitle": "Practical Advice for Parenting Children in a Digital World",
+          "description": "<p>Online engagement in children and teens is at an all-time high. The once, rare occasion of kids engaging online has now become a daily activity, and it is redefining childhood. Concurrently, we have the highest mental health issues in young people that have ever been recorded in history, impacting how children’s brains are developing, coping and forming relationships. How do we help parent our children's digital engagement in a healthy way? Join Alisha Stobbe, Registered Clinical Counsellor, with years of experience and children of her own, for some practical advice.</p>"
         }
       ]
     }
@@ -425,25 +646,45 @@
       "id": 1,
       "name": "Main Floor",
       "image": {
-        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-1.png",
-        "width": 776,
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-main_floor-2024.png",
+        "width": 454,
         "height": 545
       },
       "markers": [
         {
+          "id": "Room 111",
+          "x": 85,
+          "y": -25
+        },
+        {
+          "id": "Atrium",
+          "x": 228,
+          "y": 461
+        },
+        {
+          "id": "West Court",
+          "x": 70,
+          "y": 70
+        },
+        {
           "id": "Worship Centre",
-          "x": 347,
-          "y": 95
+          "x": 278,
+          "y": 233
         },
         {
-          "id": "Social Centre",
-          "x": 440,
-          "y": 145
+          "id": "Centre Court Foyer",
+          "x": 70,
+          "y": 350
         },
         {
-          "id": "Gymnasium",
-          "x": 540,
-          "y": 160
+          "id": "Centre Court",
+          "x": 60,
+          "y": 270
+        },
+        {
+          "id": "Lounge",
+          "x": 350,
+          "y": 355
         }
       ]
     },
@@ -452,35 +693,122 @@
       "id": 2,
       "name": "Second Floor",
       "image": {
-        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/ontario-floor-2.png",
-        "width": 776,
-        "height": 545
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-second_floor-2024.png",
+        "width": 409,
+        "height": 502
       },
       "markers": [
         {
-          "id": "Children's Chapel",
-          "x": 302,
-          "y": 315
+          "id": "201",
+          "x": 152,
+          "y": 390
         },
         {
-          "id": "Youth Room",
-          "x": 465,
-          "y": 430
+          "id": "203",
+          "x": 105,
+          "y": 390
         },
         {
-          "id": "Children's Ministry Room 3",
-          "x": 445,
-          "y": 85
+          "id": "204",
+          "x": 105,
+          "y": 335
         },
         {
-          "id": "Children's Ministry Room 2",
-          "x": 445,
-          "y": 145
+          "id": "205",
+          "x": 65,
+          "y": 390
         },
         {
-          "id": "Children's Ministry Room 1",
-          "x": 445,
-          "y": 215
+          "id": "206",
+          "x": 65,
+          "y": 335
+        },
+        {
+          "id": "207",
+          "x": 30,
+          "y": 390
+        },
+        {
+          "id": "208",
+          "x": 25,
+          "y": 335
+        },
+        {
+          "id": "213",
+          "x": 157,
+          "y": 227
+        },
+        {
+          "id": "215",
+          "x": 153,
+          "y": 185
+        },
+        {
+          "id": "217",
+          "x": 143,
+          "y": 140
+        },
+        {
+          "id": "219/221",
+          "x": 143,
+          "y": 90
+        },
+        {
+          "id": "223",
+          "x": 143,
+          "y": 25
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": 3,
+      "name": "Basement",
+      "image": {
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-basement-2024.png",
+        "width": 405,
+        "height": 416
+      },
+      "markers": [
+        {
+          "id": "B02",
+          "x": 343,
+          "y": 110
+        },
+        {
+          "id": "B03",
+          "x": 278,
+          "y": 35
+        },
+        {
+          "id": "B04",
+          "x": 343,
+          "y": 45
+        },
+        {
+          "id": "B05",
+          "x": 130,
+          "y": 355
+        },
+        {
+          "id": "B06",
+          "x": 60,
+          "y": 355
+        },
+        {
+          "id": "B07",
+          "x": -5,
+          "y": 355
+        },
+        {
+          "id": "Lower Court",
+          "x": 117,
+          "y": 222
+        },
+        {
+          "id": "Lower Lounge",
+          "x": 279,
+          "y": 92
         }
       ]
     }
