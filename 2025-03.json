@@ -28,7 +28,7 @@
       },
       {
         "endTime": "21:00",
-        "html": "<p><a><b><i>From Ethical to Righteous: Can Artificial Intelligence Be Good?</i></b></a> - Gretchen Huizinga</p>",
+        "html": "<p><a><b><i>From Ethical to Righteous: Can Artificial Intelligence Be Good?</i></b></a> - Gretchen Huizinga, Ph.D</p>",
         "action": {
           "sessionId": "gretchen-h-main"
         }
@@ -116,7 +116,7 @@
       },
       {
         "endTime": "14:00",
-        "content": "<p><a><b><i>Surviving the Culture Wars: What the Church Must Learn From Europe's Failures</i></b></a> - Sebastian Vaduva</p>",
+        "content": "<p><a><b><i>Surviving the Culture Wars: What the Church Must Learn From Europe's Failures</i></b></a> - Sebastian Vaduva, Ph.D</p>",
         "action": {
           "sessionId": "sebastian-v-main"
         }
@@ -219,7 +219,7 @@
     {
       "id": "4",
       "firstName": "Sebastian",
-      "lastName": "Vaduva",
+      "lastName": "Vaduva, PhD",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Sebastian-Vaduva_v2.png",
       "title": "Serial Entrepreneur",
       "association": "sebastianvaduva.com",
@@ -237,7 +237,7 @@
         {
           "id": "sebastian-v-breakout",
           "category": "breakout",
-          "locationId": "Worship Centre",
+          "locationId": "223",
           "title": "Your Profession, Your Pulpit",
           "description": "<p>When it comes to ministry, some Christians believe there is a “sacred-secular divide.” They believe only a selected few have a special calling and are in full-time ministry, while the rest are simple church members with no particular ministry. However, the heroes of the Christian faith portrayed in Hebrews 11 used their professions as their pulpits.</p><p>In this session, Sebastian, a business professor and a serial entrepreneur, will outline the principles of “Monday through Friday ministry” and the benefits of using your profession as your pulpit.</p>"
         }
@@ -255,9 +255,9 @@
         {
           "id": "mike-butler-breakout",
           "category": "breakout",
-          "locationId": "Centre Court Foyer",
-          "title": "Understanding AI Through Christian Ethics",
-          "description": "<p>As artificial intelligence (AI) increasingly affects various aspects of modern life, it is essential for Christians to join the conversation regarding the roles that these technologies should have in the future. This presentation explores the intersection of AI and Christian ethics, examining the fundamental concepts of AI technology with the goal of providing the context required to discuss its moral implications. How do AI technologies work? What is required to create an AI model? How capable or reliable are they? By answering these questions and through examination of recent ethical concerns surrounding AI; we can begin to frame the Christian response for the ethical use of AI and the wider impact it will have on society.</p>"
+          "locationId": "217",
+          "title": "God, Physics, and Our Universe",
+          "description": "<p>Modern science has a long list of accomplishments that have expanded our understanding of the world around us. From smartphones to sending astronauts to the moon; the success of science in the modern era is evident. However, this same science is often presented as being at odds with the concept of God. In this session, we will discuss if this position has any merit and whether our ever growing knowledge of the Universe is compatible with the Christian worldview and the existence of God.</p>"
         }
       ]
     },
@@ -274,7 +274,7 @@
         {
           "id": "gordon-c-breakout",
           "category": "breakout",
-          "locationId": "204",
+          "locationId": "B04",
           "title": "Rethinking Identity Through the Lens of Incarnation",
           "description": "<p>Meta-Educator and Author Dr. Gordon E. Carkner helps us rethink our current identity crisis through the lens of Incarnation. Despite our amazing technology, many people today are experiencing identity angst and confusion. Some are in real crisis, going through 'disintegration' or 'alienation'. We have a strong sense that all is not well in late modern, individualistic, self-construction. Dr. Carkner suggests an alternative route to a more robust identity via the Christian narrative of the Incarnation of Jesus the Christ. This quest for identity involves our response to a call into dialogue from our Creator. It results in a more communal self-concept, where the particularity of each person is valued and protected. Join him in this exciting adventure of unpacking the plausibility of this fresh approach. See also his new book, <a href='https://www.amazon.ca/Towards-Incarnational-Spiritual-Culture-Grounding/dp/B0CTLDCNBV/'>Towards an Incarnational Spiritual Culture: Grounding Our Identity in Christ</a>.</p>"
         }
@@ -293,50 +293,10 @@
         {
           "id": "paul-c-breakout",
           "category": "breakout",
-          "locationId": "205",
+          "locationId": "111",
           "title": "Can Christians Make a Difference?",
           "subtitle": "Learning from William Wilberforce",
           "description": "<p>Can Christians actually make a difference in our world? In this lecture, we will learn from William Wilberforce (1759-1833), a British parliamentarian whose life has inspired many. After becoming a Christian, he began to fight slavery and other destructive practices in his culture. Unlike many others who have tried, he was successful, and slavery was abolished. How did he do it? We will track his strategies and see how they apply today. A heads-up: some of them may surprise and inspire you too.</p>"
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "firstName": "Moses",
-      "lastName": "Chirusha",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Moises-Chirusha_v2.png",
-      "title": "CEO",
-      "association": "Ufanuzi",
-      "associationUrl": "https://www.ufanuzi.com/",
-      "bio": "<p>Moses Chirusha is a visionary entrepreneur and technologist with a deep commitment to leveraging technology and innovation to address challenges faced by communities in Africa, particularly in education, agriculture, and the financial sector. Born into a family of 12 Children, Moses’ parents worked as church planters and subsistence farmers in the Congo. From an early age Moses loved God and technology. He founded his tech company Ufanuzi at the remarkable age of 15, with a mission to make technology accessible and ensure that everyone, regardless of their background, has the tools and opportunity to succeed.</p><p>After observing the severe food shortages subsistence farmers face in Malawi, Moses founded Fruitful Mart, a distribution company that supports subsistence farmers by helping them access high-end markets via an e-commerce platform, and providing essential training, technology, and microloans for farmers. His work extends beyond just creating a marketplace; he also envisions using artificial intelligence to equip farmers with the knowledge they need to improve their yields and livelihoods.</p>",
-      "sessions": [
-        {
-          "id": "moses-c-breakout",
-          "category": "breakout",
-          "locationId": "208",
-          "title": "Out of Poverty",
-          "subtitle": "My Journey of Faith, Technology, and Transformation in Africa",
-          "description": "<p>Growing up in the Democratic Republic of Congo, Moses Chirusha experienced firsthand the struggles of poverty and the lack of opportunities. Yet, through his Christian faith, unwavering determination, and belief in the power of technology, he embarked on a journey that would not only transform his life but also the lives of countless others in his community.</p><p>In this inspiring talk, Moses shares his personal story of rising from humble beginnings to becoming a Christian leader leveraging technology for social good. He will explore how his faith has been the cornerstone of his journey, guiding him through adversity and shaping a vision for transformation across Africa.</p><p>Moses will discuss how initiatives like Fruitful Mart and Ufanuzi are not just about providing market access or technological tools but about creating pathways to survival and purpose. By aligning his work with biblical principles of stewardship, justice, and compassion, Moses demonstrates how technology can be a force for transformation in the hands of those driven by a love for God and their community.</p>"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "firstName": "Johan",
-      "lastName": "Erasmus",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Johan-Erasmus_v2.1.png",
-      "title": "Co-Founder",
-      "association": "Betereinders",
-      "associationUrl": "https://betereinders.co.za/",
-      "bio": "<p>Johan holds degrees in history, philosophy and theology and is currently pursuing a PhD, focussing on race and reconciliation. He is the co-founder of Dialogue Community Church, a multi-cultural church in Pretoria and Betereinders, an NGO focusing on social development and reconciliation in South Africa. The activities of Betereinders have been covered by national and international media and they recently won the Andrew Murray-Desmond Tutu Prize for Unity, Reconciliation and Justice. Johan is married to Loraine, a film lecturer, and they have two small boys, Louw and Eben.</p>",
-      "sessions": [
-        {
-          "id": "johan-e-breakout",
-          "category": "breakout",
-          "locationId": "B03",
-          "title": "Age of Rage",
-          "subtitle": "Resentment Engineering and the Breakdown of Race Relations",
-          "description": "<p>In these last days we are seeing blacks against whites, republicans against democrats, feminists against masculists and many other groups equally convinced of the reality of their oppression and the righteousness of their anger. Despite the irreligiousness of the West we are seeing congregants going on collective witch-hunts and publicly hanging sinners for all to see. On a daily basis something is going viral and someone is being cancelled. All of this is happening in a time when we are more connected than we've ever been and yet we are strangely very divided. How did the world get this mad this quickly and how do we escape this vortex of rage?</p>"
         }
       ]
     },
@@ -351,7 +311,7 @@
         {
           "id": "quentin-genuis-breakout",
           "category": "breakout",
-          "locationId": "B02",
+          "locationId": "Atrium",
           "title": "Addiction, Freedom, and the Life of the Church",
           "description": "<p>Addiction is a crisis of our time, with devastating consequences to our society and within our churches. This talk engages the question of what addiction is, when considered from a Christian worldview. We will also discuss ways that Christian communities can be places where addiction is healed through a cooperative effort of the affected person, communities of friendship, and the work of the Holy Spirit.</p>"
         }
@@ -368,7 +328,7 @@
         {
           "id": "ewan-goligher-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "Worship Centre",
           "title": "How Should We Then Die?",
           "subtitle": "A Christian Response to Physician-Assisted Death",
           "description": "<p><b>“My times are in thy hands.”</b></p><p>As more people accept the practice of physician-assisted death, Christians must decide whether to embrace or oppose it. Is it ethical for physicians to assist patients in hastening their own death? Should Christians who are facing death accept the offer of an assisted death?</p><p>In this session, physician Ewan Goligher draws from general revelation and Scripture to persuade and equip Christians to oppose physician-assisted death. Euthanasia presumes what it is like to be dead. But for Christians, death is not the end. Christ Jesus has destroyed death and brought life and immortality through the gospel.</p>"
@@ -388,7 +348,7 @@
         {
           "id": "rick-goossen-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "219/221",
           "title": "Woke Antidote",
           "subtitle": "10 Practical Suggestions to Lead in Today's Post-Truth Culture",
           "description": "<p>Thinking. It’s a useful process. Yet, rigorous thinking, indeed critical thinking, is increasingly under assault today. In light of the power of woke media, inconvenient facts get steamrolled. Western institutions, particularly the Christian church, are targeted. Even in halls of higher learning, facts are trounced by emotivism. Those who disagree are then marginalized as “denialists.” Trial is by social media and public ostracization is swift. I will provide 10 practical suggestions on how to lead in today’s post-truth culture.</p>"
@@ -408,7 +368,7 @@
         {
           "id": "phil-hills-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "205",
           "title": "The Multiverse and the Theory That Explains it All",
           "subtitle": "Reaching the Minds and Hearts of our Students Through Meta Modernism",
           "description": "<p>When Phil began his career there was a lot of talk about our students being a product of the post-modern age. That is not longer true. Today’s students live in a virtual multiverse. Because of this they believe many ideas are true, but what distinguishes them from their relativistic elders is that they also believe some things are true for everyone at all times. Come to this session to understand how they can hold to these contradictions. Discover their deepest desires in this world. More than this, learn how to use this emerging worldview as a powerful springboard to gospel centred thinking and living.</p>"
@@ -428,7 +388,7 @@
         {
           "id": "troy-lydiate-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "Lounge",
           "title": "Bursting the Bubble",
           "subtitle": "Bible College Survival Kit",
           "description": "<p>Join us for an exciting live recording of THE INDOUBT SHOW as we tackle the pressing topic of the “Christian Bubble.” In this breakout session, we will be exploring what it means to live within the insulated world of Christian culture. Whether it is bible college, the christian workplace or church culture in general, director and host of THE INDOUBT SHOW Andrew Marcus and special guest Troy Lydiate (Creative Director and Host of the AC Podcast) will dive into this discussion answer questions like:</p><p>What is the “Christian Bubble,” and how does it form?</p><p>Is it possible to maintain a strong faith while stepping outside of our comfort zones?</p><p>How can we intentionally break free from isolation and truly live as salt and light in the world?</p><p>With thought-provoking insights and practical advice, this live episode will inspire you to rethink what it looks like to live authentically for Christ while fostering genuine connections with people from all walks of life. Whether you're deeply rooted in your faith or just starting to question the norms of Christian subculture, this conversation will challenge you to take bold steps toward engaging the world with grace and truth.</p>"
@@ -465,7 +425,7 @@
         {
           "id": "steve-kim-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "B06",
           "title": "Are People Just Language Models?",
           "description": "<p>From Siri to ChatGPT, conversational AI tools are on the rise. This ability for software to mimic human behaviour is casting doubts on our own humanity. If the rise of macroevolutionary view of living things resulted in a view of humans as “just” another species of animals, the rise of AI is making us wonder whether humans are “just” language models. What is a language model? What are the ethical implications if we are no more than algorithm working through meat machine?</p><p>Join Steve and explore this critical question of our humanity.</p>"
         }
@@ -484,7 +444,7 @@
         {
           "id": "steve-kim-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "Centre Court Foyer",
           "title": "The NEW Era of Logos is Here",
           "subtitle": "AI in Logos for Biblical, Theological, and Apologetic Studies",
           "description": "<p>This interactive workshop will demonstrate the use of all-new Logos for personal Bible study, apologetics, counselling, and teaching. What normally takes five to ten hours of flipping through paper books or randomly searching the Internet for theological answers and Bible study can be done in seconds – and the depth of study is unparalleled! Stop gambling with Google for theological answers!</p><p><i>“You have never heard a more powerful presentation, of a more powerful tool, in studying the most powerful Book in the world!”</i></p><p>- Dr. Norm Geisler<br>- Christian apologist and philosopher</p>"
@@ -497,14 +457,14 @@
       "lastName": "McLoughlin",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Sam-McLoughlin-v2.png",
       "title": "Filmmaker",
-      "association": "@sjfinlayfilms",
-      "associationUrl": "https://www.instagram.com/sjfinlayfilms/",
+      "association": "@sjfinlay",
+      "associationUrl": "https://www.instagram.com/sjfinlay/",
       "bio": "<p>Sam is an award-winning filmmaker who specializes in sport and cause related content. Locally, he directs sport themed web series, and, internationally, he directs and produces documentaries that spotlight cause related inspiring stories. He has directed and filmed many works, including Pride of Katanga, Boy from Nowhere, and, most notably, Apologetics Canada Ministries' Can I Trust the Bible? series.</p>",
       "sessions": [
         {
           "id": "steve-mcloughlin-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "B05",
           "title": "Telling Stories in a Distracted Age",
           "description": "<p>Sam is an award-winning filmmaker &amp; storyteller & the filmmaker behind <em>Can I Trust the Bible?</em>). As Christians, it can feel impossible to communicate the Gospel to people living in the infinity-stream of content and distraction. However, people are desperately thirsty to hear genuine stories from intentional, proficient storytellers that encourage and equip our hearts: real stories will always stand out. Here, Sam talks about his own story of directing his first feature film &amp; what God taught him through the process. He will share the importance of treasuring story as an art form &amp; learning the art of story structure, method &amp; delivery to learn to better tell our own stories, and God's story.</p>"
         }
@@ -523,7 +483,7 @@
         {
           "id": "in-doubt-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "Lounge",
           "title": "Navigating the Digital Abyss",
           "subtitle": "Are AI and Social Media Beyond Redemption?",
           "description": "<p>In an age dominated by artificial intelligence and social media, how do we discern between the benefits and the potential pitfalls of these transformative technologies? Are they tools for connection and creativity, or have they become forces driving isolation and misinformation? Join us for our live recording of THE INDOUBT SHOW as host Andrew Marcus sits down with Jon Morrison (owner and lead consultant of Get Clear Consulting) and Shauna Goodison (director of communications at Eaglecom Marketing) explore the spiritual and ethical implications of AI and social media, and dive in to tackle the questions of redemption, responsibility and how Christians can navigate the digital abyss with wisdom, faith and hope.</p>"
@@ -532,8 +492,8 @@
     },
     {
       "id": "20",
-      "firstName": "Graham",
-      "lastName": "Nickel & Connor Belsher",
+      "firstName": "Graham Nickel",
+      "lastName": "& Connor Belsher",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Graham-and-Connor_v2.png",
       "title": "Hosts of Questioning Christianity",
       "association": "Northview Community Church",
@@ -543,7 +503,7 @@
         {
           "id": "graham-n-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "201",
           "title": "Questioning Christianity",
           "subtitle": "How to Share Your Faith in a Culture of Questions",
           "description": "<p>Many have declared that the West is no longer Christian and we live in a post-Christian culture. Church attendance is down, people's familiarity with the Bible and its stories has shrunk, and the Christian ethic is increasingly seen as outdated, harmful, and backward. The shifting culture has meant that churches and Christians have faced more obstacles in sharing their faith with others. Moreover, those in and outside the church have questions, confusion, and obstacles in understanding who God is and what he has done for them.</p><p>In this session, Graham and Connor will be drawing from their own experience in developing and hosting <i>Questioning Christianity</i>, a five-week program dedicated to answering the big questions of life and faith. Having talked with people from all walks of life with all sorts of doubts and questions, this session will seek to help give the right posture and practice for sharing your faith, listening well, and answering people's toughest questions.</p>"
@@ -563,7 +523,7 @@
         {
           "id": "bryan-p-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "B02",
           "title": "Deepfaked Design",
           "subtitle": "Reclaiming a Biblical View of Identity & Sexuality in the Face of Technology",
           "description": "<p>In an age where technology is rapidly reshaping human identity, relationships, and even sexuality, how can Christians respond with clarity and conviction? This session will explore the deep metaphysical and theological implications of hypersexualized digital culture—examining how social media, AI, and virtual realities are distorting God’s design for love, embodiment, and human identity.</p>"
@@ -583,7 +543,7 @@
         {
           "id": "alisha-s-breakout",
           "category": "breakout",
-          "locationId": "West Court",
+          "locationId": "Lower Court",
           "title": "Anxious Generation",
           "subtitle": "Practical Advice for Parenting Children in a Digital World",
           "description": "<p>Online engagement in children and teens is at an all-time high. The once, rare occasion of kids engaging online has now become a daily activity, and it is redefining childhood. Concurrently, we have the highest mental health issues in young people that have ever been recorded in history, impacting how children’s brains are developing, coping and forming relationships. How do we help parent our children's digital engagement in a healthy way? Join Alisha Stobbe, Registered Clinical Counsellor, with years of experience and children of her own, for some practical advice.</p>"
@@ -594,11 +554,11 @@
   "additionalInfo": [
     {
       "heading": "WiFi Access",
-      "body": "<h1>WiFi Access</h1><p>FREE public WiFi is available at the conference.<br/><br/>Network Name: <b>GT Guest</b><br/>Password: <b>Guest2021</b>.</p>"
+      "body": "<h1>WiFi Access</h1><p>FREE public WiFi is available at the conference.<br/><br/>Network Name: <b>Northview.Public</b></p>"
     },
     {
       "heading": "Got Questions?",
-      "body": "<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via <b>Slido.com</b>. Join the session with the code <b>#1903 004</b>.</p>"
+      "body": "<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via <b>Slido.com</b>. Join the session with the code <b>#3936 933</b>.</p>"
     },
     {
       "heading": "The AC Podcast",
@@ -628,7 +588,7 @@
       "action": {
         "label": "AC Online Store",
         "icon": "shopping-cart",
-        "url": "https://store.apologeticscanada.com/products/acc24-on-recordings"
+        "url": "https://store.apologeticscanada.com/products/pre-order-apologetics-canada-conference-2025-bc-recordings"
       }
     },
     {
@@ -652,7 +612,7 @@
       },
       "markers": [
         {
-          "id": "Room 111",
+          "id": "111",
           "x": 85,
           "y": -25
         },
