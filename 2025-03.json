@@ -653,7 +653,7 @@
       "id": 2,
       "name": "Second Floor",
       "image": {
-        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-second_floor-2024.png",
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-second_floor-2025.png",
         "width": 409,
         "height": 502
       },
@@ -725,7 +725,7 @@
       "id": 3,
       "name": "Basement",
       "image": {
-        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-basement-2024.png",
+        "url": "https://apologeticscanada.github.io/conference-app-content/images/maps/northview-basement-2025.png",
         "width": 405,
         "height": 416
       },
