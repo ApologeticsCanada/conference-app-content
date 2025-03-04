@@ -58,7 +58,7 @@
       {
         "startTime": "08:00",
         "endTime": "10:15",
-        "title": "Main Session 2"
+        "title": "Main Session\u00A02"
       },
       {
         "endTime": "10:15",
@@ -100,7 +100,7 @@
       {
         "startTime": "12:25",
         "endTime": "13:05",
-        "title": "Breakout Session 2",
+        "title": "Breakout Session\u00A02",
         "subtitle": "(Choose a topic of interest)",
         "actionParams": { "initialPage": 1 }
       },
@@ -388,7 +388,7 @@
         {
           "id": "troy-lydiate-breakout",
           "category": "breakout",
-          "locationId": "Lounge (Session 1)",
+          "locationId": "Lounge (Session\u00A01)",
           "title": "Bursting the Bubble",
           "subtitle": "Bible College Survival Kit",
           "description": "<p>Join us for an exciting live recording of THE INDOUBT SHOW as we tackle the pressing topic of the “Christian Bubble.” In this breakout session, we will be exploring what it means to live within the insulated world of Christian culture. Whether it is bible college, the christian workplace or church culture in general, director and host of THE INDOUBT SHOW Andrew Marcus and special guest Troy Lydiate (Creative Director and Host of the AC Podcast) will dive into this discussion answer questions like:</p><p>What is the “Christian Bubble,” and how does it form?</p><p>Is it possible to maintain a strong faith while stepping outside of our comfort zones?</p><p>How can we intentionally break free from isolation and truly live as salt and light in the world?</p><p>With thought-provoking insights and practical advice, this live episode will inspire you to rethink what it looks like to live authentically for Christ while fostering genuine connections with people from all walks of life. Whether you're deeply rooted in your faith or just starting to question the norms of Christian subculture, this conversation will challenge you to take bold steps toward engaging the world with grace and truth.</p>"
@@ -405,7 +405,7 @@
         {
           "id": "ruslan-kd-breakout",
           "category": "breakout",
-          "locationId": "West Court (Session 2)",
+          "locationId": "West Court (Session\u00A02)",
           "title": "Bursting the Bubble",
           "subtitle": "Bible College Survival Kit",
           "description": "<p>Join us for an exciting live recording of THE INDOUBT SHOW as we tackle the pressing topic of the “Christian Bubble.” In this breakout session, we will be exploring what it means to live within the insulated world of Christian culture. Whether it is bible college, the christian workplace or church culture in general, director and host of THE INDOUBT SHOW Andrew Marcus and special guest Troy Lydiate (Creative Director and Host of the AC Podcast) will dive into this discussion answer questions like:</p><p>What is the “Christian Bubble,” and how does it form?</p><p>Is it possible to maintain a strong faith while stepping outside of our comfort zones?</p><p>How can we intentionally break free from isolation and truly live as salt and light in the world?</p><p>With thought-provoking insights and practical advice, this live episode will inspire you to rethink what it looks like to live authentically for Christ while fostering genuine connections with people from all walks of life. Whether you're deeply rooted in your faith or just starting to question the norms of Christian subculture, this conversation will challenge you to take bold steps toward engaging the world with grace and truth.</p>"
@@ -425,7 +425,7 @@
         {
           "id": "steve-kim-breakout",
           "category": "breakout",
-          "locationId": "West Court (Session 1)",
+          "locationId": ["West Court (Session\u00A01)", "217 (Session\u00A02)"],
           "title": "Are People Just Language Models?",
           "description": "<p>From Siri to ChatGPT, conversational AI tools are on the rise. This ability for software to mimic human behaviour is casting doubts on our own humanity. If the rise of macroevolutionary view of living things resulted in a view of humans as “just” another species of animals, the rise of AI is making us wonder whether humans are “just” language models. What is a language model? What are the ethical implications if we are no more than algorithm working through meat machine?</p><p>Join Steve and explore this critical question of our humanity.</p>"
         }
@@ -433,25 +433,6 @@
     },
     {
       "id": "17",
-      "firstName": "Steve",
-      "lastName": "Kim",
-      "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2024/10/Steve-Kim_v2.png",
-      "title": "Alberta Director",
-      "association": "Apologetics Canada",
-      "associationUrl": "https://www.apologeticscanada.com/",
-      "bio": "<p>Steve is a follower of Christ with a heart for apologetics which he views as the “intellectual care of the soul.” In his early 20s, he experienced a faith crisis due to intellectual undernourishment. Through this experience, he has come to see apologetics as the “intellectual care of the soul” and now feels a personal burden to walk with others who may be struggling with doubt and/or seeking sincerely. Steve holds a diploma in Worship Arts and a BA in Biblical Studies from Columbia Bible College in Abbotsford, BC. He has completed a master’s degree in Christian Apologetics through Biola University in La Mirada, CA. He began his PhD studies through the University of the Highlands and Islands in Scotland, exploring any proper limits of human enhancement through a dialogue between Friedrich Nietzsche and G. K. Chesterton.</p><p>A native of Korea, Steve now lives in the Edmonton area with his wife, Sharina, and two children, Maya and Tavin. His guilty pleasure includes eating instant ramen noodles late at night and watching YouTube videos on North Korea. (What is Kim Jong-Un up to this time?)</p>",
-      "sessions": [
-        {
-          "id": "steve-kim-breakout",
-          "category": "breakout",
-          "locationId": "217",
-          "title": "Are People Just Language Models?",
-          "description": "<p>From Siri to ChatGPT, conversational AI tools are on the rise. This ability for software to mimic human behaviour is casting doubts on our own humanity. If the rise of macroevolutionary view of living things resulted in a view of humans as “just” another species of animals, the rise of AI is making us wonder whether humans are “just” language models. What is a language model? What are the ethical implications if we are no more than algorithm working through meat machine?</p><p>Join Steve and explore this critical question of our humanity.</p>"
-        }
-      ]
-    },
-    {
-      "id": "18",
       "firstName": "Scott",
       "lastName": "Lindsey",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Scott-Lindsey_v3.png",
@@ -471,7 +452,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "18",
       "firstName": "Sam",
       "lastName": "McLoughlin",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Sam-McLoughlin-v2.png",
@@ -490,7 +471,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "19",
       "firstName": "Andrew,",
       "lastName": "Jon, Shauna",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Andrew-Jon-Shauna.png",
@@ -502,7 +483,7 @@
         {
           "id": "in-doubt-breakout",
           "category": "breakout",
-          "locationId": "Lounge (Session 2)",
+          "locationId": "Lounge (Session\u00A02)",
           "title": "Navigating the Digital Abyss",
           "subtitle": "Are AI and Social Media Beyond Redemption?",
           "description": "<p>In an age dominated by artificial intelligence and social media, how do we discern between the benefits and the potential pitfalls of these transformative technologies? Are they tools for connection and creativity, or have they become forces driving isolation and misinformation? Join us for our live recording of THE INDOUBT SHOW as host Andrew Marcus sits down with Jon Morrison (owner and lead consultant of Get Clear Consulting) and Shauna Goodison (director of communications at Eaglecom Marketing) explore the spiritual and ethical implications of AI and social media, and dive in to tackle the questions of redemption, responsibility and how Christians can navigate the digital abyss with wisdom, faith and hope.</p>"
@@ -510,7 +491,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "20",
       "firstName": "Graham Nickel",
       "lastName": "& Connor Belsher",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Graham-and-Connor_v2.png",
@@ -530,7 +511,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "21",
       "firstName": "Bryan",
       "lastName": "Pue",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Bryan-Pue.png",
@@ -550,7 +531,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "22",
       "firstName": "Alisha",
       "lastName": "Stobbe",
       "photoUrl": "https://apologeticscanada.com/wp-content/uploads/2025/01/Alisha-Stobbe.png",
@@ -641,12 +622,12 @@
           "y": 461
         },
         {
-          "id": "West Court (Session 1)",
+          "id": "West Court (Session\u00A01)",
           "x": 60,
           "y": 70
         },
         {
-          "id": "West Court (Session 2)",
+          "id": "West Court (Session\u00A02)",
           "x": 80,
           "y": 70
         },
@@ -666,12 +647,12 @@
           "y": 270
         },
         {
-          "id": "Lounge (Session 1)",
+          "id": "Lounge (Session\u00A01)",
           "x": 340,
           "y": 355
-        }
+        },
         {
-          "id": "Lounge (Session 2)",
+          "id": "Lounge (Session\u00A02)",
           "x": 360,
           "y": 355
         }
@@ -733,7 +714,7 @@
           "y": 185
         },
         {
-          "id": "217",
+          "id": "217 (Session\u00A02)",
           "x": 143,
           "y": 140
         },
