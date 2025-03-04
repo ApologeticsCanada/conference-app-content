@@ -95,7 +95,7 @@
         "startTime": "11:20",
         "endTime": "12:25",
         "title": "Lunch",
-        "subtitle": "(Food truck will be available on-site)"
+        "subtitle": "(Food trucks will be available on-site)"
       },
       {
         "startTime": "12:25",
@@ -623,13 +623,13 @@
         },
         {
           "id": "West Court (Session\u00A01)",
-          "x": 40,
-          "y": 40
+          "x": 60,
+          "y": 70
         },
         {
           "id": "West Court (Session\u00A02)",
-          "x": 70,
-          "y": 100
+          "x": 80,
+          "y": 70
         },
         {
           "id": "Worship Centre",
@@ -648,13 +648,13 @@
         },
         {
           "id": "Lounge (Session\u00A01)",
-          "x": 350,
-          "y": 315
+          "x": 340,
+          "y": 355
         },
         {
           "id": "Lounge (Session\u00A02)",
-          "x": 335,
-          "y": 370
+          "x": 360,
+          "y": 355
         }
       ]
     },
