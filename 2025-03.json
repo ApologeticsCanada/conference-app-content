@@ -623,13 +623,13 @@
         },
         {
           "id": "West Court (Session\u00A01)",
-          "x": 60,
-          "y": 70
+          "x": 40,
+          "y": 40
         },
         {
           "id": "West Court (Session\u00A02)",
-          "x": 80,
-          "y": 70
+          "x": 70,
+          "y": 100
         },
         {
           "id": "Worship Centre",
@@ -648,13 +648,13 @@
         },
         {
           "id": "Lounge (Session\u00A01)",
-          "x": 340,
-          "y": 355
+          "x": 350,
+          "y": 315
         },
         {
           "id": "Lounge (Session\u00A02)",
-          "x": 360,
-          "y": 355
+          "x": 335,
+          "y": 370
         }
       ]
     },
