@@ -296,7 +296,7 @@
             {
                "id":"bronwyn-g-breakout",
                "category":"breakout",
-               "locationId":"B04",
+               "locationId":"B02",
                "title":"The Psychological Impact of 'MAiD'",
                "subtitle":"Another Great Reason NOT to Succumb",
                "description":"<p>'After the procedure had happened, it took years for me to stop having panic attacks, and my husband often had to wake me up in the middle of my night terrors to get me to stop screaming. I mostly don’t remember the nightmares, but there are a few that stick with me.' This is what one BC woman shared with Bronwyn after, out of respect for her father, she attended his death by euthanasia. Is this a normal response when a beloved family member chooses to die by euthanasia? Based on the popular cultural narrative, it is disrespectful to question a family member or friend's decision to choose euthanasia. We are told that this is a person's private choice, and family members don't need to be legally informed. But does this trajectory fit with what it means to be human? How might over 90,000 people choosing to be euthanized affect our nation's morale? Come learn about parallels and differences between the effects of suicide on a family and the effects of euthanasia and consider how you can use this powerful argument to dissuade people from MAiD, by reminding them that their choices always affect others because of our fundamental interconnectedness as humans.</p>"
@@ -337,7 +337,7 @@
                "id":"greg-h-breakout",
                "category":"breakout",
                "locationId":"111",
-               "title":"Eugenics and the Local Church:",
+               "title":"Eugenics and the Local Church",
                "subtitle":"The Apostle Paul's Critique of Ableism",
                "description":"<p>In light of the humanitarian atrocities of the 20th century—including but not limited to The Holocaust—Christians have historically been leery of the implications of eugenics and its 'promises' of ending that which is 'undesirable' in humanity. This session applies the Christian impulse of opposing eugenics on the human body to the temptation within the North American Evangelical church to impose eugenics on the body of Christ, the local church. Through engagement with the Apostle Paul's Corinthian discourse, this session will make a case for the full belonging and co-labouring of persons of all dis/abilities within the body of Christ in order for Christ's 'power to be made perfect' (2 Cor.12:8) in the local church.</p>"
             }
@@ -404,26 +404,6 @@
          ]
       },
       {
-         "id":"12",
-         "firstName":"Josh",
-         "lastName":"Nadeau",
-         "photoUrl":"https://apologeticscanada.com/wp-content/uploads/2025/11/ACC-26-Josh-Nadeau-v2.png",
-         "title":"Writer & Illustrator",
-         "association":"Sword and Pencil",
-         "associationUrl":"https://sword-and-pencil.myshopify.com/",
-         "bio":"<p>Josh Nadeau is a writer and illustrator from West Coast Canada. He is husband to Aislinn, father to Ransom and Cassian. He has his undergraduate in Physics, his masters in theological studies, and a doctorate from the school of hard knocks.</p><p>Follow him on Instagram (@swordandpencil) and check out his website (https://sword-and-pencil.myshopify.com/) to learn more about his work.</p>",
-         "sessions":[
-            {
-               "id":"josh-n-breakout",
-               "category":"breakout",
-               "locationId":"Atrium",
-               "title":"Beauty as an Apologetics",
-               "subtitle":"How Art and Storytelling Participates in the Healing of the World",
-               "description":"<p>In a world starved for meaning and dulled by utility, Beauty remains the oldest and most compelling Christian apologetic. This talk explores how art and storytelling reveal the Beauty of Christ to reach the heart in ways argument never can. Josh invites listeners to become participate in the healing of souls, culture, and the world itself through art and story.</p>"
-            }
-         ]
-      },
-      {
          "id":"13",
          "firstName":"John",
          "lastName":"Neufeld, DMin",
@@ -437,9 +417,9 @@
                "id":"john-n-breakout",
                "category":"breakout",
                "locationId":"Centre Court Foyer",
-               "title":"The Multiverse and the Theory That Explains it All",
-               "subtitle":"Reaching the Minds and Hearts of our Students Through Meta Modernism",
-               "description":"<p>When Phil began his career there was a lot of talk about our students being a product of the post-modern age. That is not longer true. Today’s students live in a virtual multiverse. Because of this they believe many ideas are true, but what distinguishes them from their relativistic elders is that they also believe some things are true for everyone at all times. Come to this session to understand how they can hold to these contradictions. Discover their deepest desires in this world. More than this, learn how to use this emerging worldview as a powerful springboard to gospel centred thinking and living.</p>"
+               "title":"Guard the Gospel",
+               "subtitle":"How the Five Solas Defended What Was Entrusted (2 Tim 1:14)",
+               "description":"<p>When Paul urged Timothy to 'guard the good deposit,' he knew the gospel would face constant threats of distortion. This talk explores how the five Solas—Sola Scriptura, Sola Fide, Sola Gratia, Solus Christus, and Soli Deo Gloria—emerged as the Reformation's answer to centuries of theological drift, calling the Church back to Scripture alone, faith alone, grace alone, Christ alone, and glory to God alone. Discover how these principles continue guarding the gospel today.</p>"
             }
          ]
       }    
