@@ -104,6 +104,7 @@
             "endTime":"13:05",
             "title":"Breakout Session 2",
             "subtitle":"(Choose a topic of interest)",
+            "action":"speakers",
             "actionParams":{
                "initialPage":1
             }
