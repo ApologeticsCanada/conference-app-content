@@ -435,6 +435,15 @@
          "body":"<h1>Got Questions?</h1><p>During the main session Friday night and the first main session Saturday morning, you can submit your questions via <b>Slido.com</b>. Join the session with the code <b>#2169 027</b>.</p>"
       },
       {
+         "heading":"Don't Miss This Special Logos Deal!",
+         "body":"<h1>FREE 60-day Logos Trial & Gift</h1><p>Take your Bible study to the next level! Logos is the most powerful Bible research tool that anyone can use. Sign up before <b>March 13</b> to receive a FREE 60 day trial access, and the 9-hour <i>How We Got the OT & NT</i> course bundle by Dr. Michael Heiser (<strike>495 USD</strike> Yours <b>FREE</b>).</p>",
+         "action":{
+            "label":"Sign Up Now",
+            "icon":null,
+            "url":"https://logos.com/ac"
+         }
+      },
+      {
          "heading":"The AC Podcast",
          "body":"<h1>The AC Podcast</h1><p>Apologetics Canada has a weekly podcast program where Andy, Steve, Wes, and Troy offer a healthy dose of Christian perspective on cultural issues of our day. Search for The AC Podcast on your favourite podcast platform!</p>",
          "action":{
